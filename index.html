@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Asia Strategy Desk</title>
+<meta name="description" content="Live Asia/EM market tape, news by theme and interview prep for an equity strategy role.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div>
+      <h1>Asia Strategy Desk</h1>
+      <p class="sub" id="updated">Loading…</p>
+    </div>
+    <button class="ghost" id="refresh" type="button">Reload data</button>
+  </div>
+  <nav class="wrap tabs" id="tabs" role="tablist" aria-label="Sections">
+    <button role="tab" data-tab="today">Today</button>
+    <button role="tab" data-tab="view">House view</button>
+    <button role="tab" data-tab="numbers">Numbers &amp; earnings</button>
+    <button role="tab" data-tab="calendar">Calendar</button>
+    <button role="tab" data-tab="drill">Drill</button>
+    <button role="tab" data-tab="notes">Pitches &amp; log</button>
+  </nav>
+</header>
+
+<main class="wrap">
+  <p class="banner" id="banner" hidden></p>
+
+  <section id="tab-today" class="panel" hidden>
+    <div class="grid-2">
+      <div>
+        <h2>Moves to explain</h2>
+        <div id="movers" class="cards"></div>
+      </div>
+      <div>
+        <h2>Next up</h2>
+        <div id="next-events" class="cards"></div>
+      </div>
+    </div>
+    <h2>Market tape</h2>
+    <div id="market"></div>
+    <h2>News by theme</h2>
+    <div class="toolbar">
+      <div class="chips" id="theme-chips"></div>
+      <input type="search" id="news-search" placeholder="Filter headlines…" aria-label="Filter headlines">
+    </div>
+    <div class="chips small" id="country-chips"></div>
+    <ul class="news" id="news"></ul>
+  </section>
+
+  <section id="tab-view" class="panel" hidden>
+    <div class="card">
+      <h2 class="flush">30-second pitch</h2>
+      <p id="pitch"></p>
+      <ul id="rules" class="plain"></ul>
+    </div>
+    <p class="muted" id="targets"></p>
+    <h2>Country calls</h2>
+    <div class="toolbar"><div class="chips" id="rating-chips"></div></div>
+    <div id="countries" class="cards wide"></div>
+    <h2>Sector calls</h2>
+    <div class="table-wrap"><table id="sectors"></table></div>
+    <h2>Strategy toolkit</h2>
+    <div class="table-wrap"><table id="toolkit"></table></div>
+    <h2>Team and product</h2>
+    <div id="team" class="cards"></div>
+  </section>
+
+  <section id="tab-numbers" class="panel" hidden>
+    <h2>Numbers card <span class="muted tiny">Friday 20 Nov close vs live</span></h2>
+    <div class="table-wrap"><table id="numbers"></table></div>
+    <h2>Rates, FX, commodities <span class="muted tiny">20 Nov reference levels</span></h2>
+    <div class="table-wrap"><table id="rates"></table></div>
+    <h2>Recent earnings read-across</h2>
+    <p class="muted" id="earn-takeaway"></p>
+    <div class="table-wrap"><table id="earnings"></table></div>
+  </section>
+
+  <section id="tab-calendar" class="panel" hidden>
+    <h2>Upcoming events</h2>
+    <div id="events" class="cards wide"></div>
+    <h2>2026 timeline</h2>
+    <div class="table-wrap"><table id="timeline"></table></div>
+  </section>
+
+  <section id="tab-drill" class="panel" hidden>
+    <div class="toolbar">
+      <div class="chips" id="drill-cats"></div>
+      <label class="check"><input type="checkbox" id="drill-review"> Review pile only</label>
+    </div>
+    <div class="card drill">
+      <p class="muted tiny" id="drill-meta"></p>
+      <h3 id="drill-q"></h3>
+      <div id="drill-a" class="answer" hidden></div>
+      <div class="row">
+        <button type="button" id="drill-show">Show answer</button>
+        <button type="button" class="ghost" id="drill-prev">Previous</button>
+        <button type="button" class="ghost" id="drill-next">Next</button>
+        <button type="button" class="ghost" id="drill-shuffle">Shuffle</button>
+      </div>
+      <div class="row" id="drill-grade" hidden>
+        <button type="button" class="good" id="drill-know">Know it</button>
+        <button type="button" class="warn" id="drill-review-btn">Review again</button>
+      </div>
+    </div>
+    <p class="muted tiny" id="drill-stats"></p>
+    <h2>Questions to ask them</h2>
+    <ul id="ask" class="plain"></ul>
+    <p class="card" id="close"></p>
+  </section>
+
+  <section id="tab-notes" class="panel" hidden>
+    <h2>Daily log <span class="muted tiny">saved in this browser only</span></h2>
+    <div class="card">
+      <label class="field">Date <input type="date" id="log-date"></label>
+      <label class="field">View on today's tape <textarea id="log-view" rows="2"></textarea></label>
+      <label class="field">Evidence 1 <textarea id="log-e1" rows="2"></textarea></label>
+      <label class="field">Evidence 2 <textarea id="log-e2" rows="2"></textarea></label>
+      <label class="field">Risk / what changes my mind <textarea id="log-risk" rows="2"></textarea></label>
+      <p class="muted tiny" id="log-status"></p>
+    </div>
+    <h2>Stock pitches</h2>
+    <div id="pitches" class="stack"></div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p>Quotes from Yahoo Finance and headlines from Google News, refreshed by a scheduled job; delayed and for study only. Prep content from your own notes — verify every number before quoting it.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

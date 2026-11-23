@@ -1,0 +1,198 @@
+{
+  "asOf": "2026-11-22",
+  "source": "MS_APAC_Equity_Strategy_Master_Prep.docx (house view set on 12 Nov prices, 2027 Outlook 15 Nov 2026)",
+  "pitch": "I'm a fundamental analyst — China Internet at UBS through Millennium's EQAP — with markets and flows exposure from trading internships. I want to turn earnings, valuation and positioning into country and sector calls across Asia/EM, rather than stay inside one coverage list.",
+  "rules": [
+    "Every answer: view first → 2 pieces of evidence → risk + what would change my mind. 60–90 seconds, then stop.",
+    "Daniel = macro/quant (rates, FX, regimes, earnings dashboards). Kristal = flows/positioning with a fundamental background. Link macro → flows → earnings in every answer.",
+    "Don't overclaim trading (internships only). Don't quote levels from memory — use the numbers card. Don't trash the house view — test it."
+  ],
+  "team": [
+    {"name": "Jonathan Garner", "role": "Chief Asia & EM Equity Strategist, Singapore", "note": "Owns the house view; first author on most outlooks/updates"},
+    {"name": "Daniel Blake", "role": "Equity Strategist, Singapore; quant/macro", "note": "Led 23 Oct 'Conviction into Earnings'; wrote the Aug Australia UW / Korea–Thailand upgrade"},
+    {"name": "Kristal Ji", "role": "Equity Strategist; flows & positioning", "note": "Flows & Positioning Guides, China/HK monthly tracker, Brazil/Mexico flows; BluePaper co-author"},
+    {"name": "Laura Wang", "role": "Chief China Equity Strategist, HK", "note": "China 2027 Outlook: EW, A > H, UW Internet"},
+    {"name": "Others", "role": "Economists and country strategists", "note": "Chetan Ahya (Asia econ), Robin Xing (China econ), Sho Nakazawa (Japan), Ridham Desai (India), Kelly Kim (Korea)"}
+  ],
+  "targets": "End-2027 targets: TOPIX 4,800 (16x 2028 EPS) • MSCI APxJ 920 • MSCI EM 1,760 • MSCI China 76 • CSI 300 4,550 • HSI 26,000 / HSCEI 8,700. MS EM EPS 2027 +17% vs consensus +29%; TOPIX +13% vs +12%.",
+  "countries": [
+    {"rating": "OW", "name": "Japan", "tag": "Top pick", "points": [
+      "Reflation + ROE + governance (buybacks, cross-shareholding unwind) + NISA household inflows; Takaichi >¥370tn investment agenda to FY2040",
+      "Earnings breadth: banks, semis/equip, cap goods, autos ≈ 70% of CY27 TOPIX EPS growth; revision breadth +35%; TOPIX 14.1x = 10y avg",
+      "BoJ 1.25%, 18 Dec hike to 1.50% base case; USD/JPY ~159–160, intervention warnings; weak JPY lifts overseas earnings"
+    ], "risks": "Faster BoJ, sharper AI slowdown, higher oil", "names": "SMFG, Tokio Marine, Mitsubishi Heavy, Kajima, Keyence, Murata, Omron, Sony, Toray, Asics, Sanrio, Morinaga Milk, NRI, TIS"},
+    {"rating": "OW", "name": "Korea", "tag": "Tested by AI sell-off", "points": [
+      "ROE 22.4%, net margin 30% (records); P/E 3.7x (1st percentile); 12mf EPS +50%; Renaissance: ROE ~8% → 14%+, payout to 50–60% by 2030",
+      "Revision breadth −7% (MS: 'temporary'); repeated retail-leverage unwinds (Jun, Jul, Oct, Nov); KOSPI at 9-month low on 20 Nov",
+      "BoK 3.00%; 26 Nov hike to 3.25% expected — is it the peak? (MS econ: 3.50% in 1Q27)"
+    ], "risks": "2028 AI-capex contraction, memory catching up, China export rules, retail leverage", "names": "SK hynix, Samsung, Hanwha Aerospace, Hana Financial"},
+    {"rating": "OW", "name": "Singapore", "tag": "", "points": [
+      "Preferred in ASEAN since Aug; capital-market reform supporting ROE; SGD resilient",
+      "ROE 11.7% (85th pctl) but P/E 15.5x (83rd pctl) — among the most expensive; RSI 24, oversold"
+    ], "risks": "Expensive valuation, breadth −6%", "names": "SGX"},
+    {"rating": "OW", "name": "Thailand", "tag": "Upgraded 3 Aug", "points": [
+      "Upgraded with Korea, funded by Australia UW; revision breadth +16%, best in ASEAN",
+      "P/E 15.5x (44th pctl), yield 3.4%; energy security + 'Asia powering AI' power gap (~44GW US gap in 2028)"
+    ], "risks": "Upgrade rationale note not in folder", "names": "PTTEP, Gulf Development"},
+    {"rating": "EW", "name": "Taiwan", "tag": "", "points": [
+      "P/B 5.5x (93rd pctl), P/S 3.3x ≈ US level; but breadth +35%, EPS +36%, ROE 20.2%",
+      "Korea + Taiwan > 80% of EM 2027 EPS growth; TSMC curbs on Chinese designers; >US$24bn Nov foreign outflow"
+    ], "risks": "Concentration, China-order curbs", "names": "TSMC, Delta, Wiwynn"},
+    {"rating": "EW", "name": "China", "tag": "A > H", "points": [
+      "Deflation persists, policy incremental (LPR 3.0%/3.5% held 18 months); MS 2027 EPS +8% vs consensus ~14%; P/E 9.7x, cheapest major market",
+      "Supports: exports, National Team ~US$75bn buying; prefer A-shares (frontier industries 47% of A-share market)",
+      "Team: OW Materials, Industrials, self-sufficiency IT, Financials, Healthcare; UW Internet, Property, Autos, Staples"
+    ], "risks": "Earnings cuts, tight offshore liquidity, US–China tech friction; Busan consensus expires 10 Jan 2027; CEWC mid-Dec", "names": "Zijin, NARI, Zhongtian, Sinoma, NAURA, BoC, Ping An, Sinopec, Shenhua, Hengrui, Alibaba, WH Group"},
+    {"rating": "EW", "name": "Hong Kong", "tag": "", "points": [
+      "Tight offshore liquidity; southbound ~US$53bn YTD, only 36% of 2025 pace; US hikes feed through the peg",
+      "Breadth +3%, P/E 14.2x; HSI 26,000 / HSCEI 8,700 targets"
+    ], "risks": "Fed path (Dec + Mar hikes, terminal 4.25–4.5%)", "names": "HKEX, Standard Chartered, Jardine, HKT, Swire Properties"},
+    {"rating": "EW", "name": "India", "tag": "Others upgraded", "points": [
+      "Market = anti-AI trade: record US$12bn foreign buying in Nov, Nifty +11% in Nov; Sep-qtr top-50 profits strongest in 4+ years",
+      "MS waits: Brent ~US$93 not 'established' lower; RBI still hiking. Upgrade trigger = sustained oil decline + clear end of hikes; catalyst = possible LTCG abolition for foreigners"
+    ], "risks": "Oil, BoP needs under strong USD", "names": "ICICI Bank, L&T (not covered)"},
+    {"rating": "EW", "name": "Malaysia", "tag": "", "points": ["P/E 13.0x (3rd pctl), ROE 11.3% (98th), breadth +4%; no written rationale in MS text"], "risks": "", "names": ""},
+    {"rating": "EW", "name": "Brazil", "tag": "Cut from OW", "points": ["Crowded: most overweight GEM markets for active long-only funds; ROE 19.3%, P/E 7.7x, yield 5.9%, −26% over 1m"], "risks": "Reason for cut not in folder", "names": "Petrobras, Embraer"},
+    {"rating": "EW", "name": "Mexico", "tag": "", "points": ["Breadth −15%, RSI 78; crowded long-only position"], "risks": "", "names": "Prologis Mexico"},
+    {"rating": "UW", "name": "Australia", "tag": "Funded Korea/Thailand", "points": [
+      "RBA 4.85% after split hike (75bp this year); first contractionary federal budget since FY18; housing tax changes",
+      "Revision breadth −19% yet P/E 18.6x (85th pctl), P/B 2.8x (99th); prefer Energy & Materials, avoid Financials/Consumer"
+    ], "risks": "RBA pause 8 Dec", "names": "BHP"},
+    {"rating": "UW", "name": "Indonesia", "tag": "Value but stay UW", "points": [
+      "BI surprise +25bp to 6.00% (18 Nov) to defend rupiah; BoP funding needs under strong USD; youth unemployment",
+      "Cheap — P/E 7.7x (2nd pctl), yield 9.7%, YTD −49% — 'value re-established, stay UW'. Trigger: rupiah stabilisation + revisions turning"
+    ], "risks": "Contrarian temptation", "names": "—"},
+    {"rating": "UW", "name": "Philippines", "tag": "", "points": ["No written rationale. Breadth −7%, −14% over 3m, P/E 9.4x (2nd pctl)"], "risks": "", "names": ""},
+    {"rating": "UW", "name": "EEMEA", "tag": "", "points": ["South Africa: BoP funding needs under strong USD; prefer Greece and Hungary within EEMEA"], "risks": "", "names": ""}
+  ],
+  "sectors": [
+    {"rating": "OW", "name": "Energy", "why": "Energy security; breadth +18%, P/E 7.9x, yield 4.6%", "pref": "PTTEP, Petrobras, Sinopec, Shenhua; Gulf Development (power)"},
+    {"rating": "OW", "name": "Industrials", "why": "ROE 16.4% (92nd pctl), biggest 4-yr ROE gain; P/E 9.1x; EPS +23%", "pref": "Factory automation and E&C: Keyence, Kajima, L&T, NARI, Zhongtian; defence: Hanwha Aerospace, MHI"},
+    {"rating": "OW", "name": "Materials", "why": "ROE now 3rd; 12mf EPS +101%; P/E 10.4x", "pref": "Copper/aluminium first; upstream miners over smelters: Zijin, BHP, Sinoma, Toray"},
+    {"rating": "OW (sel.)", "name": "Semis", "why": "ROE 41.9%, EPS +45%, P/E 8.8x (1st pctl)", "pref": "Valuation support over high-multiple AI hardware: SK hynix, Samsung, TSMC, NAURA"},
+    {"rating": "OW (sel.)", "name": "Tech Hardware", "why": "ROE 21.9%, EPS +61%, P/E 5.0x", "pref": "AI power/thermal and servers: Delta, Wiwynn; components: Murata"},
+    {"rating": "EW", "name": "Financials", "why": "Being added back. ROE 12.8%, P/B 1.2x, yield 3.7%", "pref": "Hana, ICICI, SGX, HKEX, StanChart, BoC, Ping An, SMFG, Tokio Marine; avoid Australian banks"},
+    {"rating": "UW (adding)", "name": "Consumer", "why": "Food/energy inflation, higher rates, youth unemployment; oil decline → adding some back", "pref": "Cash-generative, cheap, high-yield: WH Group, Jardine, Asics, Sanrio, Alibaba"},
+    {"rating": "UW", "name": "Autos", "why": "Breadth −21%, YTD −17%", "pref": ""},
+    {"rating": "UW", "name": "Software & Services", "why": "P/E 21.0x, YTD −29%; AI disruption", "pref": "Japan exceptions: NRI, TIS"}
+  ],
+  "numbers": [
+    {"name": "TOPIX", "fri": "3,670", "ytd": "+7%", "target": "4,800", "targetNum": 4800, "context": "−3.7% Fri; Japan top pick, upside +22% → +31%", "symbol": null},
+    {"name": "Nikkei", "fri": "56,400", "friNum": 56400, "ytd": "+11%", "target": "—", "context": "−4.8% Fri; yen and exporters, BoJ 18 Dec", "symbol": "^N225"},
+    {"name": "KOSPI", "fri": "4,870", "friNum": 4870, "ytd": "+16%", "target": "—", "context": "−5.2% Fri, 9-month low; Korea OW tested, BoK Thu", "symbol": "^KS11"},
+    {"name": "TAIEX", "fri": "36,000", "friNum": 36000, "ytd": "+24%", "target": "—", "context": "−6.6% Fri, 7-month low; Taiwan EW: validated or now cheap?", "symbol": "^TWII"},
+    {"name": "Hang Seng", "fri": "22,400", "friNum": 22400, "ytd": "−13%", "target": "26,000", "targetNum": 26000, "context": "A vs H; China EW", "symbol": "^HSI"},
+    {"name": "HSCEI", "fri": "7,550", "friNum": 7550, "ytd": "—", "target": "8,700", "targetNum": 8700, "context": "A vs H; China EW", "symbol": "^HSCE"},
+    {"name": "CSI 300", "fri": "3,950", "ytd": "−15%", "target": "4,550", "targetNum": 4550, "context": "−2.3% Fri; A > H preference", "symbol": null},
+    {"name": "Nifty 50", "fri": "25,800", "friNum": 25800, "ytd": "−1%", "target": "—", "context": "+0.5% Fri; +11% in Nov; India EW debate", "symbol": "^NSEI"},
+    {"name": "MSCI EM", "fri": "1,420", "ytd": "—", "target": "1,760", "targetNum": 1760, "context": "MS EM EPS 27 +17% vs cons +29%", "symbol": null},
+    {"name": "S&P 500", "fri": "6,910", "friNum": 6910, "ytd": "+1%", "target": "—", "context": "ASX −1.6%, STI −2.0% Fri", "symbol": "^GSPC"}
+  ],
+  "rates": [
+    {"name": "Fed", "value": "3.75–4.00%", "next": "Hike expected 9 Dec; MS: Dec + Mar, terminal 4.25–4.5%"},
+    {"name": "BoJ", "value": "1.25%", "next": "Likely hike to 1.50% on 18 Dec; yen and Japan exporters"},
+    {"name": "BoK", "value": "3.00%", "next": "Leaning to 3.25% on 26 Nov — peak or not?"},
+    {"name": "PBoC LPR / RBI / RBA", "value": "3.00% 1Y, 3.50% 5Y / 5.50% / 4.85%", "next": "PBoC held 18 months; RBA pause (Australia UW)"},
+    {"name": "US 10Y / JGB 10Y", "value": "~4.95% / ~2.8%", "next": "Real yields = late-cycle trigger"},
+    {"name": "USD/JPY / DXY", "value": "~159 / ~104", "next": "Intervention risk; MS USD/JPY 155–165, DXY 105 in 2027"},
+    {"name": "USD/CNY / KRW / IDR", "value": "~6.67 / ~1,336 / 18,245", "next": "Won holding up better than KOSPI; BI defending"},
+    {"name": "Brent / Gold", "value": "~$93 / ~$3,520", "next": "Brent: India trigger, Japan risk, MS $75 in 4Q27"}
+  ],
+  "earnings": [
+    {"co": "SK hynix", "date": "28 Oct", "result": "Record: rev ₩104.6tn, OP ₩83.3tn (80% margin); beat ~6.5%/8.3%", "guide": "DRAM/HBM booked through 2029; ~₩100tn 2026 shareholder returns incl. ₩20tn buyback", "reaction": "Lifted Korean chips", "read": "Supports Korea OW and memory valuation-support case; payout fits Value-up"},
+    {"co": "Samsung", "date": "29 Oct", "result": "Record: rev ₩195.3tn, OP ₩107.4tn; in line", "guide": "~99% of OP from memory; phones/TV loss-making on memory costs", "reaction": "−4.1% Seoul", "read": "Memory strong; device margins squeezed (UW consumer hardware)"},
+    {"co": "TSMC", "date": "15 Oct", "result": "Beat: rev $46.72bn vs $45.41bn; EPS $4.60 vs $4.42; HPC 68%", "guide": "Capex $60–64bn; 2026–28 'even more significantly higher'; GM 65–67%", "reaction": "ADR −2%", "read": "Fundamentals fine; Taiwan EW is valuation + China-order curbs"},
+    {"co": "SMIC", "date": "12 Nov", "result": "Beat: rev $3.19bn (+34%)", "guide": "Q4 GM 26–28% (down); capex cut", "reaction": "HK +4.7%", "read": "China self-sufficiency theme"},
+    {"co": "Alibaba", "date": "19 Nov", "result": "Rev beat; adj. EPS miss (RMB 8.10 vs 11.16)", "guide": "Cloud +53%; capex +60%; flagged US compute-export rules", "reaction": "ADR +3.6%", "read": "On China focus list despite Internet UW — stock-level AI-cloud call"},
+    {"co": "Tencent", "date": "18 Nov", "result": "Rev miss; net profit beat", "guide": "Capex +225%; FCF −RMB 69bn", "reaction": "HK −6.1%", "read": "AI capex eating FCF — why FCF is the style anchor"},
+    {"co": "Baidu", "date": "16 Nov", "result": "Rev narrow beat (−1% y/y); EPS ~17% miss", "guide": "AI cloud infra +94%; ads weak", "reaction": "−1.75% pre", "read": "Legacy ads drag vs AI growth"},
+    {"co": "JD.com", "date": "17 Nov", "result": "Slight miss on rev and profit", "guide": "Consumption print", "reaction": "−6%", "read": "Weak China consumer supports UW consumer/staples"},
+    {"co": "PDD", "date": "19 Nov", "result": "Rev miss (flat y/y); EPS beat", "guide": "Temu −12% on EU parcel duty", "reaction": "+6–9%", "read": "Tariff/trade friction hits consumer-goods exporters"},
+    {"co": "Nvidia", "date": "17 Nov", "result": "Beat: rev $115.8bn vs $109.1bn; DC $107.6bn (+110%)", "guide": "Q4 ~$130bn vs $125.1bn, no China DC; Huang resigned 12 Nov", "reaction": "+3% AH; did not stop sell-off", "read": "Demand intact; sentiment shock hit Korea/Taiwan hardest"},
+    {"co": "Microsoft", "date": "28 Oct", "result": "Beat; Azure +48%", "guide": "Capex $45.2bn (below est.); CY27 ~$170bn", "reaction": "+4%", "read": "Capex rising at a controlled pace"},
+    {"co": "Alphabet", "date": "28 Oct", "result": "First miss in ~4 yrs", "guide": "2027 capex >$300bn; FCF −$9.1bn", "reaction": "−10%", "read": "Market punishing capex that burns FCF"},
+    {"co": "Amazon", "date": "29 Oct", "result": "Slight miss; AWS beat", "guide": "Capex $77.3bn vs $58.7bn est.; TTM FCF −$42.4bn", "reaction": "−6%", "read": "Capex up, FCF negative — funding debate"},
+    {"co": "Meta", "date": "21 Oct", "result": "Rev beat (+26%)", "guide": "2026 capex floor $135–145bn; FCF −$2.1bn", "reaction": "−7%", "read": "Same"},
+    {"co": "AMD", "date": "3 Nov", "result": "Beat; DC +97%", "guide": "Q4 ~$17bn vs $16.2bn", "reaction": "+8% AH; later short report", "read": "AI demand broadening beyond Nvidia"}
+  ],
+  "earningsTakeaway": "Capex still rising (supports capex OW) but FCF negative at Alphabet, Amazon, Meta, Tencent — the market rewards AI demand with cash conversion (Nvidia, SK hynix, Microsoft) and punishes cash burn. Hence FCF as the 2027 style anchor.",
+  "events": [
+    {"date": "2026-11-24", "label": "Xiaomi Q3 results (19:30 HKT)", "test": "China EW / consumer tech"},
+    {"date": "2026-11-26", "label": "BoK decision — hike to 3.25% expected; is it the peak?", "test": "Korea OW"},
+    {"date": "2026-11-30", "label": "MSCI Nov review effective (adds Zhongji Innolight H, LIC, Nan Ya PCB)", "test": "Passive flows China/India/Taiwan"},
+    {"date": "2026-12-04", "label": "US Nov payrolls (confirm)", "test": "Fed path → USD, EM"},
+    {"date": "2026-12-08", "label": "RBA — pause at 4.85% expected (11:30 HKT)", "test": "Australia UW"},
+    {"date": "2026-12-09", "label": "FOMC — 25bp hike priced; new dots vs MS terminal 4.25–4.5%", "test": "USD, EM, HK, India"},
+    {"date": "2026-12-10", "label": "US Nov CPI (21:30 HKT)", "test": "Dec–Mar hike debate"},
+    {"date": "2026-12-11", "label": "China Central Economic Work Conference (~10–12 Dec, TBC)", "test": "China EW — growth target, property, consumption"},
+    {"date": "2026-12-16", "label": "Bank Indonesia (after 18 Nov hike to 6.00%)", "test": "Indonesia UW"},
+    {"date": "2026-12-17", "label": "ECB, BoE", "test": "Global tightening pulse"},
+    {"date": "2026-12-18", "label": "BoJ — hike to 1.50% base case; USD/JPY ~160", "test": "Japan OW"},
+    {"date": "2027-01-10", "label": "Busan US–China consensus expires", "test": "China, Taiwan, Korea"},
+    {"date": "2027-01-15", "label": "TSMC Q4 results (usually mid-month, TBC)", "test": "Taiwan / AI"}
+  ],
+  "qa": [
+    {"cat": "Live debate", "q": "After last week, is the Korea OW still right?", "a": "VIEW: Yes, hold OW Korea — a price/positioning shock, not yet an earnings break. Taiwan EW looks right; valuation caution protected it.\nEARNINGS: SK hynix Q3 OP ₩83.3tn, 80% margin, DRAM/HBM booked through 2029; Samsung OP ₩107.4tn; Nvidia Q4 guide ~$130bn vs $125bn; hyperscaler capex still rising (MSFT CY27 ~$170bn, Alphabet 2027 >$300bn).\nPRICE: Korea at 3.7x P/E (1st percentile) — the market prices an earnings collapse; MS base case is capex growth slowing in 2028 (≈100% → 60% → 14%), not contraction.\nPOSITIONING: a fourth leverage/foreign-selling flush (Jun, Jul, Oct, Nov); past flushes were entry points — but Korea + Taiwan are >80% of EM 2027 EPS growth, so concentration risk is real.\nCHANGES MY MIND: revision breadth turning sharply negative; hyperscaler capex cuts; BBB spreads from ~100bp toward 200bp; memory contract prices rolling; real yields above Oct's ~3% TIPS high; BoK signalling 3.50%.\nBOOK: prefer memory (valuation support) over high-multiple AI hardware; Japan breadth as ballast; India/China are the stated rotation destinations in an AI bear case."},
+    {"cat": "Live debate", "q": "Is the AI capex cycle rolling over?", "a": "Spend still rises; growth slows; the bottleneck moves from chips to land, power and shells (US power gap ~44GW in 2028). The market now pays for cash-flow conversion, not revenue: Nvidia/AMD/MSFT up on results; Alphabet (−10%), Amazon (−6%), Meta (−7%), Tencent (−6%) punished for FCF burn. That is why FCF is the 2027 style anchor."},
+    {"cat": "House view", "q": "Give me the house view in 60 seconds.", "a": "OW Japan (top pick), Korea, Singapore, Thailand; EW China/HK, Taiwan, India, LatAm; UW Australia, Indonesia, Philippines, EEMEA. OW capex sectors, UW consumer/autos/software, adding back consumer and financials. USD-positive, weak yen, FCF as style anchor.\nBullish on price, below consensus on EM earnings (+17% vs +29%). Risks: real yields, AI capex funding, oil."},
+    {"cat": "House view", "q": "Why is Japan the top pick rather than an AI bet?", "a": "Earnings breadth: banks, semis, capital goods, autos each ~2pp of TOPIX EPS growth; Takaichi investment; governance; 14.1x = 10-yr average; 4,800 = 16x 2028 EPS, not a melt-up. Risks: faster BoJ, sharper AI slowdown, higher oil."},
+    {"cat": "House view", "q": "Why is a weak yen good for Japan equities?", "a": "Translation lifts overseas profits; exporter margins widen; index is exporter-heavy so revisions rise; signals easy policy. Offsets: imported inflation, intervention near 160, BoJ hiking to 1.50% on 18 Dec. The deeper story is nominal growth, ROE and lower cost of capital — banks and domestic reformers offset a yen rally."},
+    {"cat": "House view", "q": "China EW — what would change it?", "a": "Positive: CEWC prioritising household demand/property; revisions at or above the 8% MS base; tech curbs stop tightening. Negative: new property slump, more export controls, Busan cliff 10 Jan. Prefer A-shares: National Team (~US$75bn in Oct), cheaper buyback funding, frontier industries 47% of A-shares."},
+    {"cat": "House view", "q": "Why A-shares when Goldman upgraded Hong Kong?", "a": "HK headwinds: Fed-driven offshore liquidity via the peg, southbound only 36% of 2025 pace, internet competition (ByteDance). It's a stock-picking market, not an index breakout."},
+    {"cat": "House view", "q": "China Internet is UW but Alibaba is on the list — explain.", "a": "Sector call = weak consumer + capex eating FCF + US rules. Stock call = AI-cloud monetisation. Same logic as Tencent's FCF ex-prepayments (+RMB16.9bn): separate investment from deterioration."},
+    {"cat": "House view", "q": "Capex vs consumer — and why add consumer back now?", "a": "Asia capex US$11tn → 16tn by 2030; AI/semis only ~20% of the increment, so the cycle is broad. Consumer hurt by inflation, rates, youth unemployment. Oil's fall from ~$116 to ~$93 eases that, so add cheap, high-yield, cash-generative consumer (WH Group 7.5% yield)."},
+    {"cat": "Macro", "q": "What is late cycle, and are we there?", "a": "Late cycle: peak margins, high rates, tightening credit, narrowing leadership. Bear evidence: EPS 60% and margins 42% above trend, Fed hiking. Rebuttals: Shiller 19x, BBB ~100bp, AI capex still funded, healthy balance sheets.\nMy view: late-cycle on margins, not on valuation or credit → prefer FCF and capex winners; change view if spreads widen or capex is cut."},
+    {"cat": "Macro", "q": "How can you be max OW equities while the Fed hikes and the dollar strengthens?", "a": "The bull case is earnings, not easier conditions. Dollar and 4.25–4.5% terminal are already in the HK-liquidity and EM-financing caveats. Favours cash-flow compounders and Japan over high-carry, high-external-financing EM (Indonesia, India, South Africa)."},
+    {"cat": "Process", "q": "How do you use flows and positioning?", "a": "Timing and risk layer, not a thesis. Use at extremes with revisions: Korea margin debt + foreign-selling flushes vs intact earnings = entry; crowded GEM long-only in Brazil/Mexico = asymmetry against."},
+    {"cat": "Process", "q": "How would you decide OW vs UW on a country?", "a": "Score revisions, valuation vs history, ROE trend, macro sensitivity (USD, rates, oil), positioning. OW when ≥3 align; go contrarian when positioning is extreme and revisions turn. Express through a focus list that matches the view."},
+    {"cat": "Process", "q": "Stress-test the house view.", "a": "(1) AI capex bear: Korea/Taiwan earnings — EM EPS <5% if they stall. (2) Real yields/credit break funding. (3) Oil re-escalation via Hormuz. (4) BoJ overtightening / yen spike. (5) Busan cliff. For each, name the indicator and the switch (e.g. rotate to India/China, cut semis to EW)."},
+    {"cat": "Differ", "q": "Where would you differ from the house? (India)", "a": "Case for more: record US$12bn foreign buying in Nov after >US$60bn selling since Sep 2024; USD EPS turning up; JPM ~US$115bn if funds return to benchmark. House waits: Brent ~$93 not 'established' lower; RBI still hiking; may be a tactical anti-AI rotation.\nMy line: tactically constructive as a hedge to Korea/Taiwan concentration; structural upgrade only once USD EPS revisions stay positive and oil holds lower."},
+    {"cat": "Differ", "q": "Where would you differ? (Indonesia / Taiwan)", "a": "Indonesia: contrarian temptation (P/E 7.7x, yield 9.7%, −49% YTD), but BI hiking to defend rupiah — agree UW; trigger is rupiah stabilisation + revisions turning.\nTaiwan: agree EW — P/S 3.3x still ~US level, China curbs, >US$24bn outflows; revisit if valuations reach Korea-like discounts while revisions hold +35%."},
+    {"cat": "Differ", "q": "How does MS compare with other banks?", "a": "Goldman: OW HK/H-shares, MW A-shares, upgraded India; Fed cuts late 2027, softer USD; APxJ 19% USD return. UBS: EM EPS +27%, MSCI EM 1,780 (vs MS 1,760 on +17% EPS). HSBC upgraded India 9 Nov. Differences come from earnings assumptions and the dollar/Fed path. Don't mix wealth notes with sell-side books."},
+    {"cat": "Fit", "q": "Why equity strategy / why move from research to strategy?", "a": "China Internet taught me bottom-up: what drives a P&L and where consensus is wrong. But my stocks were often driven by things the model couldn't see — US–China rules, southbound flows, Fed-driven HK liquidity, why a cheap stock stays cheap. Strategy answers where the next dollar should go across countries, sectors and styles, and why now."},
+    {"cat": "Fit", "q": "Why combine fundamentals and flows?", "a": "Fundamentals say what a market is worth; flows and positioning say when it moves. Korea 2026: earnings and reform were real, but retail leverage drove the June, July and October crashes — flushes, not thesis breaks. Positioning has limited predictive power alone; it matters at extremes, alongside revisions."},
+    {"cat": "Fit", "q": "Why stay sell-side?", "a": "Breadth: long-only, hedge funds and corporates each ask different questions — raw material for a strategist. Coverage of all Asia/EM. Buy-side careers depend heavily on one team's P&L; I'd rather build a franchise on research quality and client trust, which broker votes reward."},
+    {"cat": "Fit", "q": "Why you?", "a": "China Internet sits on 2027's two biggest debates: AI capex vs FCF (Tencent capex +225%, FCF −RMB69bn) and the weak China consumer (JD miss, PDD flat) — I read those prints from inside. Both sides: sell-side fundamentals plus markets exposure. Speed: automation of data pulls. Asia fit: Singaporean, native English and Mandarin, worked in HK."},
+    {"cat": "Fit", "q": "Tell me about a time you disagreed with consensus.", "a": "[Insert real China Internet example: the call, the evidence, the outcome, the lesson — 90s]"},
+    {"cat": "Fit", "q": "What would you do in your first six months?", "a": "Learn the dashboards and data; own a recurring product (flows tracker, chart pack); one original piece (e.g. China Internet capex-vs-FCF screen across Asia); join client calls to learn what long-only vs HF ask."}
+  ],
+  "toolkit": [
+    {"tool": "Market dashboard", "what": "Scores each market on valuation (P/E, P/B, P/S, yield vs 10-yr percentile), revisions, growth, ROE, technicals", "reading": "Basis of every OW/UW; Korea P/E 1st pctl, Australia P/B 99th"},
+    {"tool": "Revision breadth", "what": "(Upgrades − downgrades) / total, 3m avg. Markets peak 3–6 months before the earnings peak", "reading": "Japan +35%, Taiwan +35%, Korea −7%, China −15%, Australia −19%"},
+    {"tool": "Contribution analysis", "what": "Index weight × EPS growth → who drives the aggregate", "reading": "Korea + Taiwan >80% of EM 2027 EPS growth"},
+    {"tool": "EPS/margins vs trend", "what": "12mf EPS vs 10-yr linear trend", "reading": "APAC EPS 60% above trend (37% in Nov 2007); margins 42% above (44% in Jun 2007)"},
+    {"tool": "Shiller P/E", "what": "Price / 10-yr average real earnings; regression to 10-yr returns", "reading": "APAC 19x (<half 1990s peak) → ~10% p.a. implied"},
+    {"tool": "P/B vs ROE", "what": "Fair P/B ≈ (ROE − g)/(COE − g); re-rating = ROE up and/or COE down", "reading": "Korea: ROE 8% → 14%+, reform lowers COE"},
+    {"tool": "Real yields and credit", "what": "Sharp real-yield rises and spread widening end bull markets", "reading": "TIPS hit 3% early Oct then eased; BBB ~100bp vs >200bp in 2022"},
+    {"tool": "Flows and positioning", "what": "EPFR flows, foreign net buying, GEM active over/underweights, HF gross/net, retail margin, southbound, National Team", "reading": "Brazil/Mexico most-owned by GEM active; Korea margin >₩34tn (Oct); southbound US$53bn YTD; limited predictive power alone — use at extremes"},
+    {"tool": "Style screens", "what": "FCF yield, FCF/EV", "reading": "FCF = 2027 anchor"},
+    {"tool": "Targets/scenarios", "what": "Target = forward EPS × target multiple; bull/base/bear", "reading": "TOPIX 4,800 = 16x 2028 EPS; bull 6,000 / bear 3,000"}
+  ],
+  "pitches": [
+    {"name": "Long J&T Global Express (1519.HK)", "setup": "TP HK$14, +61% from HK$8.685 (20 Nov close)", "thesis": "#1 third-party express carrier in SEA (38% share), #5 in China. 1) SEA e-commerce penetration, FY26 parcel guide +50–55%. 2) China anti-involution supports pricing. 3) Chinese cross-border platforms going global (TikTok Shop, Temu, SHEIN); LatAm guide +100–120%. ~10.7x forward vs 8–9x peers, ~27% EPS growth.", "risks": "Strategic-holder sell-down; platforms cutting free-shipping subsidies; SPX moving Indonesian volume in-house; SEA revenue/parcel −10%", "check": "SEA volume is Indonesia-heavy and MS is UW Indonesia — say so first, then argue it's a structural parcel story. Signpost: revenue per parcel and SPX share."},
+    {"name": "Long Grab (GRAB)", "setup": "TP US$4 (25x 2027E EPS US$0.16), +45% from US$2.75; SL US$2.5", "thesis": "Deliveries 53%, rides 33%, fintech 13%. Low app penetration in Indonesia/Philippines/Vietnam. Atome: profitable consumer lending, could add US$250–300mn. ~US$900mn buyback in 12 months; Taiwan blocked foodpanda frees US$600m. ~17x 2027E vs ASEAN internet 18–19x.", "risks": "Atome credit quality, fuel/driver incentives, Indonesia competition (GoTo)", "check": "Singapore is OW, Indonesia UW — Grab is Singapore-listed with Indonesia as its swing market. Signpost: Atome NPLs and FS EBITDA delivery."},
+    {"name": "Long Alibaba (BABA)", "setup": "TP US$160, +97% from US$81.08; ~12x P/E; stop US$95 was hit — proposed new SL US$73", "thesis": "E-com 55%, quick commerce 20%, cloud 20%. Market treats AI spend peak as a permanent burden. 1) Core e-com margins stabilising. 2) Cloud mispriced: EBITA margin 9.1% → 11.6%, own T-Head chips, MaaS ARR RMB8bn → RMB20bn. 3) AI losses peaking. Nov print: cloud +53%, but adj. EPS RMB8.10 vs RMB11.16 — EPS inflection hasn't shown; frame as cash-flow normalisation.", "risks": "Capex +60% eating margin, US compute-export rules, quick-commerce re-escalation", "check": "China team is UW Internet — a stock-level AI-cloud call inside a sector UW. Expect 'what did you do?' on the breached stop: honour it, re-underwrite, re-enter only on cloud-margin and capex/FCF evidence."},
+    {"name": "Long SK hynix (house focus list, OW)", "setup": "House-aligned backup", "thesis": "Q3 rev ₩104.6tn, OP ₩83.3tn, 80% margin, ~8% beat; DRAM/HBM booked through 2029. 3.5x 2026E / 2.3x 2027E P/E, ROE 72%; ~₩100tn 2026 shareholder returns incl. ₩20tn buyback.", "risks": "2028 AI-capex contraction, memory supply catching up, China export rules, retail leverage", "check": "Signpost: contract prices and hyperscaler capex guidance."}
+  ],
+  "askThem": [
+    "Weights were set on 12 Nov prices, just before the Korea/Taiwan drawdown — did you buy the dip, or is the 80% earnings concentration a reason to wait for revisions?",
+    "Where is the highest-conviction disagreement — on the desk, or versus Goldman/HSBC (A vs H, India, Fed path)?",
+    "Kristal: when does positioning become signal rather than noise for you?",
+    "Daniel: how do you combine the quant dashboard with judgment on the AI earnings path?",
+    "Which workstream is most stretched during 2027-outlook marketing and Extel season — where would a new joiner help first?"
+  ],
+  "close": "I bring China Internet earnings depth on the two biggest 2027 debates, plus markets and flows instincts — I'd like to apply them across your whole Asia/EM book.",
+  "timeline": [
+    {"when": "Jan–Feb", "what": "'Takaichi trade': Nikkei record 54,519 (20 Jan), briefly >57,000 after Feb election", "so": "Japan re-rating = fiscal, governance, weak yen"},
+    {"when": "28 Feb–Apr", "what": "US–Israel strikes on Iran; Hormuz effectively closed; KOSPI −7.2% (2 Mar); Brent >$120 in April", "so": "March EM drawdown ~14%; energy OW, importer UWs"},
+    {"when": "May", "what": "Trump–Xi Beijing summit, few results; Warsh becomes Fed Chair", "so": "Managed détente; rates regime change"},
+    {"when": "23–29 Jun", "what": "KOSPI −9.9% (record), −5.8%, −7%; leveraged single-stock ETFs", "so": "First leverage unwind"},
+    {"when": "Jul", "what": "KOSPI ~30% off June peak; −10.84% on 28 Jul; SK hynix Q2 miss; BoJ holds 1%", "so": "13% EM correction; 3 Aug: OW Korea & Thailand, UW Australia"},
+    {"when": "16 Sep", "what": "Fed hikes 25bp to 3.75–4.00%, first since 2023; 10y >5%", "so": "Real yields ~2.7–3%: late-cycle debate"},
+    {"when": "Sep", "what": "Xi in Washington; Busan consensus extended to 10 Jan 2027; MS cuts China/HK targets", "so": "January cliff; China EW"},
+    {"when": "Oct", "what": "Brent ~$116.5 intraday (28 Oct); KOSPI −7.57% (15 Oct), margin loans >₩34tn; BoK holds 3.00%; BoJ holds 1.25%", "so": "Third leverage unwind; EM −8% by 19 Oct"},
+    {"when": "3–4 Nov", "what": "Democrats win both chambers", "so": "MS: some 2028 data-centre capex slips to 2029"},
+    {"when": "11–15 Nov", "what": "Korea Renaissance + Capex BluePapers; China Oct data weak; 2027 Outlook (15 Nov)", "so": "House view set on 12 Nov prices"},
+    {"when": "12–20 Nov", "what": "Huang resigns; Nvidia beats; chip-export tightening; BI hikes to 6.00%; worst Asia week since 2020", "so": "The interview's live debate"}
+  ]
+}
