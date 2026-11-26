@@ -1,277 +1,1047 @@
 {
- "updated": "2026-11-26T06:31:25+00:00",
+ "updated": "2026-11-26T17:30:21+00:00",
  "items": [
   {
-   "title": "Nikkei 225 Rises Nearly 1% at Thursday Close",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0JUdWZpeWpfc1V1V1VlTUtWX0hhWGJ3eElKUUtPOXFmT3F3WFhNbXREd2RIQUY4VGF0WGRsQVhfMHlNTzUtRUFvdXRScmY1ZjdCMlo1YktCdVd5M2V2ZDNna2JRZGxhMDYwQ1RUMVlVaEpxTFNjTF9hRGIwZ001aTV4T0tIV00wbXF3TmNqTGZHR01KMHBz?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-11-26T06:29:12+00:00",
+   "title": "Financial Stability Report - November 2026",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaHNhZjVvVW1ON0hHVDRZWm1fUGh4aWdTTUstMjh6dHFTQWh1ZkE2QjVJUlNiaEgwbUV2MzZVeDRDM0RoN1ZZZE85dFVwUzloZnVEMHFZNEhZLW1yYlRFTG4wQ0lSOVh1OVU1WWYwWWQ2a216d3ZhVTBwaU80S0VidThBZ3FqM3MzLUE?oc=5",
+   "source": "EIN News",
+   "published": "2026-11-26T17:16:00+00:00",
+   "theme": "Flows",
+   "tags": []
+  },
+  {
+   "title": "Nvidia, Kioxia team on AI server memory as alternative to South Korean chips",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjFCSjA5NEktUE5YYlJCR2ZxMVNaTE1QQTRUMXdFM2VBZU83UkFvMlBXWE9DOHI3WnFKZDB0emNyNUFWYVByWkxxeHRHcnhKTzg0dVhqMnNLVHBSTk40ajlBWUZmcGlxdXZqMDlabXVxVERxUlA2Vzl6VEtrajFNa243cWY5ZC1kMzM4ellUNnM4Nmljcnk5OUNLdjhMTHNkWnZNN0VlU2NFbjFYckVzNXNaSFFyTzBNUEFqSEdxcFJVYXJNTlpv?oc=5",
+   "source": "Nikkei Asia",
+   "published": "2026-11-26T17:15:00+00:00",
+   "theme": "AI capex",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Nvidia Halts AI Server Deliveries to Four Southeast Asian Countries: Three Earnings Risks Behind Thousands of B300 Chips Seeking New Buyers",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0xKWXJLSkhkbmZlWEZEYi1PUWJ5dTFXREVHYzc5RjNXMzh4aUtUWkljMlVmeUpCWWR4aURDbEg0Tmd3NlgxX2RTZG1YSm11ZUlRQmMwRnJwRkZLaFFlOG0wbjJYVzR6VTdsbkVlc2lsY3J6X1UtZlVTMGExdDhLZDZRZnhuT05xc1JXN2dSb192bEtNSWFpOVlkaURQVkpWQ1VDeGFlNDJtQUhxOGZfaXd0aldIWFJUeGI4XzRmajdjbFo2Um9obXFCZ2NNU0RRSFptZjN4QkZyWU1tVDJUZHlLOG4yNUgtb2RHNU9XOGI?oc=5",
+   "source": "TradingKey",
+   "published": "2026-11-26T17:08:27+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "India’s investment appeal strengthens amid global uncertainty, improving earnings: Report",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeEpFYTJOaXVvcXVlNWRfSjMwbXY2OEozTXpJVnB5ZXNtalJaai1nTEhsSTM2RUVmYzFLaGdDZXM3YkVfd1hOOXc5TEVGLUdBMWdCZGEtV0VKSFpRV21NSVpodUNCRDlLbnJ2ZjB1QlVLSHo0dV9ycVA3UFZUclNWYkM4Wk40OTJRbmNWaUU3TUF1OHpEVlEtaHJXRTRra3Y2ZTM5UF9zMkx5X1Y2MHhnVUhjYTlCOUN3NmY00gHIAUFVX3lxTFBCejJZallzWlNjaHJRT3NrR0dBRlpTMzNhME90QTZpT243OUtCczBJTEdrUGprZk1FODJMeHgxd0doNGxrVHJQVlZHNzlqMDBYUE41cGRTalg4VkU0Sk5JSXNzMjlkMWF6RjZ6R2RncE1EV3FZellyRmZBQnRhdUhuOExnZWZ2SmUxbXhsanpNNzZVdEk5S1hiakczZnlvcGctM0FBV1lWbjJTT1VVQm93ZzI2TVE2bkhVdS1MdWpnQ3NQOFNwcXda?oc=5",
+   "source": "PSU Watch",
+   "published": "2026-11-26T16:59:45+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "source": "Bloomberg",
+   "published": "2026-11-26T16:44:41+00:00",
+   "theme": "Taiwan",
+   "tags": []
+  },
+  {
+   "title": "Nifty at 29,000 by end-2027; three more RBI rate hikes expected: JP Morgan",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDM0T2lfY19fdWNzeGtJbkpBTHJGMDFiMUlYZjVjX3hVa1lmQlFfQmxXYnphaG4wSXJOSm95RHA4TnJRdTlCaXhMdlRNUlNDZnVQR2RYQ19JV0x2bDRwVFd1V2ptVkRNU1NrTk1Ya09iaDk1dE85T3ZETGxpb3RwR2FmYmlmRFlVYlJ5MWxranJUdFVvNHBQbjNSbXZkMFBoblRmT05DcU1zWmMycDVoRjQ5b1M5eUlQcW12elZmUUtWUDhhaEtnS1MzWUduYUs1Ym0xQlI5TFV1Sk1sSFhaWUJKNFBDdFVkeEJkdm5B0gHzAUFVX3lxTE5zc0N3Rlp5ZmU2eDVPOWFQRWFZNEc4bE5MckU3bDNaN3ZfaElFQ2VnT01ydE1ORWZhb3lXQjg3ZmRaM3VaX2hmNEhIZWg3bko3Q1JDdGtXQWV6aTNXQWxia3Z4dHRleEhucHZSazdKcjdtWUNJclA1a1JINmxrOFlxT2JVc3lEUm1nSU1Sb3N6YUdDWUpQdVZpX3JUcmNpbmgzUklpMV9Fb1BDME9HRHlvTGZMS21UdXNGazZsNF85VlNWdFo0NGR1M3ljaFBkYlFKVVZuWG5jc2FnNHBubEdBZWwteWxjbzUtTkdCajB3ZVU0Yw?oc=5",
+   "source": "The Times of India",
+   "published": "2026-11-26T16:43:00+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Block Deals: Schaeffler India promoter sells 6.5% stake; Norwest Venture Partners offloads over 2% in...",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaXlqT05xSTB0OWE1YzJzbjBKNXkzTFNnNEdDMWE2eEZyX1BxX29sV18ySDlGZVFRR0hYZ1E4TjBZMmFWV2IxbzZiYWpVdDY1U2RpT0E4RmZzV2pwSnpsZExWMjdydk0yUkRLY1BJazRBQVhFdm9BeVhTZ2NtemVoRnFiUVJwd0JxVk5HYUhGbkxTbVVxbHRNaE9KNWRPVDF0cVJrQ2NIYlRFRFozTGc2ZjVVcHVrazZzcHRXTWg4cjFpLXV5eTI1bHhrNjk1Xzh1UHlaekFhUHpxNmtiMGdRQWlRWTc3cV8zSVg0TS1pdFJPTXBrZFljYjlzNEgyZmFsVWNaSS1ONXZ1LXfSAZACQVVfeXFMTWRvblVWOTdDYm9uS25kZVdYMFZjN2tyOWtlTGNLbU8xbXMzWkRweW1jMGY3NjhPMnNSRlBtcVdiZVJYRlk2NVQxUzBNdWJxRlU0UEFTYjM4aWRuNldGSHRCSmVKaHZqYzdweTMtajVaUWp6MjFWTm1jdUxFU3NkdmEwSlpSd3R1UUJxNmZRSzhnVTVtMG40X1UwN1hGdEFUYkxvQkt6R1hzQ2hObEFiampuSm95OFRRZzYxVkJhTzlRczZocmUxVk9Ob25lQWJUUFN3SWduSWoycXIzckFMY2dSaXoteUhQQUxLZFVidVQ2TWZwQWJkcGQ5RkRTbmpWRTQzTDRHVlJxZHhIWmxCVEw?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-26T16:35:45+00:00",
+   "theme": "Strategy",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Tokyo Shares Recover Thursday as Semiconductor Buying Lifts Nikkei",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84Zy16MXc2NmlnWWlkaGY3WnppOEFzd2dUTURkR19qSWNBd3kxMllPQWdhTl9udEs5c3VJWXFCa25QcjBwUl91bFFmLVd3V1pybl9neg?oc=5",
+   "source": "News On Japan",
+   "published": "2026-11-26T16:21:16+00:00",
    "theme": "Japan",
    "tags": [
     "Japan"
    ]
   },
   {
-   "title": "Taiwan shares higher at close of trade; Taiwan Weighted up 2.79% By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVNtNzVRTDNHc0JDRUhBamk1cGJHa0VoZ0NHZXhSNjRKOFptR3J0cU1yM2NqLUtSTDlRNmZUajlCcVVOUzVCVGFNZnBkUXJFWWNEZGgySkJ5MlV0WE9QX2hJQ09QYjRQVWx0LU02Q2NLbkdZcUFUZWdKUy1tdnBIOUhCUjlRLWMxbDdjU0hkRGxHc2RuVkxERU1rdGRSX2dJM3pmREViOWlNR3hYVjBwLW9EaDhvY1pr?oc=5",
-   "source": "Investing.com India",
-   "published": "2026-11-26T06:22:30+00:00",
+   "title": "AI Memory Demand Surge Contrasts with NAND Price Decline",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFZBYk5WR1VwX0JlOEtHajZFREI0clgxYWZCT2xiSzVpOEwyUmdST2oyZDNyNmRQTU1TVTduLURJRGJCQllvV1hUaU8tV0t6N1AybkVzTDlVbkNaNS1CdDBvci1McXN5UU5RTjgwbXpIN25BQ2tsMHQ2NzVUX2Z2NERkN21uMWo1?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-26T15:58:43+00:00",
+   "theme": "AI capex",
+   "tags": []
+  },
+  {
+   "title": "Crypto Market Rally as Bond Yields Fall and Oil Prices Drop",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTdhOE5lSndPUHpFRkJLMVFZdWJZUGl4bDZiMHRuZEk1R0xJT0hzLUJHNVhnOE5mck0tTUtDblBUSFc1RUtoT1R4MVVJNWVJeEtTWFlvN05CbW9GdjVaQTUyM0xYNklzTFBXNTE1UF92bzhtYUtfT3BMWE9yNmprdGJuN25YQlc2VURuckk4a2RNeFlnS2FMNQ?oc=5",
+   "source": "KuCoin",
+   "published": "2026-11-26T15:54:21+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "FPI Inflows Hit Record High in November 2026 as Foreign Investors Buy Indian Shares Worth over ₹1.22 Lakh Crore",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnRkUnhLeGtncVJBNmpWZFdGd3VYV0VyTGlUM3NtVW5CVEhDUDNCWEh6eC0zQU1odEZMdUFROVY0Z3l4YjRoMWJrcUpnUXp5Sk50emZHZzlJck9NU1FWNmxwU1ZKd1VRV2dPcERmVkNzbmtES25DcUdwYVJncVpibzFGc2xIQ19xdFh6WkRXMU1DMWEtem9CQ2w4VjdrQVNiOXRRcVl0NA?oc=5",
+   "source": "Kotak Neo",
+   "published": "2026-11-26T15:27:43+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "NVIDIA Halts AI Server Shipments to Four Southeast Asian Countries Amid US Chip Curbs",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaV9majBsdUNvcEVob0F2Mm05YXJLMnVUR1gyYlVDMjViYWNQbzhTeUxGRlhSM3VQNWxfRzJHdk5BRzBSTEUydDc1VEpMa2Z2LUdPMzNGc2VySWdQSzVkSWdkalllMXlZWGdfZ2tLb2JJTURKWEw5ZHpzcll0QU5pQnFUVGNrRFNtZjdHY2RUMUtncmtKOHBpQTItUmU5aWNkR2VrbGNMc2l0dFQ3amlsd1RWN2NVVWVldW1KMmQyTFRfSW5hdzdzSkt4TnRHTHRv0gHQAUFVX3lxTE5pX2ZqMGx1Q29wRWhvQXYybTlhcksydVRHWDJiVUMyNWJhY1BvOFN5TEZGWFIzdVA1bF9HMkd2TkFHMFJMRTJ0NzVUSkxrZnYtR08zM0ZzZXJJZ1BLNWRJZ2RqWWUxeVlYZ19na0tvYklNREpYTDlkenNyWXRBTmlCcVRUY2tEU21mN0djZFQxS2dya0o4cGlBMi1SZTlpY2RHZWtsY0xzaXR0VDdqaWx3VFY3Y1VVZWV1bUoyZDJMVF9JbmF3N3NKS3hOdEdMdG8?oc=5",
+   "source": "Analytics Insight",
+   "published": "2026-11-26T15:11:29+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "Oil Price Forecast: Can Brent Crude Reclaim $100 Ahead of OPEC+ Meeting?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVh6M1RZMzdTWVBPWG9RUzdhUHhtUThYWVlOSFl4UVdIYVp1cXRwbERVQUVFUDczZWV3MVdrNWxfcXNneW84dUhSTHhlWUFrNHFSSzVoTkZMOVBTVnNtZThyd3BNc0pleTF0YzQyeEV2dW1tLVZ1cktCQ2hOMzByUEFfNFctZUxMQTdHSVhGbEZkV3dOMnE2X0ZER24?oc=5",
+   "source": "Coinpaper",
+   "published": "2026-11-26T15:10:18+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "Brent crude rises 1.73% to $96.25 as supply concerns return",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGJKd3BndmpvYkU3WUNDMFBlbEZMTm1SbmQ5bW13NDBhSXY2X2dteG5jLXQ4Z0ZuM2ZxUUpHQzlWTkNwUXh5V01zNngtVi1KZjBtR0JTNnF6WVdselpUekZFenBWeVBsbFdRTFRydjdMM0JWUklMMFhpV3NZVmQ2SjFPSlF4TGVTNTNuWnJNSmFCb2hlZXFQYk5SRzRGalpCamc?oc=5",
+   "source": "Investify",
+   "published": "2026-11-26T15:00:00+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "Bank of Korea Lifts Rates to 3.25%, KOSPI Edges Higher",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNlNQQWVCVTlSRndNUXlxNFlabVJnQjRScVJBN0p1a0c2VE9aNXplcFlKUDZVQmxNRDh5WkFJd255ZHR4NGNHdjFWRE9MQ01GblZSbXhYMUVtbGdNb1RpMEh4Um5KTGVQR21WNW9iSllKZTI1bUt3eElMRE4yV2FWcFNsaXctMUN0Q0luT2Vuc3VtdkZoOWUwRFVGcWxiaFBCSVlUUGlWVVhORXJ1QjFyMmlHZVJ1Ry1yUUJ1MGFFWVVnbmhGaFdRZjJ2ZjZpUQ?oc=5",
+   "source": "TheBull.com.au",
+   "published": "2026-11-26T14:56:53+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "US Treasury Yields Stay Elevated as Growth and Inflation Expectations Shift",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV29RVlpYb1dGZWxsd0dqM1owUHp4aXdKa0FpNGM0aGdOQ0NreFk4bnM5aGFuanhvNWF5ME05cnNyMmhHaXdYck1Fd0VEc19RMDNxRXEyOGF4UENKT2ZNMm03WnJ4VURZMk5zbGRqalZlQlk1bU1OOXVnNEFDVnUzT0ZkVVdOOXB5RHY5eGlPQzZVUDBycWxmdnduNVJPMk9TSjBsejMxbkI2VDFHM2ZiSG5YQQ?oc=5",
+   "source": "kalkine.ca",
+   "published": "2026-11-26T14:56:00+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "Nikkei 225 Rebounds as Japanese Investors Weigh AI Momentum and Yen Risks",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMV9EZktoZzZfYlZBd3hqdjFJTk1odVpLWEtxemRCbEJvNUhCVTN1UHFER2RBNUxISkhRMnhfNnVvZVB0clJmaVpueGhTbE5GenRiV1dqdkcySXRFTUVoM0phY18zM1JaZTJXY3RtQTRMS3ppOTdGUUZybGFOc1R6d1V3YVplaHpPZUh4WHpZOEh1Qkp3enphVDh6Qkdja2RqWmVMUHNpTFpwamU5dnBN?oc=5",
+   "source": "kalkine.ca",
+   "published": "2026-11-26T14:53:00+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Taiwan Stocks Surge as Semiconductor Demand Keeps AI Investment in Focus",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUw0MUVJVGlzS3V0eWZ6NGxrTTZ6Mm9RLXJvVFVBTFBBUHFfVXZuenI0ZlB5cExBNmFYcUxPRDFPSUxzOWhTeGN0bmE5eFRQQTY1d1lkdVJIaFlqbEFZdjEySGZvblFxc283enB1b2E0VUtHZDBYMWNfRkhoTUljTi1laURQT3Y1WUxkbU00RHVsSmkzd3JhUlVCY045aGdiS1B2WWhpcU5xVTR6cEE?oc=5",
+   "source": "kalkine.ca",
+   "published": "2026-11-26T14:53:00+00:00",
    "theme": "Taiwan",
    "tags": [
     "Taiwan"
    ]
+  },
+  {
+   "title": "Indian Equities Approach a Strong Monthly Finish as Foreign Flows Support the Rally",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVNDc1ZUNmJ0WjFmM00zTUlJUVNjU1hsdk9oekw1VjNDQ1ZpWWRHVzgwWjRRNnd2bTFyWVJSbFpSbE5hQlJ0TDljTUlKeEFldnU4d29BbURYd2RCV2tzdVRoYXJNdlk2cVVTZlhpaHV4ZTM3ZEZXRm1GVEhfU05lSG9jbk8wQmFucjRtUWoyRENxOEtUaTZrSDdPVm9vSXZtOS1ZUVFXVUxjaVdFUkYwX29VRTN5RENuREhHUw?oc=5",
+   "source": "kalkine.ca",
+   "published": "2026-11-26T14:53:00+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Crude Oil Price Forecast: Gulf Tensions Help Oil Prices Find a Floor",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFRweFlUa0NvMEp3WjhXbV9vRjBaWl9lTHpzcXAwZ2ExTE4zTElORTRILTFTMmwwbDdDWlhGV2ZyQnhIYkhIUVBUd2k1UGNrd2RIb1oxS25mcUFmRmR2VFN4SVhCS1ItVmh2Q3RheGVhbzVqX1hKR2RnczBlMlNFdlJiVnl5WHlrYVhwdWpGdnU0M2RyTWtra0VzSURoQU9taXF5MEl4Mkllb0V0cUlXSmpCdWg0VHNIbXc?oc=5",
+   "source": "FXEmpire",
+   "published": "2026-11-26T14:47:31+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "Sensex Extends Winning Run; IT Stocks Lead Charge as FII Inflows, Global Tech Rotation Lift Market Sentiment",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFVEN1NFVDBfdTNqYVNpZnpPV2hxMTJ5dVJ5QmVUMDA3eTgtaldSNHF6WjNjUGtjUlRrblBiUlhUa0ZpbW1JbDM2cFZEWmczQTlPRVNHbS1kY3hHZmVyTTVRVEI2N2RvcExQLWhlOHNnN3NWVXpVdGpjcWx0dWk3ZkJ5N3BHbEszbUFKb043ck1uQUdFcXNxUVkwcUxtS19mSVdVOUEyeGlpNkllVGtwU2w2UGxxMjFGRmlUNmRVYi14dUpWd3cwS3lMbHJiM0k?oc=5",
+   "source": "The Indian Awaaz",
+   "published": "2026-11-26T14:31:27+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Nifty To 29,000? JPMorgan's Bullish India Call, And The Three Reasons Behind It",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUpnc1V3SjdxLUs4aXBTcUpzMDVwVUhKZGFlZEtkeF9lc2tlRC1ucVNhdXlPcHEwYjFzVXlCTkxGcXp6R214OFBkVFlDWU9TbDhmbzI5MlZFZFJfdHdYUUtYUUlQR2RQSUZseDlxUWNyTjZ3dnF5emxZSGZ4M3RJdVhuRmdqVVBES0czOUZEam9FclB0Zk9qNE9zTWdMS1RVQTFrb1hXOVRqVVdOVy1UbUZMcGY1cXI3Mm9YWNIBxAFBVV95cUxPMHV2TElMeEVTaEdBZWhBVEE1QnhtRThnZkxTS3k0LUhodGdpQ2p0Zl8yOTVLUC1wdWk2UE4wMTBzYTBfeFNpZ2dXQ3VVZVZKQzIxdUNiX0NXdi0wMGZENlBhb0duMmM1WTdDb3U5S0wxdm1rd21ZZmRwSTJHZEt5eUFZQ01DcjBWUnJjT3VKck4ybGVTaXVIVFB1UGl5RDZHTDZlRjkwZWRCajBka0ZMWGlrNUpVZDVaNFRsRERTd2FmbDFN?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-11-26T14:20:02+00:00",
+   "theme": "Flows",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Ukraine received $450 million from the World Bank and Japan to support business and reconstruction",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPendxdk9WalBTSlVnaU42N3RST2JxZlNFOF9VU2pCVC0wVHBzYlJxLTA5a1NWTXdXbEl1dmg4cmJpLUU0dE9YRC1ZUEEzUjdmUkNrWWVPSXNNWXBBY0ZodVdyUXhEZXhVQkVISU5NVHdsTlFJenhTX01FYU5SRDRjV1BzZ3NzSkV6UWNWMzB4bVpkVWtKeUp2OHUydldXZm9WajJVd0NWMGRpWkNRT3BOcGlMTWtTSTBmS1prellUX19TUzJxai16Tg?oc=5",
+   "source": "Судово-юридична газета",
+   "published": "2026-11-26T14:17:00+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Global Stocks Rally as Investors Buy Technology Shares",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBTURVQVQ3NkhBeUxudXFVT3BSOHVjYVg1dXJFQlp2V2xjM2xkWVRDLWVTb0xmU3hQTFdWWDY1c1FUYllCQWxrVFc0OVY2ekVNRXZvUDVEbGZpYUlQbXA2Vmk4Y0g?oc=5",
+   "source": "bsinews.id",
+   "published": "2026-11-26T14:10:28+00:00",
+   "theme": "China / HK",
+   "tags": []
+  },
+  {
+   "title": "Global Stocks Rebound as Investors Weigh Tariffs and AI Concerns",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OVkJLXzhjNDhZdU1aY2tNZGxBMkY3dTNKZWRSckxzbUVCZUlZM25WWFhyaUN3cHdKT2FUTFE5ODdSR2pHNE01c1hMTmxBV05feTlyaXRxeC1VbWhxUHhwMkZfdHBIUQ?oc=5",
+   "source": "cwibc.co.id",
+   "published": "2026-11-26T14:09:14+00:00",
+   "theme": "China / HK",
+   "tags": []
+  },
+  {
+   "title": "BOJ Policymaker Suggests Discussing Rate Hike in Dec.",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ybVZCbWRZS3Jwa0dJamhzeEpMTEZoNjVPcFg2M2t4bHhzUHdmSHFTV2I1enZqMHZpLUFGT3FJYUZsSnVmY0tWTjNjM3ktdGNCN0tDdg?oc=5",
+   "source": "Nippon.com",
+   "published": "2026-11-26T13:56:34+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Nvidia (NASDAQ:NVDA) Halts AI Server Shipments to Four Countries as US Export Curbs Tighten: Report",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GYVNBOVNCUUFqZFE3SGVkbS1ISUpaUUFMN0xfel9kbC1WNVJkMkV0MTRJS3UxSmNkT2RybXVwQ2JNR1pHZllKZlZDU2lUU0l3dWNIZ1VsdUtVcGNTWHl2NDdKc2hUTUlmUzVnTWY3eXRHTWNvRkkySjZ3?oc=5",
+   "source": "Stocks Down Under",
+   "published": "2026-11-26T13:54:54+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXFfM3AxNjAxLVVEMXMzVEhVc3FvUXFNaDFuRlV6dmlTVEpsNGdDZU5VOGZZWTh5eUJ5dWQzZlByZ2ZIcE9nX01Tak5KRDN6Q1Z2Z3Jqbk9WYzVYZVVtVjNobWxndnFSZk02TXo3Vlk2Z0pDZUFGbDZKSE00SXpVYWlSVmZjdWZmQ2xxUTF2RzZnYllpUUhaYm1SV1dGa0o3SUZndmd4dlFQSXNWN0gzUnhUbDZlQQ?oc=5",
+   "source": "Kitco",
+   "published": "2026-11-26T13:54:01+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "Japan firms say rate hikes are starting to bite, new study shows",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHNwNjZVb0szUFFfQVJST3RPT1MxWDZGOFhLR1BOMjRMZTAxR0VYUG9hTHJGVnY2QWhZS3RzMlQ2elQxUi01RHVIcDJoM3daQno0NnlscU9rcl9VQUhaS011NHNLQTVvb0g0ZFVSek5BTEtlRHZoRm56cUpFZ1hDLU1UTU5MNWkya0lxTFQzMVd2bTlLMk1CUUZVMDBqLS1mbTdfQ0dtYUI5cDd6R1BQbU03NEQ?oc=5",
+   "source": "The Business Times",
+   "published": "2026-11-26T13:53:00+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Should You Tap Ultra-Short-Term Treasury Bond ETFs?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTFKdnZTT29yRWI4UWxuallCV3lKelNSUkhiRjhreE1TdnpTSk5jSWlDem5FWlVuSW1DZWxubkg0NFNWT2JqM1o0dWtIdFVxRDFiZ3hJdVE0Q0VJMkJLZGhMb0ZBbVN6MmJsRlhvRkVmQlFsdVdHMTNhRGhpcENGNzF0Y2xnaWRfaVpaOHBtVDQ0ZzJpR3Y2SlQ1dHBVa0lXamE0SGdma2xUUQ?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-26T13:43:00+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "NSE receives RBI nod for introduction of corporate bond index futures; what investors should know",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNkw3b1l4WTkwQ1A5cEhjR1dNV0NiNGFfdjdXNVpQZFJUZDNidnFVNUNaUExRblFQZmd5TGdxTkdITDY4dkQzNDVfTWhsWGdwcl9yamx0akVHVmtkcmZhVWxNZjkyVUtVQ0VYNEJrT3lKWUNmYWxkYTlNWW5qbWF5VHZzSmtPRllzZllTMWFzb0g4ZWdHb2lnNXRnamk5cGhJRWpOeDFlWnAzV0xIN3VVa2pIRk4yQkE2Nk1wWXF0bkNDdnR4QkdGR3pZX2hiNEZrT1dkcFhzZHdWZ3BiMHlmaDBlV29lbzFSQjBQZm8wbHU1Z1gyNUE?oc=5",
+   "source": "Upstox",
+   "published": "2026-11-26T13:41:40+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Oil Prices Today: Brent Trades at $93.75, WTI Falls to $83.34",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnN4SEstVUF0OFJISWNkOHA4Zm5fNjl1bm9hRDJJVm54c0w5Q2NxT1NSMUp1cHRrTzg2UnBpbTF3eHNKN2pzS1VMT2JFUmNjWDlVUFY5YmFzbXdBNEh3SVNUSFJmci1DM2thWlVaWDFuYXp1bE4yWjE0ZE5GM09iVUdrQTBaQQ?oc=5",
+   "source": "Arbiterz",
+   "published": "2026-11-26T13:40:27+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "Soybeans climb, oil surges and gold loses its shine: What's next for farmers?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0xRR19WY01QTTBMMTAxWHVMSUZEUzRtWnJ4QTNYN0RXNXRrOWE1OGZWVGZjcHpJY3hkOEc2dmw4QnM2SGw5M2ZVWGkwSm5UWjZHRk41ZjlISlJtYU9PNlExRURpNWdZSmNTaUZIZ1dhNm9pdklxYmFQVzVYb0g2dE1Za1BjRmFMQUc4V3U0dndCTWhVNC1tcjNTT3NJVzVqcVl3dmdHNWpQTklFV3c?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-11-26T13:34:30+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "When Long-Short Asian Positioning Diverges from the Index in the Platinum Asia Fund (ASX:PAXX)?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3QweEFXUkpfOGdHd2EyTXpyNktEeS1KaVoxRld6el9lVy1US09YOW80WUVNQ3JwZG04eVlMdFhaTE1RYnhyOGZIVkJtZDlBdm4xNmZhSkFTTlFacGRuOVRDRGhYRHVPR3pYOS1qV1Nabjlaay1uZWtVQTcxdHBzQlUzQnlXb0FOMWVSa0ZNMmRnaDZZTHF3M2pzRWdVSFdkZFFVWFVrZ1U1b1J3UTFFWFFQU1M1SlhVSUhIY2R0c09neTFWSWJkUFNzSTF1VXBuOGZn?oc=5",
+   "source": "Kalkine",
+   "published": "2026-11-26T13:30:00+00:00",
+   "theme": "Flows",
+   "tags": [
+    "Australia"
+   ]
+  },
+  {
+   "title": "Nvidia Halts AI Server Shipments to 4 Countries: What It Means for AI Stocks",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0oxV24xNEFOQi02emJRMjJFR0J3ek43ZXBld3ZJYVlrYWttNi1raVVMZ3RGdXpXTklVZmE5dEU5UEFHMmh5SVdIZ2M4Vzd2dVNwY2NNR05qb0tBQlZ5M21ZSGI4Y3JuYmFRbFd3dUhPcHp4WFdCZ1hMVGdZMHNuM1ZBTE9TZHZVNlhmM29rMmQzME1kMHpHcjBFeHBjRnY4d0pJSlJtS21jV1NPZUJwZWNQOA?oc=5",
+   "source": "CryptoRank",
+   "published": "2026-11-26T13:27:58+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "Oil prices fall as Brent slips below $94 after Saudi refinery attack, Hormuz shipping fears | Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY210Q2F4QTRZWnJDamFCRDlrMnFCLVFDMDBRbU54Ui14b3ZqVnh2d19LamhQN3hYRGtpVTVTS1lQS3BZUDNqWDcyMmN0dFowRnI3cDI2U1VXakV3SGtqSGtRQVY2blkwTXdnNUotZ09UTTFRNHdyUVBWQXI3aEZnaXZXX0VzMWMwdl9VLXk2VHRLV05fYUJBQzAwUFRPS2UxUW93ZzlNTGwwaXFQMmFDYW5relh4RGZldUF2TUYxOU5Ndk5HVHZ1bnQwRDNZbVc5MXZuaEZxVFM2N05tNm1kR2tOZTNqUGxmZFRMZmFVU182Z9IB9wFBVV95cUxOQlJPRkctX1hkdGZ4cGt1X2VRNDlxUGU5N2JaVnpvX0xxSTNDZnNFYmtMaGM5SDBZVHhKQ2JZNkhIeXM4U0M4VmwyeTJlSEstQkZiUUh1dEZOS1duNW1xeGsxX01FQnYxQ2FUcHR6aWhjTnRza3RVaWw4bTl6ckJBRlN1ZGxncGRIQkU0YjR0a3hiSVhDamdyN0l4bEMwTzlPVGNLZV9FdWN4R2RXd3g0T1lOU01DZVlnaWJJMUpMYTExcXg0elV1MjNnMHdOV1dKcl9PRHVua3Jsbjk5cXIzMF9IZWNrbW5aN3Q3V0xWNnhQMWliUk93?oc=5",
+   "source": "Hindustan Times",
+   "published": "2026-11-26T13:25:27+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "NIFTY50 at 29,000 by end-2027? JPMorgan outlines growth drivers that could lift Indian equities",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd21xMENEeGhLa1R3VHdWQnpZM0JraEFxdGFTNzRmTmtLY1daU2QwOWNKTVJqTWljWUpWdnFlNnlfYzVxZ1NEZFp4a0VkeGxibjZwS1RmYmJMM0pOeFZiY3c2YjFpbU1IN0t6OUZ2T082Y2pILXEyNFVxcmNxbUpXOXpYcDNTWm5nRlhxUXVOeDJTN0RHRFBtRFJZd0VERHNQb3dpRmZmUzFXcjJENDBGU1Q4a09aRkZrbTJOZFRacFh5TjRaN0xEb0h2Y3NmeXJ1QnhOT2w4eWhvdzNUOHBpV2FOUzhZOHNTRmc?oc=5",
+   "source": "Upstox",
+   "published": "2026-11-26T13:21:45+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Brent Crude Price $95.58: Three-Day Rally Into OPEC+ Sunday",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWFneXQ5a2V4cXp5VFR0a3Q4YWwzc09iYkR6YUhwVzlXZjYwWFBFMEJVbEZrdUljYllkZkkyWjlLSzFiWThkVFZjTURtRHJHel9welVzbGVFdEZ6Z3NMVkJiYXNHZWVmbDRjQktLX0l5OFRud1ZBMVh0NmNhSUxmZXZjM0lSZ1ZZUFBDaEY0REx1NGR6eXJnZkwtZDEwSVlyTGI2RWpyVVJiRm1Zd1cyOUdfOGtONm1iWTBV?oc=5",
+   "source": "FinanceFeeds",
+   "published": "2026-11-26T13:21:10+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "Japan’s Biggest Banks Chose Solana: Is It a Bigger Deal Than Ripple’s Bank Wins?",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYmVuWHBuemtWajVFaWVWX2p6cS14R0RZWXNkOGs0Z0d3bHBFMmpUYWxiUzJ4TmJJWl9XT3dScWpoSFM1TjVyUEtPUXFrRTJRRDVReV9ZTVJIMTEyQVU1OXZsbWZNY2JObVl0TXFmRXlJVEpDS0dYa1lYSW9BczB0NmlsazhMYWVCbThOMFNNb2dGZmpscWN1cXhObkJRVlluRmtfR3I3eTM3bU1ackl2TUZFTFpVcVliRGtQcm52QThPUXVzNVVDeE51bnhHS2Vs?oc=5",
+   "source": "24/7 Wall St.",
+   "published": "2026-11-26T13:21:00+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Sensex Gains 384 Points, Nifty Nears 24,000 as Indian Stocks Rise for Fifth Straight Session",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYkJCUGNkMHlRVFVJQmxmYlU1MlpyU2ROakkzTWtiQkpUUTZ6SlpRV25hZmprV2ZoUEEwYjdoNXhKb2pqTlVKWmZsSHdBYlBpVkUyVWFWb3dBSmtqeGs4TUxHdkpRdHM4emtRc1cxM21vOVA0ZFJIYTJmMHVzSEd2VkRYZVprbjBIVm5hWDQwWHY1cTlBRVZvcE9Uamx5OUY1ZW5YZ0JkbkpWa2lSNkxmOV9Na3doSkhUUlNR?oc=5",
+   "source": "INDIA New England News",
+   "published": "2026-11-26T13:13:49+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Sensex gains for second day in a row on foreign fund inflows, IT stocks",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVg5Z1M2YlNwaEFpcHY0VlhZbWYxUHhwdDBPLXQ0YXZtSnh5Z3k1MHp1X01KU1ZHOGdfbkZXczFOVTJqZkZSdDFtV0VJcDZmRFRNWWV0MTVIVk9wX1c3RDh2WHM2THE2U1dYMG41UjBtNHhaWnFDandKNW1vaFJsa0NxOFFncGRDNFZrVURqMXBCVFhlRlI0d0Q5UlZGQ1F0MlhLblB4NWFGWWU1RVFLTHoxcGRWbmMtdHZrT3RkVWQxd9IBzwFBVV95cUxPaFE2ZXZ1OFl3bG9wWFdvOVBOaGtzaER4bTVsRlJNY2hPWENaU1NzZFpUMzdWU0c0cHJtTGdPT3hfMkNyc0F6NmpoWEJCV1pUZk1SZTQ5NkpzR2o5aWhWY0RIU25nZ05GVTI1c1F5elM3YXVQMGw0VWxZbDNkQUhwMnJ4RzVMdnVfSjZVdTMzUlV0YlZZWGJLZVh2ODl0UW1pVFNkYjk0UVVNRmtiUUNCM0tXQjVMNHc5aG44MmZSdHFWRG9KdFY1NllHSEV3UzQ?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-11-26T13:09:16+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Why Rs 1 Lakh In US Stocks Beat Nifty By Rs 1.5 Lakh Since 2016: A New Report Underlines The Answer",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMWIyNC1XbTJOUkFDc01MWHJuNlhwaTBTc2JuTmw4dmN2Wm5FS3doME50VFVXZ1ZuY1J1MHNERFRJOVZyOGxySUFVQXJuZFBfR2hVY2tUTkQwdHdkdjFvVzhzNzBfRk5XM25EV2F3emZNd0RGT2pkVWt1aTZZQzh3Rm0yZUo3YnhHajVwdlVQeENFVC1DbDhMNFZQVUxudEVzWWdNaHFwV0NqVkV3YmVXemcxc1R2cW5PcVRSaUI2Y2w0WThJN2ExTmpUYzlUaTdia3ctbGZFSTFUUVhqczIxQlc0LUdtQdIB7gFBVV95cUxPOWtOSzZUNEJBMkV6TThmT2JpV09TUm51cG56anpRYWRDTThMUnVwRzJrM3NzVnZqZ3VPTk9kNm1rbDlkS2QzaHZ5eTZvRC1WNEh1X01UNlp0a09NYXFCSTIyM01tTTJES281bXRpYTlIY05ubHZ1cmpyYXdLNjFrTU1YY0JKXzByM3J3TEVWU3pfOEZ4UWZQVzhGTFo2VlhvNG5RQVZkM2cxZUlZanROVGJHSFNLSkR3ZjRmYUo0YWxLYVZkcXRBTDY4dF9NTURTUFVuZndCZ3N6d2dtR2tmRjFjMlNRQTVxMEltTzh3?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-11-26T12:56:12+00:00",
+   "theme": "Flows",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "IT stocks surge 3.6% as Nifty edges up; rupee slips to 92.44",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnBMVE9pXzFZXzJjcDY1UGVkc3lQb3R2REk2VC01dG1HcFpWZ0tpR3YxS3lyLTdqSGVvX3pDa3pVc3Y5RXVnTGN5NkZGQWQwRF9Ic0RIcTg4Zkg5Z0xpU3oxSHRpSHkxVG1maXd2SkZaWDZHV29MVW42bl9IZTlLRjVFTllIeERlVHRTcnB0cG1fSXRyNUhaVmg5aHJNR1VjNU1uWFJIVDRrWVRoYjFpdVVabzE1Zw?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-26T12:50:54+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWRmQXRtWGtJcjVxUnJtb3JhWHItaTMtanZUcll1emlBaUFzZU1Eay11ZV9neGRlVnRKMXlMNDVnTDkwMDdjeHVMcUJhRldlUnVzZy11Q2ZYT05Mb3ZZWGRYSDFKT0dtM0t4Z2IweGpmZDZKR2pOSjRHSW5KRE1JQXpWX1VBRlpWTDgtdllpNFprV3RjTUYwWkZFSGo4cEJ3dDlaeUNYU0s4dm9DYUNhWV9qdGRfTUFqUkpDaA?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-26T12:37:44+00:00",
+   "theme": "India",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "US Bond Yields Fall Despite Persistent Inflation and Strong Growth",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE1LeWh4ZjN4SlVSekNmaTJOdnFuc2RUaVp2MG5CTG12ME5TcGlCald0b055YTk1V1lnc043UTZxSVlXaVZzaWc4SUZMYW9XbVYzbTVhRzZyeFZMRmZVNTE4TlRQci1ONUhubnFILW1seWZNNFFhYWp6ZzZQbGNPYUp3SmowVkcySmVqQXdtNThVRGYtMlNlM2RLRHJWZzhsUlNMeEV4MERVdjdza3MzRlZqQ2FyOEt3cGs1aXlHOA?oc=5",
+   "source": "Idéal Investisseur",
+   "published": "2026-11-26T12:35:00+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "Macroscope | Jensen Huang’s return adds more uncertainty to Asia’s AI trade",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3BKZlliczdjMHR5WDZZYndFS0Z5d1B2cWs0dTNlc2lHa0lRMWRnVTJNbjRreEJjZWVNejV4UURlejhJNWM1ZFptX3k2ZTBFVmtCQzY0RTBURDdpTlpCdndJZGd5bnc0ZV81bmtYTFlmOGdkNUNhQ215T0E5VlhsbmUtdER0OVpKSmdjTFR5RWVFRjlFc055ZVlQR0g4OHMtRXhZNWt2dDlZYnhGS3RvaTJYaGhJQdIBtgFBVV95cUxPUk1DYnlqWjhBQnhsN3BUeTlNYWtud1hJbm5MNWszNzZIVVM2cG1FV3AzQjl3Z1ZVUy1yd1BpbEE2SGFyYjVheEhPRFRyd3dtWEJWQ1kyVzEwb0JWd2xaS1dIbk91eXI0S1l1akYzb2dNV2VDWnNiaFRWWkZnRm1PamlUc3dBdkcxYkZyRkNXQWlRSVFqeDR2dk5Bd2lhRHRpeTBQZTU3OHM4M2JJcmZCeWVKdGt1Zw?oc=5",
+   "source": "South China Morning Post",
+   "published": "2026-11-26T12:30:13+00:00",
+   "theme": "India",
+   "tags": []
+  },
+  {
+   "title": "Korean analyst chokes up on air in viral chip rout clip",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRmlpdGRuME5pbWRlQ0FibVlTcEV4dGYyb2JhS2Fjdmo4TTlWeVVfcEQ0ZU9IMU80R0RHbWRpb0p1c3ppV0ctWGxuU3BrVGsteEhYZ1doMFFGTTRtWVk1T3hJRkx0LVVxU2gzMlB1MDEzSTNFYVBSSHlDYmFPMEh5ZHU0UTBVdWwwcFZkVjVXU3dXbWJyT25CSHVaZ2x3SlNQMHp2Y3RtZVE1eWZRaGc?oc=5",
+   "source": "The Standard (HK)",
+   "published": "2026-11-26T12:28:13+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "BofA Unveils Seven Trades for 2027: Bullish Dollar and Short Treasuries in H1, Pivot to Emerging Markets in H2",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ob0VHTVpRWGpJX2F0YVh4RGlUTk5LeXZpLU5SX1RBWDVVREY0Mzg5QVNXWkpxVENMYWtFcjM0dUYyMnc1QTVBZUdqXzhFTDJGN2VwX2NWdTVEWDRDSzR2T2lVcHZJeXEzS1I3Ti1VUGxKZW1ULVE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T12:26:00+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "BOJ's Tamura signals chance of faster-pace interest rate hikes",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLTBvSkg0ZE9wU3hNQ0JLVlI0TjFHeUpsLXUxN2hEMV91UTVWb251QVdTd045NWIyR1pUTmxkNFp6Vm04TGNfQVlMWjU5QTMwZF9hY0FGeUYtZWhPajhpSzAzUWR0MlBQRnVXaVZvX0I4YXYya0o4WnpaODg1eGp6WE9SNlVuZ2ZGNXpQRVBjd0NCNW1kUXBlMW5PcXh2QUVsMUdEcU1tTkw?oc=5",
+   "source": "アラブニュース",
+   "published": "2026-11-26T12:15:22+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "KOSPI Closes 0.29% Higher as Rate Hike Caps Rebound",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb19Ob2JrZjU5OEhlbTZ5Y05zYUVQVGhTY04tNk55dEdoSFc0OGFBUFgzMXNjRzdRSXF5cnVzQ1Y2MGRfUnVfUU5xck1vdXZGRVMyeUdIa1l0Rm1CcFZUS0UzQ3BVNXo2dHlrV0JXeTRiY0V2M0dFbmNxd3hzOEVMLWx2MVdmSHExb3VrSWZtS1hWd04wbFVJaW95US01S2M5dFUzRndjWVhmQldDdklUV3BR?oc=5",
+   "source": "ad-hoc-news.de",
+   "published": "2026-11-26T12:09:47+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "The LPs setting the pace in private equity",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejNpZXpjUEZqelJnc3hsMTZ3aXBwd3c4eUFzRGZiQUdGMG9RejVqQzhkX3g1OXVYWHRaWldDY1JabVRDd3FkMTVROVZvNnlXVjdicVJtUEczcV9TVnJrV3AwTU5lSWQ1cjd6cFhBMnZZd1g3eFhWZDRPQ2JsV3BOdXllUjBkVmVrSjRVQ1lmVQ?oc=5",
+   "source": "PEI Private Equity",
+   "published": "2026-11-26T12:08:44+00:00",
+   "theme": "Japan",
+   "tags": []
+  },
+  {
+   "title": "Taiwan Weighted Closes 2.50% Higher Above 39,000",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGJPSFEtSnpNY0pLLU0yY1BSejhDUmpDYWtwdDJUUHZnTkNxM3dpT3FIZG03V0pld0pqX21PZExEeFlvZl94QTBEZzNYV2JTLVNYQTd6Q3pVUUxRYkJYTGhsYXQ2Znh6VWRYVDR2OE82RFBmOWIxZHpjN3RWckVnODFwUlFkSEpLQ1lieUJmeVFxaHN2ZENJQ2tUNGZqd1V5U0owQklxRFJUZG9uQUE?oc=5",
+   "source": "ad-hoc-news.de",
+   "published": "2026-11-26T12:08:23+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "MN Holdings sinks 20% as Nvidia shipment report hits Bursa data centre stocks",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2k0VllrZm5UOHl4MWlieXdBX2tpejdYYlBvRWU4enVpVkFubDRmSWE4SDE2bHZQWGpUUVJ5TDhXQTd5dEFZOExJaE9DdEg2VjVBOUlmUE9HVTd3OFR3ZC1LSlVRZmlGdGdlTktwd3NXcEN3Nkw0UXoyYUh6V3V1M1EweWVjTXVGSlpzTlVGc1V5Z0VkZE5ZTTB2WXZHTklxRzRVWGE0c3dock1NNThtdVE5bTdrTG5mVVRydw?oc=5",
+   "source": "The Malaysian Reserve",
+   "published": "2026-11-26T11:58:25+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": [
+    "Malaysia"
+   ]
+  },
+  {
+   "title": "Taiwan's bourse flags three stocks for disposition trading; Solid State System plunges nearly 49% in six sessions, moves to 10-minute matching",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzd0lHdnNUQ2hpcEdiTlFhZTlRSWtZLVo5eUQyR3JRUzZKcGI0RXhwM2kwUkc4bjE5dkJoQ01MLVFoN0pSa21iWDh3WjdvbkM4YTQwYXByWTU3cnZrbEI0MXdjbTdMZGhGcVF0dXB0VVM4TzBXeGc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T11:55:00+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
+   "source": "FXEmpire",
+   "published": "2026-11-26T11:51:44+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "Japan core inflation stays above BOJ target, rate hike bets rise",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2VZVGVvbHhMREJPQzdZYlRuVnZUQ01ZYTFJN3ZjOVhRX2NfcndEdENXMXBvQ29ZV1F4ZzUyamd5RXZqRDh5V1pIdi12WE5waGpCOEJFaDdURE1jeWJFdG0zYXpnYzhUNDMtVWJaQWU1VUFyQXdiZHFXNGc4S0p3S2FQRW9jaUNFTjAtZTVNTzF5MEtPZjhmMTBKSE9CQXVoanEtS2hFODhFMUpRZG9j?oc=5",
+   "source": "internationalfinance.com",
+   "published": "2026-11-26T11:43:52+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "HANG SENG INDEX (^HSI) charts, data and news",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ja29OV3kxRk02SlJnZk9UNVlrQmlzS1FBUk1oRlZLeC1nck4wMFlmQXpaeHdBY1JoX1BnMTJCYmVNZEdBelJ5NS0yMXA4a3czV3ZfVA?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "published": "2026-11-26T11:34:16+00:00",
+   "theme": "China / HK",
+   "tags": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "title": "Dollar Stabilizes as Bond Yields Retreat",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ2ZfdjZ0YUprV2Y3Yk9lS09fZGZST3pZYW9lck16MjFtMFF3WUoyLWZ3Yi1CcjJxdU9UWWk5NVgtRnRpYjJkWVU5TXBPOWkwczQxYUFLNXh3YnptS19KZTVhNkF4TjNKRU96Mw?oc=5",
+   "source": "صحيفة مال",
+   "published": "2026-11-26T11:30:27+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "Japan’s Nikkei index rises, buoyed by investor appetite for AI-related stocks",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXb3FGaDZtOU96alhGakR6NGIwejdnZGpYUFlrQktZd085clBoSWNuUU5ZeTc1UWhhVFZxOV90VGRhVFVhTnd2TGJPTkRENzVsM3A4TW01QzJXQmo5RFdQNno4QVMydkJvZDdzUk13?oc=5",
+   "source": "صحيفة مال",
+   "published": "2026-11-26T11:30:23+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Global stocks rebound after AI sell-off as investors assess Trump's tariffs, oil prices and inflation risks",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOVItckt2bWxpckNqWGxHZE1vXzZWNGFUUlNBX1p3R0ZqMThJdmwxa3RNOGIyaURDY19adEpyY056LUVGTjRwMU5tS2NHb3MzZXpYNWlFYTZVNzY2cVRBVjFvalMzd2FNVWVwYTJWSUxuOGFMdnltV0gxYTk3TWdiY0I5cUUzMXJNSFBrZWVFVDc4X0xmSVpQVTBEa084VHNyYUhralRQa3NYeVBOQU1VcWZHMnNFSFl5OFRaZFBWX3lLTEZLa0xkMnQ3R29PRGVNNDZhRFVkdUtsZVJJbWpYNzNlS0d1aWVBWVVURDNvckRIQjAwd0NITHA4VEFnamZGcXI3Q2tZdw?oc=5",
+   "source": "Hindustan Times",
+   "published": "2026-11-26T11:24:26+00:00",
+   "theme": "China / HK",
+   "tags": []
+  },
+  {
+   "title": "Gold price in Pakistan rises Rs4,700 per tola",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGprbVp5bEk5TDFXaUoyenU4V1ZObGhiVmMzRXhiRk9UenVSYXd4MThlQUw2c3hGYUcxdVdwZGhMUDNha1ZYMjJHNEU4MHJKQy1fNXEyUlJHd3B6eXBtQUxWczlCbDNlR05WNUwyZEd2bktyZG82Q2VUU1JDbGFFSHZPc0VrX2pWWGk2cjBjSWw0QQ?oc=5",
+   "source": "Investify",
+   "published": "2026-11-26T11:24:07+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWEs1Wk9NWF9acGVhRnhiTGY2dWdkbFZrNnNjcS1aRjJOOUJhRENsbGROZnJsYWVEemhmRTJxaGhpR3haZ2QxWUFPUHJIcTJvMVc4Ri1VS1ZQQUE1VHZGU1pDcmwtcS1XT0NwN21SbGtsbkFrX3JjcUNocVltanlrRjIzaUxBZw?oc=5",
+   "source": "Investify",
+   "published": "2026-11-26T11:08:13+00:00",
+   "theme": "Macro",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Thai Stocks Reverse Gains as Short-Selling Resumption Raises Questions Over Policy Timing",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaG9Bbmc3bmROdlQ0WFp6RGNhRW94YWNzdV9nMFdzdmZhTFNBaHYxVEViQnNUTG5tNnhEekZfM2hMZ2s1WlcwT0c4cEZGU1Q3R1dmQ1l5YmQ2UHdqU2JjYg?oc=5",
+   "source": "kaohoon international",
+   "published": "2026-11-26T11:06:54+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": [
+    "Thailand"
+   ]
+  },
+  {
+   "title": "Market Roundup 26 November 2026",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9meTlVVUNDUk5zVXF5QTRjVnRrNTJJdzh3QV9iXzliZjJ5Vlg1LTFuTk5QWjlkeGthTXFKTWVWQnN5R3lVYWtmMzlWRk81Vy15REJJTDR5Y2h0amFSWVllYQ?oc=5",
+   "source": "kaohoon international",
+   "published": "2026-11-26T11:05:58+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "Japan Association of Corporate Executives Proposes Government Fund to Double Japan's GDP per Capita by Early 2040s",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTUNBdnhRM1h1aEtUc2x2YWVGNEQ2NmJBcGxuUjNsWmxwbG1nVDZPOTN5OHJNWDZBZndpMXlCSmdCLUNQVzVQYzFteWUweEFpYjcwOF8zMm1qSE1KbUNuVFFYX1NQOVNmMnJKczFQUUZwdWU2eUE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T11:05:00+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "KOSPI Composite Index (^KS11) charts, data and news",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0WDZfZW9SRXkxVUpxWWdxMjhCYkp3aEZrTktOTjZDb21McUVoZzJ4VFNXcmNZZzgwR1RuY0tMUEpuUno1azlwVnpRcWpoOXhUcmpiWWdB?oc=5",
+   "source": "Yahoo Finance UK",
+   "published": "2026-11-26T10:56:53+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Nvidia shipment halt threatens to stall the AI rally",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlI2MmFSNGVseUkxcGNLWW5RQklfcDJnUE9weDhQT2hOXzQ3dkdQekxaX3dET1ZzS0FMd0ozOWF3ZTlaVHdxcW0yeFJBTjFDTlVscU1CT25KTUd2cjdHSnM1ZG1CZTFkay1ZVHBZR204cWRacUJpbi1WZ1M1SnN1U25CLW1sbHZ6emFXMzRfNnBzVUxMcUlfOTVEdGZER2ZlcFZmU3JmUlJWemVtUldxTmFOdkM?oc=5",
+   "source": "CoinDesk",
+   "published": "2026-11-26T10:56:08+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "Asian stocks advance as tech rebound, easing trade concerns lift sentiment",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2VKX0RYcTh0Q0MxeWhKZ29nbjFQZ2RMWS1TMlp0LXllb0dGeVFFNlcxSi03YUdxNUx1YkpxWWI4Y2ZtTjFfdzgxeW5fRk1JS3MxNmxDaEI0WVpoNU9kbm1pTHIzaDU3M0ZNcXN6RW9GZHBkclBydTJtVjM0dEhQLWVoWVdwR2l4WGF2bHNTSHc2NkdrY2x2MDZxdnp3cVF4UGJrZmdabkFHRzN1S2xsTnZHQlBQdjQwQUhUMG14WWdNRzA?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-26T10:54:32+00:00",
+   "theme": "China / HK",
+   "tags": []
+  },
+  {
+   "title": "Nvidia tightens AI chip shipments to Southeast Asia amid US export curbs - report",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYXdvOU9jclphZ1Y2dzd2dEUzWmpzTlhWWGNFSFlXT2lQSjhraHRoanA4RWo4NlZ1OTZ0TnVyeDdKMl9CV25tWlBmREdiOXZtaWxtN1NOY19SY1dXN3ZrTUFqa0pjTGhQUTY3dHJNbEllYjItbUxGTnRSamdjUUxtY3pERmVsY19YbHlBdlpwX1dUeUM1YW9DeHhCSFdxXzJ5eE15aHJJZXVfSTZwdTF0OFp5UHV3bHhMMTh0TlgyaXhOd3R0TGNkMVU1TWJ0TC01T0RtaVlJd0tBdw?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-26T10:45:20+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "Taiwan Stocks Rebound 956 Points, but Foreign Investors Still Pull NT$49.18 Billion; Taiwan Glass Hit with 81,000-Share Selloff as Active ETFs Become the Buying Focus",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FVDl3T2FDRHJydTduLXktSU0zNENXUV96YmpLT29pcWpEMS1zMkJ1eEtVTGh6RHNURlVSUmN3RmdnRXIwOUN5cUd2N1JuamVCem1nVF9Cd0RvaC1CTlpIMkJJS3JPWEdpZ1l5bkJYbFpMclROWEE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T10:37:05+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Taiex jumps 2.5% and Nikkei gains 0.9% as Asian chip stocks rebound",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlBjNm9EZDh0ZmZoS2E1TG1OVThsYlNvWnNzU21KdzV3dDFzVXplc1JHVjNEXzhYWjN4X29XRGstb2FYQzVZMU05R0NFVWE5dGdrV3lCRF9EdTBHTHFrZmM1c1paRGZpa01ZTmlTbkVyVVloNHZtYVpWVGJ4NWc3ck5nUWJQajhrNC1RZg?oc=5",
+   "source": "MLQ.ai",
+   "published": "2026-11-26T10:32:00+00:00",
+   "theme": "China / HK",
+   "tags": [
+    "Japan",
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Japan’s Nikkei Index Rises",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LUHIyazhuWEEtcEFyVnFvQlBTQzZmN2tNY3oyaUZwZ2l1dUFaVDFiQk54cWREZE1IUUowVC1KTU03MGJaek5IV3lJbE5icUFrelAxSVM5LU5ucVd3ZXNCMV9JbGN1d2F2MFRxazNZWkk?oc=5",
+   "source": "Fana News -",
+   "published": "2026-11-26T10:22:33+00:00",
+   "theme": "Japan",
+   "tags": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Carlson Buys $30,000 of TSMC Shares",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWJmeWc4M2dVSWhiRDRMUHFmWXpfT2piSTdSemVicjNfc3J3TjAxNFJLZ1dzTm5xbnpjcG9xbjBjX192Z2RaSndhSC0waUNkYUNybjVpalJaX21wZUdab1A5ZXU5T0IwZTdjbnBoZWE3NHhPSGk3UmJpVWtIeDFfN2x5b3M0X2c?oc=5",
+   "source": "Wisevoter",
+   "published": "2026-11-26T10:13:14+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Bank of Korea sharply raises 2027 growth forecast to 4.1 pct on AI chip boom",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlktMndNNFE1am1KOUM5cjBDVGxqM0pfZXZtMWE2QU5kbXk4cmo4LXlubldiNTdNV1RoTXlGcDhYd2NkUFdQME5QNkxXWWZTa1M3a1ktX29rR2xabW1RVC1iZmQ1SmxjeS1SOGkxR2F6NTBCWkt6N18zSWppRDg2VW5GS2cyenlJSk5JczlLUF9LVGZPSnNOal9VWk9JcUJoS19yWC1qMkw4WE8tM3gtSWVn?oc=5",
+   "source": "www.upi.com",
+   "published": "2026-11-26T10:04:30+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Kioxia to Begin Proof-of-Concept for SSD Memory in Nvidia AI Servers : Business/Industry : JKN",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53ZGhmcGt1OVJfbkNYNlJLMUZzMDE5YnhUNmt5c05fUUZfT2RUeUNKOWVVc0xwZmRFVk0zUThhUkUxcmlQSkgyWWM0ZzZyd3B0cU1Jd0tFVUhma0JGdzUtdnJR?oc=5",
+   "source": "재경일보",
+   "published": "2026-11-26T10:00:31+00:00",
+   "theme": "AI capex",
+   "tags": []
+  },
+  {
+   "title": "US Tariff Proposals Up to 35% Leave Inflation and Stocks Effect Unclear",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHpjVzdxYXA2cWctSk5LQlBaN0oxMkJhaW9XRWwwX3pBVUw0blNuRXZtcDNiVDJEVWFhdUh0Z3lCWTdlSXFjVlV3RjdnajZzQ1VFc3hPX3RUaVdJbjhNcHRLTjFiNXplbFJxNzQ3QkMxRUhtcUVweVExNTYxa21MMnBQQXdycm9uSjBfSjAyczlSa3puMmprYUJwSVp2bkxYN2pv?oc=5",
+   "source": "LeapRate",
+   "published": "2026-11-26T09:46:06+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": []
+  },
+  {
+   "title": "Taiwan Stocks See Intraday Swings of Up to 3,000 Points; Fubon Asset Management Says Market to Shift From \"Wild Bull\" to \"Slow Bull\" Next Year, With NT$8 Trillion in Profit Supporting Dividends",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NRlpfNkI5SUc3RU9wa1pMWmJCRzM4NlVXTHd0eERnd1llZ0pFMTlZUlZiTGZNQTI2RlM1WkgwLWpVQ0ZqeDc2eDdTVTBhSUdvZVhkRWh4QzVONXlnTGNYdmRuOEtla0lacm5BUVlwZnVhaGhRd0E?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T09:35:00+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "US Dollar Index (DXY) flatlines just below 104.00 in Thanksgiving lull",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzk4VVlTTGNvdE9iMVdoVDAwYVFkaGJVT3p3YURZQWhPVXZOWDBlbDNXZ0g2OThDYmVtZ0hUZ2FFa2xjRHNmMS1Sd19yc1lBNVAtRy16dHlaQm1ibkVBSzBhbVpuanFfc3RwbUFweGxPWkN3UjREZDV0dzJoWWYtaHlrQW8wVjg1Nl9xSThkeDN2OTRtRWhKb0FGbDNVVmpuRHVqR28xVFY1ZlNEYjB3?oc=5",
+   "source": "FXStreet",
+   "published": "2026-11-26T09:32:47+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "TAIEX adds 956 points to reclaim 39,000",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ub1pvbjQzSFBzY1FETTc3dHlvUTYzUUREaHNuLXJyN2FWRnEyS3Z0all3alRzbVpFRGFuTld0SUZkbTZVd0ROeDYwS3RzUVhPeTQ2ZlJzY0M?oc=5",
+   "source": "Taiwan News",
+   "published": "2026-11-26T09:29:00+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Indian rupee bulls return after 18 months, rupiah bears tighten grip",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjhYZFc5bURObnk0U25wd0NjOXg4bjFnZVE1Y2JOSUMwM29pMXExZzVzSDlkdDUwOXBvcmpfdnVVT0doaHdodm96c0dXUnF4Z1FiS1M1WDJkdWRXVnBUaTRsYkNRQUpyUk1uYnZpVEVabFlOeV81dm9mVkYwVFgwTVZKQWRJXzE1MTZjQkhuRnBHRzdQUVhmRF9seDM4S3VXaC13aDBmNTZvN3RVc1F3Q2JxQXF4Zw?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-26T09:26:20+00:00",
+   "theme": "Flows",
+   "tags": [
+    "India",
+    "Indonesia"
+   ]
+  },
+  {
+   "title": "Kospi rebounds after steep selloff as AI trade worries keep Seoul stocks volatile",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1pMaHpuS1BBWS15VGwtSnJ3MlFSZGJTNDdaNW1WTEJjYTFwY0tSeTRfNFM5MUstQ19hREI4QlU0QjVuREZ2RnF3UVFTc05HN2Q2QjF6T0g4MENPV1FnZXR6cER5M09vMEMxWDg1UkVyNE9UckI2SkxqMExNb3dfcmc2LVhGX0paQnVwUWdUVzY5VzV3YXJvb1ZoR2t1cmM2Ynd0c0pkY20tMmotWDVaaDk2dU10U2pUSXA4alFJQU9hWlh5QlRsY2dBOG5BdDQ?oc=5",
+   "source": "Korea JoongAng Daily",
+   "published": "2026-11-26T09:25:39+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Etron's Lu Chao-chun Calls for Taiwan Sovereign AI Fund, Says Taiwan Semiconductor Revenue to Hit NT$9.5 Trillion This Year",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WV0ZSY29WcnR4bzJ3WFJOZ291cVZuYVVjM016QTJRMVhIU3YtTTh3X3FBVDRXUDV5NDBzMjRRZ24wbW1pQXQzaDJCejVfbU5hdDUtRXZZTW82NVRyUEp5WFI4MnJwTTZjaXBXMkcxb3NKNWIyYlE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T09:25:00+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Nifty Eyes Best November Returns Since 1993, While Asian Peers Enter Bear Markets",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDlHa1pMckd4UHRTcnBwWXhjdTFsT2RTLXByYUpIS2JzSzdjU3F4OHRDNVd6eUM5N25Sb1VRTTdJNzhmX3dJR3JyR0pHbjJSVEo3VjJnQUdDclJhdE91SDhVZ0FfeS1fMFp4NlVrdHBpWmI5dTJ1TXN0VDBhRmhpTlFDb2VPaXdwLTdNT1BqYmctSTJGZE1PN0pMdjJlNGtYOFhIZ3VsVUcxSHFkNVNOb1FJcTlxcm1sc09xM9IBygFBVV95cUxQMnVIT3AxZzZXS25QZUpqUDcxODh3N1RVbzlJYUNGMzlHczA4OEhMbHZKX0tpbkpSV0kyT3R6YjdJUjlwb19vNUduVnhZVC1qWm9sSHpTOHR3WXA4VzRtUzktZVRFNEdIaEg1Zmt0NkQ5SWMyVWUyRkVOVnEzODk3U1dXaHNEb3dKMGN0UlFpS2tLMzJHcWdVblZHTjVERmdaU1EwRXczN1lkZnBNeTIzVVNfbUtYYTh2SGhOVkc1c25nV28tQTN1dW1n?oc=5",
+   "source": "Outlook Business",
+   "published": "2026-11-26T09:22:18+00:00",
+   "theme": "Flows",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Brent crude price falls as XBR trades below key long-term moving averages",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWm4zOU5DeEZ6bks5YXJBbUp3aUdCdlRNNnVfRHZrOFRlZDBJNHphY3FQYnVvWHVQaGpRbkNzdnhxcmRrc0FMX0hUWUdUeDBiY2x2TnBEcUNheHBrVmhjVTd6NEdEcDJPc05aWFNUQ1NORWhDXzlZWUFrX0lNTGtsWHlhYWw1NGRqTktfV1JtcEVVRUhFcWNJ?oc=5",
+   "source": "Traders Union",
+   "published": "2026-11-26T09:18:23+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "Textile stocks: Gokaldas Exports, Arvind, Kitex Garments fall as proposed US tariffs raise export concerns; why JM Financial says ‘India in better position’",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQUkJ3MlVsemJUWnhlb1FHZzJnaklBcC1XY1A2eGt6Q0xDcXdIYTRfRXJTcGV3OHJMYUtmTlUwTjVCS1ZRd21zWG9ndGloYy1NUVo0cjdVREE4YllrOVZ1T3NXYWNvSlRsczEyYTcwSzE5ZjRTcDh0eEhiclRWVEpLV0pnVDJTQ194ZUdUdHU1TVo1a0xNdUxwMmY1U2QtTkl2bGFFbmtMX0plVDF4VzhYSExDQTdQQmpRbFpRQjljbVFaTUpEdXlQbFVaYk1kY3RZTTZmZzBoQWhwSFV2TUViSW5GcGxVaG9lQW95TmF1Y3EyNnVhdzFQUWttVEFTNnRUUWxzMkRETkk2ZnpwOFQ4Y2JnMmhwbVprb3FvNzVZVkhzTmFmSURwXzFMNVc2cF81RjJoQzh1ZGo?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-26T09:11:45+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "OCBC Malaysia, Hana Bank team up to facilitate South Korean investments in Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLQ2F4VnUtMkR4a2hGMlRzcVhXNlZrcjBvV3JMMVZwa0daWktkRFlReVFTQ01pNUJ1b1BtRmJmQk1FSHQ4WjJ6M1F1aGN6YVlN?oc=5",
+   "source": "The Edge Malaysia",
+   "published": "2026-11-26T09:09:14+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea",
+    "Malaysia"
+   ]
+  },
+  {
+   "title": "Indian rupee bulls return after 18 months, rupiah bears tighten grip: Reuters poll",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbUlRYlRjNHBNTnhJOGtwT1VHSWpfcFpsWDAtTS1aMkdXM2hWY2lSMWdVWFFibHhXelJVemNEQ3B1bC04eW54b2VPeWI2dnBod2F4SEFka3R2ZHF4VWtzYWRtTXJkV0Q4UlRuYm96cjFHWkIzNGQzYVVNLVc5NEFXSTI5UDE5QnRzQzZBdXdkOWwtS3NOVG9lVDBxbThsTmFHRldhNXFKNnhmVnFHdDcxSE5ZSVQzcFgzZ3MwekZHb2g1OFdudk9BQU1aVnFsTGNETDFyeDVuXzFHTHl6R1HSAd4BQVVfeXFMTW1JUWJUYzRwTU54SThrcE9VR0lqX3BabFgwLU0tWjJHVzNoVmNpUjFnVVhRYmx4V3pSVXpjRENwdWwtOHlueG9lT3liNnZwaHdheEhBZGt0dmRxeFVrc2FkbU1yZFdEOFJUbmJvenIxR1pCMzRkM2FVTS1XOTRBV0kyOVAxOUJ0c0M2QXV3ZDlsLUtzTlRvZVQwcW04bE5hR0ZXYTVxSjZ4ZlZxR3Q3MUhOWUlUM3BYM2dzMHpGR29oNThXbnZPQUFNWlZxbExjREwxcng1bl8xR0x5ekdR?oc=5",
+   "source": "bfsi.economictimes.indiatimes.com",
+   "published": "2026-11-26T09:02:06+00:00",
+   "theme": "Flows",
+   "tags": [
+    "India",
+    "Indonesia"
+   ]
+  },
+  {
+   "title": "Dollar steady in Asia as U.S. bond yields plunge",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXNnVFAtTm1QVW5JN20zSzVQOVhfZ0JjTXFJX01SR3IzU2kyZjhxM2NKY3ZnMzk0dXpteXBmVHJ2R09ERUtxVi1meUU4VV8wSUJrZEdMb2VSeE1wcDlPTGh3N0VBRFBjZEJrd0F6czdJNHppYXoyWUpUUll6YUJxV3BTVExyYklLdFE0UEdHZ0V1UQ?oc=5",
+   "source": "IDNFinancials",
+   "published": "2026-11-26T09:00:00+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "$100 billion FII inflow possible? JPMorgan gives 29,000 target for Nifty",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzFreGlEWnN6VDNHQmpNTUh6S3pnX1BiaDNMU2FOdTRMdHl6QnBWYl94ZldUTEptOE05dkFZUi0tRWgzNlpmd3RFb25wczhSQkxFMHREOExaUTdSVDU0OUhrckVuQ1R1QXlrZzlrcGwyWGNUdXNsRWl2bEZUSVVFWmdtWWJUY0FBMnY1NmltVUdDX2oxOS1hYmRSWHlqSzR4M19QU3BvamZ3UzZrZC1yT25sSWFyMk9PXy15ZzNIaG5iZzVZaEVPaC1WdjZwWHNXNU5sLVBFdGtxNXfSAeABQVVfeXFMTzVGYnMtOGpadHo4dUdSX2t3MnFMWUxxRklFLURmMFRTb2JmLVNaS0pCdVBtNFJqRnp4MHAzdnlCdXlkR2prTlZnNmtBSTZxaXdVUnpQOWx2TW1zeHdoVUFVcktWNl81NG8xVkNLMFhveW1vcDZ1NDcxYXJzYnliUEx5YVNJNXNzaUVUT0Vla1d2ejI2RVVQR2gwNmtGUWZmcWJ2VlE5dmFmY2RTQml6dXNPNGhHV0dzWmYxaFYwN2RfM3hjVUhGR1dEYWhmeDRBckN6MU00aUEzaWtoMklaMTc?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-11-26T08:55:41+00:00",
+   "theme": "Flows",
+   "tags": [
+    "India"
+   ]
+  },
+  {
+   "title": "Asia Stocks Head for Worst Week Since 2020 as AI Faith Cracks; Taiwan Caps Historic Rout",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10dUtocm9xTEZSanlObzRJVWJzSWRUVjlDRzYwWC0zeFhoN3RDTk9GVzJrSE84RDY4Z2l5cURyVllHc3YwRUJremN0NWd4UUVZd1ZXUmJvZzFiZUNvUnk5blNRWDhQRFpncV83cFB6c0trT0RGcVE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T08:50:00+00:00",
+   "theme": "Taiwan",
+   "tags": [
+    "Taiwan"
+   ]
+  },
+  {
+   "title": "Nvidia Halts Server Shipments to Indonesia, 3 Other Southeast Asian Countries",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2JJeEhwSXN2OXdta3FGbTAwNzVZWmpra1BWVmw2OVFSLU42WkwxQjNxS0JjN0dSUENhenZoVVo3NjF2MzFrSV9MUFoyQklEa1h5Rk93VWdlb1Atdmw1Q0ZweE1tck1XVndDZU50cUJBTDc5WjNYOHZOaTdyeTJQbVMtQ1N3bXhxakFueGM0OVRQNVpUS0FacjkwZm1GR2ZLV04zOWNQM2szcS11WFE?oc=5",
+   "source": "Tempo.co English",
+   "published": "2026-11-26T08:43:09+00:00",
+   "theme": "ASEAN / Aus",
+   "tags": [
+    "Indonesia"
+   ]
+  },
+  {
+   "title": "Dollar Holds at 103.7 as Bond Yields Retreat and Tariffs Imposed on 14 Trading Partners",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWTGhKcjBJZDQ4XzFDWmlxM29Odno2cGlnYk9MeDJ5RnZBLUttOTlGMGRJSFBOTGtEQnF1RDhCTTAwYUZSaXh0YmdJU0pZREZ6RGI5ZFV2T1FSSG9UbFRaV25sRmFzQm0zOXRrb013QmZHMldQaGc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T08:35:00+00:00",
+   "theme": "Macro",
+   "tags": []
+  },
+  {
+   "title": "Kioxia and Nvidia use 144 SSDs to stretch GPU memory to 1.1 petabytes",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPek80c3ZMX2NWdXZTNGVMTkpsVlJKcHBISzU0Z05uLV9UcW1wZ1A2TWVNNnNoSmhzZWdwaUdyXzNJSzJjU2JPSGlrZW9xVTJpYWNWU3hkbERncXN5REY4WGZaNDhzU2NlQ052T2plVUNNMjByM3ZKZk91RmdQZGM3Qlh0Tjc4MEluZFpCd0xtTmc2Ykk?oc=5",
+   "source": "MLQ.ai",
+   "published": "2026-11-26T08:34:13+00:00",
+   "theme": "AI capex",
+   "tags": []
+  },
+  {
+   "title": "Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVctRUFVM1l4Z3VNRnhLZVN0dV9KMENjZW1wWWo4eXJycklOLTdJSkJNSm9qbTB4WDB5OUFsaktnUDc0V2JheDl0eUZoZk43bVpCMjhSTEFJeXNpeWhlc1FhZnhvOXN3Q3B4R0ppbkM3ZmJreFpEbUd3Y3A3WmxTY2Jla1RzSXUwekdNV1l4bnlZOEw3bG85TUt2S08wRm9FNkNlajRR?oc=5",
+   "source": "EnergyNow.com",
+   "published": "2026-11-26T08:29:38+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
   },
   {
    "title": "Hedge funds are retreating from stocks, but not everyone is following them",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzJLYzNJNHRHUTlxSlp4TWlXd05FS1BNZnp3UWJMRkVqMlZ1anZjcFh1TE41cGJBSk1jUkpwSVpaYTVqOGNnVVg0LUloRnhhMWo2N1kxX1Z2LWh6bEpzTERnTzh6Z1dwd21KWXVYdW1MbGlKRktNd1l2ZUxjMDlsN3dhVVQzTWNS?oc=5",
    "source": "Business Insider",
-   "published": "2026-11-26T06:20:00+00:00",
+   "published": "2026-11-26T08:29:00+00:00",
    "theme": "Flows",
    "tags": []
   },
   {
-   "title": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWEMyaE5fV1JHZmlCQUhhUW9xdW5EbGpfRnhTYkt3bW1xaEFaT1BxN1FtUmRLRU0wREs1Q1cwczlOMmxZaVQxZXdsUXQtb1JJRDZ0WjFFY0JwejJqWGlKeEMyTlpEV3dRdktwTFIwMS1sSGpmYmxId0YxVklhWFRxWUVqeGJkZ21sdFRJci1xNmYzb1gtLTBqWTN6SW40Mk12aVRWWmVtY2FWeGo1S3dLeVR4cHZfZFpLemFLa2QwQWttb0FJVGJyamVYYkZZYnJZWS0yTGdMbVBnZUhsSGVuZ3o5LUd4ZjdpdXdkRU1ua3luUdIB9wFBVV95cUxQeGh0Sk9XX25INGx5bHU2OVpzTmo0dnVjQTBCMm53bjVNQjhWTnZCZm5DWFpNMEdpSHdGbWJ0YU9YbEx1d0t3ZFRzVkl3QWhZMF9CekpmcWhiM1NkdWpWXzVrbF9oZjVta1k3Mk5UbmxRQnZ2SDRzTnNPdk5qT210QUVWTmdYSld4bFYtWFlBWTV4ZzJWOTlJOHhoeXRxb2JwZU1WTTFjRWVfZ2FPSlJtdzlvSkRNOHpfMXlsRmdVUUVJckcwT241UFhfTWtUZGpaM0x6LThIS0RqUU1qZW5raVhkbEgxeG1OSmFqX1ZqXzZUOWpSMER3?oc=5",
-   "source": "Business Standard",
-   "published": "2026-11-26T06:18:34+00:00",
-   "theme": "India",
+   "title": "South Korea's KOSPI Closes Marginally Higher at 4,711 as Retail Investors' $744 Million Selloff Erases 4,800 Level",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yYmY4WXJmU0x5Vm5XWHlIV2VWNmluWUFUREx5MWdFRXRXbC1IelRCOUd4ZldabXVlZW82ZGNSRmxvaGdLRnBELThaV3R3bW1rbzhZQjNDalN6My1BVzliYnRiZEZrSTlVdG1RT0VEZG0tNDB4YUE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T08:05:00+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Kioxia and Nvidia test SSDs as potential partial substitute for HBM",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3ODdSOFJXMDI3Mm1IZ25Cd0tWNy1BWXFSQWZydFFVTWlxYzVfNFd5R2pLZjA4VG84Y1BiWVVKUTBrMk5mWXppbFgwN1hJQ09SZklJdTdYZHg0ZUJqNlY2R1J2dVJUN3JtMWt4UFVQdHBQRTZ3NWpPaDZR0gGOAUFVX3lxTE5fR0M4OENKM1hqeDlTdWtaUDFvTXQ4WVFMX3hrZC1wWFhWZXZfdTZfZnE3WXZRREk2TDBJSHJWOUJJQ0ZlN0dZTDRQYlpRWklvbEh2ZTlYN1dOWkNvUlpGZU0yLXRjclh5UzZMbU9zaXg5Xy16ZXg5cm9ST0E0QWpEbmxDcXMxX2ZDVXU5QkE?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-26T08:05:00+00:00",
+   "theme": "AI capex",
    "tags": []
   },
   {
-   "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 2.79%",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjBOUGFiMnNtX3o1bUFzSDhaNHJ0MTVVYnVyMk1FUFFmNVdCVDhIbkJHREZjbWxaejJkR1ZmTjNicUR1LVFwZndjLVZIUENQcV9hX3FNcmZOay1jbmxtQldaQTA3X2FoUXN3TUhxM0RDYVRGUTdKQzZub1Z0VVRQV1l3RmFJa1B0QUs4MVpRdXFZTU4yR3VwdHpJREFxOVJCcHNEMUxfSHdyUWFtRldHUDBVNlNmXzV0NEE?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-26T06:09:57+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
+   "title": "Kioxia Teams Up with Nvidia on 144 SSDs to Carve Out Role in HBM Gap",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93YUhvaHVVNm5fQmJWYmlxdFFScl8wQlJnNkM3NUk1Q3dlWFVZYTJJU0lhb203OXZ1dVF4NGo5aGRESUFkUzZqcWlsS09MT1MwTnAxWnNGS09zaDJoNldWdkxCOTUwejZydGV1a052amhjUHoyX1E?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T07:55:00+00:00",
+   "theme": "AI capex",
+   "tags": []
   },
   {
-   "title": "Japan's Central Bank Considers Rate Hikes Amid Inflation Risks",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnpMR3VlUUMtZUxwMkktMGJUdFNPOExoYUZSeXZxZ2tWUlBpQjZXRWFINE1JRGtsczJrV24ydXFvaFY0eVIyMkZ3LUVjWmE2WWtqTFNtQWFrYlQtM2Q0UDlyc19DTm5jWTZwVnRRQ0ZTRm5YSmM4M2UwTVZjWWE3NEJXcEItZHVuLW9kNkc4NzcyODREdnVrWnJkOFRVMzhDY2c?oc=5",
-   "source": "GuruFocus",
-   "published": "2026-11-26T06:02:45+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
+   "title": "What happened overnight – Thursday 26th November 2026",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEhQcjdZXzF3MkN0amJwN2JHWGJScmpmdmlxbHFLeWZ5RUxZMnBjOWM3bW1xQUxFSk93T3F0MFlkSXRBMEU1YUV1bDU3UXdwdE1maEwya2pFbi1pLUhDWUw1Vm1KN3F2bFZCQlVGcHROamVSVVBRYVp2NFg2WWsxa0dnVmgydw?oc=5",
+   "source": "Share Talk",
+   "published": "2026-11-26T07:50:34+00:00",
+   "theme": "China / HK",
+   "tags": []
   },
   {
-   "title": "Petrol price could drop by R3.10 a litre in December, saving motorists R155 per tank",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3IteEZMejZKQV82a3JodFV3cU4tSjZMdVVzWDRQdVZzcUdIQkJiNjZHMm1hYnlrTmltUThRV0p3LTBPbU4yODlKZEdTejV3ZkVFUlJ0Sjh6aC15cFlQbDJjd0w5ajhFLUdfUUt4dkhtSnJoX2N5Z3M3WWFxSHFwRm9XcWtXcTdtX0RrV1JSeGZVVFpPZkdTVFZNbEx6Skx6eUYzbnZOZHg?oc=5",
-   "source": "Cape Times",
-   "published": "2026-11-26T06:02:35+00:00",
+   "title": "Kioxia stock hit its daily limit before the Nvidia memory news came out",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclBBTTEybmhEWTBhVUV0OFdsYTl1NVpYMXRmUG9lM2NEcjU0NlVFa3dzUUc0bmQ1b05nVTBnanNuOWZLS0pNbU12ajBwblBONEtVVDVKT1B6X1JqNXV2Z0NKQzZlb25EM1pFNXVwMjFIckgwTHhlTE9wU1owZ193dmFhTXVyQzJOME43MDEwQnFiZlg4X3o3M2ZhTzlaRXVa?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-11-26T07:50:27+00:00",
+   "theme": "AI capex",
+   "tags": []
+  },
+  {
+   "title": "Crude Oil Futures Separate From Reality as Asia Physical Market Buckles: Russell",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXNxLVRkQUVLQTd6Y3VNdUZRcGpEeEdPRWViNDJtSTdfM0hBYmpJdDhTWmtwWnFlUnR6X3o0TDR5SmZONEFISDJBNkNsa2VjUFE5bUtYc21HZHZ3bDlKM0U1ZkpfY1FTS2hWNGVpWnNiaUh5YlAzZVI2V0JEeV9BM3pSMU01WTBpUUVMRDJLUjVvLXc3QlJfSEMyazRXZ3JhakhaR0pmb3JPZVM4OVVZ?oc=5",
+   "source": "EnergyNow.com",
+   "published": "2026-11-26T07:41:06+00:00",
    "theme": "Oil / Cmdty",
    "tags": []
   },
   {
-   "title": "Hawkish BOJ policymaker urges swifter rate hikes to address price risks",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tUEd1aEpCOE5JMnJkWkxwajBBbEpxTjdkY0E2Nm9mZjREdTJvUFpMRjIwcjhWVUptMmdURXlFUkVmRENPR3BSUE5Vdy10S0w3aGlwQTk0WnlGV0ZJQ0c0ZHd3TFpTa3VUZG5ycVRWOVhyeUU?oc=5",
-   "source": "毎日新聞",
-   "published": "2026-11-26T06:01:57+00:00",
-   "theme": "Japan",
+   "title": "Goldman Sachs Flags Two‑Way Risks to Their 2026 Oil Price Outlook",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmRQSFJXSzRMb29XeEtFOGJnei0wZXhQZUd3aDN3T1o4MWRkTDBBelV3Y08wSnhsTC1EakpJNzRuVTVJVVdWY1Z2bXlQNUI4N1h0dnRpY3MwMjNzV0tZNmdJS2dEcF9lV2h1WTBDZUxXR1dMSEpTSEUzbGlNcHRGRnk0NWlPMlk5U2E4aEV0S3Y5dkZiRXBjcEExbUo?oc=5",
+   "source": "EnergyNow.com",
+   "published": "2026-11-26T07:39:19+00:00",
+   "theme": "Oil / Cmdty",
+   "tags": []
+  },
+  {
+   "title": "LIVE: Why are crypto and stocks crashing rapidly today?",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUQ0dlpnSW5kWFBBWW9rTGVKalhpMjZKMGVVQ1A4bVBwUXpZem15WEVtUVZNTURQNE9jdzJTcE9TcmN1T2pqUXlTb1RlODQydmEzSW1oRHlGaE0wbDNqdWtFNXJ5NFdvZTVtX01HT0dERXA3SmZodHN1cGNwVmdPOVZTTjlOXzNPMW5jaA?oc=5",
+   "source": "Cryptopolitan",
+   "published": "2026-11-26T07:36:36+00:00",
+   "theme": "China / HK",
+   "tags": []
+  },
+  {
+   "title": "KOSPI rebounds slightly despite BOK's rate hike",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzJfU0w0a1VHYVFGem1ybUktWVZ5QVpxNmZocFFyS1RiTWgwaGZSTTUwT0FFZWptSDdIckpVUU1BR3hLQ1JENWN5M3Viay1aT2tJdFVxeXZLMzA4MHNUZUZMRHVMWjZXTHZKY3RrQXNsQjhpUmNvR05KUkRqNjM3YkIxUm11Z2xWa2ZkZ0pfM1lndG13SE9LMzRYSTDSAZwBQVVfeXFMUEMyX1NMNGtVR2FRRnptcm1JLVlWeUFacTZmaHBRcktUYk1oMGhmUk01ME9BRWVqbUg3SHJKVVFNQUd4S0NSRDVjeTN1YmstWk9rSXRVcXl2SzMwODBzVGVGTER1TFo2V0x2SmN0a0FzbEI4aVJjb0dOSlJEajYzN2JCMVJtdWdsVmtmZGdKXzNZZ3Rtd0hPSzM0WEkw?oc=5",
+   "source": "The Korea Times",
+   "published": "2026-11-26T07:31:08+00:00",
+   "theme": "Korea",
    "tags": [
-    "Japan"
+    "Korea"
    ]
   },
   {
+   "title": "KOSPI edges up despite BOK rate hike",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWcxb0llZG5Cc05sOWZVZnNwclJITFRfWEk2LTVCLUFmcEtkUnpDeHltZVBEb3lERUVSc0VUUjYwalpVSzB3bHlVUTZEdDRzbm5zc0VfWEhsc2hUNEFzTUtKM3A2RGdZakhyX2QxWExRelkyTV9waE0wS3hSaFF3X0NIVENWcU1aQUHSAY8BQVVfeXFMT3U1YnFWR2NTaFVEQWZncExBSEpHeXF0V1RmSUw1V191UVlJZGo5bVJsaVB5clJIZzFQVzJIbW43NlNhZ2UwTG05ZmZ6N3Jla3ZCakRNbGhGUzRRUW5JZlUyMHB3WXQ2V1B5VzA1cUY0X29zU3lOLUxQNkxoZkp0Yk1xMHgyajBtV2JBaURTYXc?oc=5",
+   "source": "The Korea Times",
+   "published": "2026-11-26T07:31:08+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "South Korean Stocks Plunge 6%! Financial Expert Bursts Into Tears on Live TV as Samsung Leveraged Product Tumbles 15%",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ydW9CQmF4bVZlZHlRUFZMbnpoUktXWnpJVDFEaDMteGdrZUVRTUh0dk1Idk1GaEVrVTJTRVJSU242d25LUHYwVktIemZlejd4MzFSNDh4dldlRUZkc1YyNUhvZUpZY2RBc2dhMW5FRHVBRjAyaGc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-26T07:25:00+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM19FN3pVazdpVnZDd0RaelpoTDBwSGkyRGlXLUNSNE5WeWk3ejRlTFNTVkRlaEFiNF8yb2JxYm03NXRFNDhVLVBwbmZHM29RN0RyZHVUUjBIc0FrMzZscnhzNk5uUUsxaW5wcW51enRuOHF1d05OUlhLblU4RTl3RTRmLUhpQTN0NWpHTTJQWjZKR1NVMmg3YWRsaThwT25nM1VBdk5UdUs4YlFKQjk5TzZn?oc=5",
+   "source": "01net",
+   "published": "2026-11-26T07:19:00+00:00",
+   "theme": "AI capex",
+   "tags": []
+  },
+  {
+   "title": "Japan, South Korea Stocks Pare Gains, Kospi Closes Up 0.29%; Kioxia Surges Over 12% With Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMVREN1Bkc1FtdTl4OG1KRloyRU5haDhDUUJIMl9pRldwbzBMb3NvV2JtenRTS2VYTnVXdmpOTFhpQWMxZDlMRzVHRTItMnJBYVdIaGNrT3FUaG45ZkVTaVliQlpXLW5SZ1dKTElmN09yTHZnSFdCM3FFME4yUHRTNHloVUJmWnZObFpYazVQQlFVVEY0MG1UNmZMQ2xYSmlLMVN4eEZHUFVnQzItMUJUVUJmb3NBemtrcEpxSnhON3lGV1BmVnVyYjFJcG5uN1Vab1JxNWxB?oc=5",
+   "source": "TradingKey",
+   "published": "2026-11-26T07:03:32+00:00",
+   "theme": "Korea",
+   "tags": [
+    "Japan",
+    "Korea"
+   ]
+  },
+  {
+   "title": "Goldman Sachs MiniMax Research Report: M3 Pro to Launch Soon, Maintains Buy Rating and HK$760 Target Price",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWlfNHpYNUZybWxFY1dtTUJqVlUwSzBkenp4MGhnU1R4WXVid0lyV0thWFRhdnJtVzNOM29JS2ViczlOaVp3SVhMZVVxeVNnMTdDSDBvOXZaa3lQQzd0RHktVTVRR3lseGJvS3FGRXhUQWs2dko5Y1llVUhRMjJFd2p3QmpCRW1BaTMxODNEUkc5NEwxRWVZdGdlVjhvaTNRSTlRWU5FN25vZk1mV1E5Y0lVUWRXMXpPcUNYb1dSakVWN2lnblpheU55WTI?oc=5",
+   "source": "深潮TechFlow",
+   "published": "2026-11-26T07:03:31+00:00",
+   "theme": "Strategy",
+   "tags": []
+  },
+  {
+   "title": "Asian Stocks Rebound as Technology Shares Recover",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QUWlObzRBM0pZTDlocnNOUksyYmtFaWNKd3JNT2ladi1IdEllWE92UzRfbFFBMVBEVHViTV9vR0ZRejQwY2kwLXZkaDNhOUlSaTQ3V1BaMVJ5N3NibTVUTWF4WGdWdw?oc=5",
+   "source": "Peradaban.id",
+   "published": "2026-11-26T06:37:32+00:00",
+   "theme": "China / HK",
+   "tags": []
+  },
+  {
+   "title": "Asian Markets Rebound as Technology Stocks Recover",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43NlFmOThEU2xlX1QwNnFRT2Y3QVZzXzc0cmx0b2V0NHFfNDcybEFPd1dRS1ZtOTdtV0FEaDk5VXltUzI0T2UzWTkweVVKZU5GTklqZ3hBSkdTQ0RLbjNOTGZib3c1eWND?oc=5",
+   "source": "SuaraGarut.ID",
+   "published": "2026-11-26T06:37:26+00:00",
+   "theme": "China / HK",
+   "tags": []
+  },
+  {
+   "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix — Analyst Presses Memory Giants For ‘Massive’ Buybacks",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTGlsbjI2elVWYkZiSGpjdjdZc083S2lsWVNzT0MyS2l2X1RJdzRfa1BXTnVRanlaWXZ6aGpMaEpqSEtsNGNYMFlzS0hEbi1oWjY1VFRPS29WcjJyMkpGUm9qSEx6T1BOdnl4OFhhVGFaX0FTbFRoQTRyMENISXFsWlFCbEtZM1hDcXhvWDNneHNuTDhIeG85LUpMRE8wV2R2UloyZkdqRWJEUlZNQzZnX2xZXzQwOGtIUGxLckNWbVRjZlVSZEpTME9BME53Y1ViWFZQYU5KM3poV0NPWTRPTXZwV3V6aVZRZlNXMWpCWDU2YWhGc2c?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-26T06:30:00+00:00",
+   "theme": "AI capex",
+   "tags": []
+  },
+  {
+   "title": "Large caps, gold and accrual funds: How to manage your portfolio in 2027",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGFUMngzV3NmbHo3UGMwZFgwTlRtZmpkLWNMVk56N3Etc2tHUW02TjFTb3FOeVUyU3FLdFcyR0lJVV9VUkZ6b25SXzA1YlMwem1qeUVfQk5RWThGdTF1cmQzMFV4dFRhMWtEUDlxdXpoaWtna245TXFrN3hDTzdEZGFqOWtiZ1FoMXgyUEp1ZTUwX19tMS1vVjhiZXVnZW1zSllVd1E1ZG9tU3NDM0gtSTNReXBaejNyYTU0Uk1QZEpFVndmZHg2cExlV0otNHdNcHpNYnItODEzdmlWaG1RcHFJX3d4b05M0gHoAUFVX3lxTFB0YVQyeDNXc2ZsejdQYzBkWDBOVG1mamQtY0xWTno3cS1za0dRbTZOMVNvcU55VTJTcUt0VzJHSUlVX1VSRnpvblJfMDViUzB6bWp5RV9CTlFZOEZ1MXVyZDMwVXh0VGExa0RQOXF1emhpa2drbjlNcWs3eENPN0RkYWo5a2JnUWgxeDJQSnVlNTBfX20xLW9WOGJldWdlbXNKWVV3UTVkb21Tc0MzSC1JM1F5cFp6M3JhNTRSTVBkSkVWd2ZkeDZwTGVXSi00d01wek1ici04MTN2aVZobVFwcUlfd3hvTkw?oc=5",
+   "source": "Business Standard",
+   "published": "2026-11-26T06:25:44+00:00",
+   "theme": "Flows",
+   "tags": []
+  },
+  {
    "title": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTNYTTZ1N1VZSUpCMHUzWVJrMnN5M2NJQjlLTllwaGdjZ3pDZnJTNWlZbEs3OExGOXhCeVlDczRLaGFEaDJ5dklMbUl1TGllTmpZd09ZMnFsS0xhR1ZaYTQwUDU0eG5pZi1VSk1oS3RibGJvMWJ3R1g2V2U5VnBKMjh6UmVWM1RNQ3RiUnhjRjhmV1FVWUtMQ01vU2poVXhfbDFsYkRSMDdkdFJMdWxmYm42STByb2NSdHFEMUlR?oc=5",
-   "source": "KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12NUlnalRUeFBmWHZmdFI4TlIwVHB6S3dIWDg3Q1U1a05RTEVVRk95UDdaakFfSDg4SXprT2NHVVJ2U1NST19HOFpGYlNzcDB6?oc=5",
+   "source": "The Edge Malaysia",
    "published": "2026-11-26T06:00:00+00:00",
    "theme": "Flows",
    "tags": []
   },
   {
-   "title": "Asian Markets Gain as Kospi Leads Tech-Led Recovery",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNjFNS2Z0a0hVTm80UWZidmhuRDg3QkFYbC1rNFhJc0loMzBQZUwxYWZBNGxsU25FOVZ2bGpNc0E3NVFURFJRdkxVZzBZTzY0bTlWX1FkV1FONG5TUVJyVHlPRFh6Y2Vmc3VkV09jSU1NOXplU2xDbmJQUXktdmNhVHU3Z1VBMXE4UjVXclYtYy1KejRUakQ3TVJR?oc=5",
-   "source": "Business News This Week",
-   "published": "2026-11-26T05:58:56+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "South Korean Retail Investors' \"Buy the Dip\" Bet Backfires as All Top 10 Net-Buy Stocks Post Losses",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaUUVVdEpwN3RHSDRheXdGOFgweERWUm5ZcGtkZm5QXzJaWnE2WER0a3JwY3FIM3hlZ2FFRDMxVWxjbTBMd2hNbUJXT3V4SDk5bGx2WDJkVmNULXNTUWlWSHlDeEdZNXFRcm9TZUluZUlwVWZLZ2c?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T05:55:00+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Japanese Yen holds gains as BoJ policymaker signals chance of faster-pace rate hikes",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMHdCU2VfSmEybEJZclo4eXBzM0FTcVI3ZENVWi1MMzd5SGZfbW1YRTg3QmdqakZsdWM1WVVnRWpWWjk5Sm43bnowNEExTlMyQ2xNRDlrdHdZZTNRRkhBSVFFT2RkaG1va3dEbGw0Tll0Uk0tZ25nc3VaVHo5MmdnbnREd1F0Vkp2RUFza0MwdDJKVVhpRzFwaDI5am5lUXJ5SUdoUXRTbTlsZXo0S2VpaFozUUFWWXJvRUlLM0dKS2FGNC1YaFE?oc=5",
-   "source": "FXStreet",
-   "published": "2026-11-26T05:52:20+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
    "title": "Kioxia Starts AI Memory-Tier Proof of Concept with NVIDIA; SSD Complements HBM, Shares Jump 12%",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pQ3lVN3RpNHcxR3o0clFyd1hRajZNOVRXNXhra1FZQXN6N2VGRnI2U2hYaUh5SGxtNkVMR193RzdNMHVDV3U1RlJXRDhtYWpqYUpRQ2hMNEl6a0E5ZlhBOWUyVHB2VHlKY1FWMmp0dFUtYWJOUWc?oc=5",
    "source": "BigGo Finance",
-   "published": "2026-11-26T05:37:58+00:00",
-   "theme": "AI capex",
-   "tags": []
-  },
-  {
-   "title": "FT: Nvidia stops AI shipments to Malaysia, Singapore, Thailand, Indonesia as US tightens China curbs",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZC0wN3NiN1hpaHNGZk9sRnZGMnRESEtXQlZ4cEtkN0t2UmJ6TXhjeHdMWnBlQkZHblNnazJjeDhTRjBZbnhwRk56M3pnVEhxaXNnNllUQkJxUHVJUEdvMkRFaWdXTGtCalpuYmYwRDhrbWxZaG5BenJEd0JNbFZ6UQ?oc=5",
-   "source": "Yahoo",
-   "published": "2026-11-26T05:37:00+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": [
-    "China",
-    "Singapore",
-    "Thailand",
-    "Indonesia",
-    "Malaysia"
-   ]
-  },
-  {
-   "title": "Nvidia halts chip shipments to Southeast Asia amid US export controls: FT",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWJEeVExelJ2NEd6ZjYyX0d0VGlOVGxELVN2UTM3cGp2NmQ1VU5FdDJiU0pNSVpnYmgwMFFhVmR5TE5HdENSclJ0b21xWk5FdkNIbGtfaGNHaEdMV0dxQXloTmIxNXNoRHIwWk0wa0huaklsc2UtR0gxQlBldlBDNzlQVWtnWUFBbnVqN2xGT2xYMW5taGtyZkxheXR5MWlOMkE?oc=5",
-   "source": "Crypto Briefing",
-   "published": "2026-11-26T05:36:17+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "Taiwan Stocks: King Slide Works Leads Rebound as 15 High-Priced Stocks Hit Limit-Up Intraday, 10 Stay Locked",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40N2dFdDAzZk1OZXplV05tNHlJZ3M5c3p1VzdZLUQzWFBUUVNNRC11M0d4cW9wXzVNd2N2T2wtYWZjazJBZG93TkhreHZpWkJleURwNlI4X1hDaGdJXy1qOWFYaFRZTjlKeHdSQjBmNC1xbE8tVVE?oc=5",
-   "source": "BigGo Finance",
    "published": "2026-11-26T05:35:00+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Taiwan's TAIEX Declines Nearly 2% on Thursday",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVXFUVnBIY1pVWVc4NFMyODFzYmJESUVhdFQzU180QUtmdS1HMjQtRWg5M3JybUdrNTlCaVJZa3M2QzRUbGVSaTFwTnh4cTVxSXdfXzBzUUoyLXRvSC11Q2Z1VDRWdnRSMTZsR1hnWjhndElacHZDTl9wV2d3eHhRcGF6M0ZKSXBhd3laMW1PaTZGX2huekRWdVloaXNyQQ?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-11-26T05:29:02+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Bank of Korea forecasts record $500 billion current account surplus",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05TFpvdmdPa2tWOHBiLVVRWU50X0lCbnVjU0VERVRodnIxdkhyQzA2Y2N6cC03c3JRQUJBV3dUQzN5QkVCQ0ZJZmp0T09HVTN6OHFlakFBZUg2ZzJUME05T3FRVVpud2IxV21sMkxLQVlna1AzNk9vWmJDVU4xZzDSAZMBQVVfeXFMUEkwa3ROWTZWYV9PekhXVnR0YWNCOVlpQmtRYVZ3LXVGZWNfZjB4NUVfcGxVR0VQb2F0aXBJOVRGcHY0RlExVU8yT3dPVkVsSTdkbXVkdnJEZU9PV3Z6Z3VUUXFtbHlMODhwczhjSnBLei1Vc2s0eGh0VGNXWHVuVEpKb0VpdnpqU3A3Nm1nSkJ6aHJF?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-26T05:26:00+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "US tariffs already priced in; strong fundamentals, FII return to drive Nifty higher: Kotak Neo",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWxWQWpnZ1dtT0hRRkhkRVBJLUV1bUdEanQ3czlCeUxKbmhBWVJvQzBjWnl2VzgyLWt5RGtTNWl4c25TZjBfemdES0htVjFxOTRiM2UyNFR0SjdOdU9MdURfZ2pCcW9Hdk82b25fbXBmZDBna2Nnb2U4U3RnZUhjeUhsbUlKZ3c1dE9iMmpFc3BQbGpxZnFlY0FHcFlLNTM5cDd6aUZhTkRjMDhRQjd6S09zRmRaT01ScDBVSUlWS3dtczhwclI3dEpHVUdMRGhkc2VSV2k2RFRqUQ?oc=5",
-   "source": "ANI News",
-   "published": "2026-11-26T05:24:00+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Indian Stock Market Sees Significant Gains Amid Foreign Investment",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0p0eW1qT1o4a1VCbXh0TFA1WC1mUTJHZU92c3NfVEttSjVia3FsQW5LN2IzWG1ZNGsxU0p1MTlsZDViMEUwUjZDRDBqbTZYelZXQjhTVVd6YVdTNkdyRWpqVjNIUngwMU5KdU91eXRBNWtCN0NjQUxPM2o4Sk9QU19OVTh2eVB3Rk1kbHNHeXpacm1aXzhPTGJTTUJDaFNEM01TLS1ZLUFyOFBiMXZWcQ?oc=5",
-   "source": "India News Network",
-   "published": "2026-11-26T05:20:30+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPRnVqWnFVS0lpZVBGQU9NcDAxeURXRzVJX3E3R1YwZFNKSUZqYTF3N1o0d2NuQjZKWC0wcUduYURiVUs3NEprRG1CbnVpTDBpaWxFbVVRQVo3eExZY09rdDltX0x3SHFqaWVnMmpLTEZHOVg4cjRUc3BuME5BV1UzMXczQUI1VUVHV1prVUtQdEJHRUc0UDNvbFhkYW9IQ0Y5N0Rkajh0M251aWRJU08xNmtMVUo5T0NCbTJOaEhQLUtUN3ZPS3A0SEwyV3kxWDUwQzhOUTJfQ1VMY0p3OTZLa0p2aEx6aUhJSlFaN0NaSWVCSnVfQmRlMmYxTzdjeElwcUZjR29PTHBobFJCSWh3SUwyN1U0NEpsd2JlVjhBcjJzdlVJb3FoRURGMXdrcWJVaUFxOWdoV05qcVVhNGMwcVg2RmZYbWPSAeMBQVVfeXFMTU9hdFJYa3JMY3dIZjFGOVVLc2NCUUN1NlFIeGlJU0RJSjJ0X1NvOG1jY3FCaTJJMEs4Rm9pNkJ3eFRTc1EzVGtkazlZcWVTaGZxYXJKV3ItdUM5VkFWeExxRGVnNWJ6clc1bTNBUjdzMTdLTzV1YTIxM1VZd003Nk9tV1VKSkZLdTgzR3RvN0kyYkpkVDhOb2Y5VkxWd2oyZjQ2QWtkR3gyWFREWi1qWVZNb0NGc1l1VllSX2Njd1NXN1FDYThBV3QyRUtUVDVWZ0lvSDZVR2kwdTNYMm8wa0l1TlE?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-26T05:20:12+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "South Korea's central bank raises key interest rate to fight inflation",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaDlXR281eEoxVGItYkU5YTREc2ZNZV9SR2xZeDREM1JObVN2LVg1NkY3VjZ1VGUzRTVhRl9fVU5GYXNaU3pWMGlQYWdnTWRaUFo5bTIzN2NHZk5jcGdqNEcyVFVOMEdlNmJtOEZPRm5TYloyb1B2NGdiYWhnUVlFMWVFQ3JxMDVFNndTSDNkamswOUxQdS10UG5DZWQzSFVuLWNreWZmb3hZNkNKNzNXZjdxODZ3VWxFQzBsREVSdFZOQks3UF9zZXhQbmp0RC020gHWAUFVX3lxTE80b0pVUEhMa2Fla09rY1diZEFaWU05LXRCa2pUcXkyUzB1bHMxMlpVOGtCV2VHandDRTZhQ2NjYTNhbjJraWVIdWdwMjN0aHlfNng4WXd4X2t1eC1VX2JqRXVaWmVKY3ZPZjF2LUxhaUhPTF9FclZlenJUQW9CWDE2cHd3T0NrakZza19YbTlqd0ZOMnRRSG5GVzVNcnhaV2pNR2czUXhCNmxtRzNTUmZfNll0QTNJRmRJT0MzQUFCY2g0a3hybE50WjVET1lXR3RabllwckE?oc=5",
-   "source": "Business Standard",
-   "published": "2026-11-26T05:19:20+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Stock Markets Today: Sensex, Nifty Climb as Foreign Funds Pour in, IT Shares Lead Gains",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjJ5TVF4dlIyWWpfWUNndHlXakNxcDdlaWF1dEZ1N0tqTE4yM3E5NDFQaHAtX09PQlh3SzY5ZjU3WVFJM2FHMl9JUkFOdDZkSjlCVXdodnh4MjFZdzY1RFQwZENPZWZya29XWXFKdkFLNGJ5NG5GNEJEa0FvUzV5cWFsUVR3eVZUa0tKSGNuenFkcEwyUzFISUNTYTE1R3dCaU80cnF3b1dlcFRMcWY5QjNGRFpaX3VEeFU5OVdVSU52amR4djVBNVh6dlAxaXM00gHTAUFVX3lxTFAxNlFtbWhvbFctRGFuTGN0U1M2Mlc5VkhKNzFRVnRHcTk4Rl80d0tfMGJBNUNybkp1YVFmSU5mbGVHV21aVjFZeUs5eTFGelMtTHFqMzdLQk4yejhjdjNnbUlCd1FzVWFqSVVjT1ZMRElwWDN6T0dPUkZtNEZybUJ5c2NYWU11NHRKRG42RVBPRGZ5dk91dnNiT2FiZWNOSE42ZWtSZGVlM2QzMy1kM1FicnNIeXZLOVVuZFMwamdXVC1ZN3hORm9FVjMySzF3MFA4NDA?oc=5",
-   "source": "Rediff.com",
-   "published": "2026-11-26T05:12:52+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Bank of Korea Warns South Korean Growth Could Fall to 2.1% in 2028 If Three Semiconductor Shocks Hit at Once",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sbGZyOHBNbjBjek5RbjBfOXFsdEZ6VS1sNm9NWk1oU2hXTmx4bmc1d3AxT1J0aGNsLWo1ZExzUjBEQk5IZkQzMFRndnhWSzFBelppUjdTb1pKaXBMeGdFWG5pS1RiSmFFdmJsWHRWN1VsVmhRd2c?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T05:05:00+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2VKX0RYcTh0Q0MxeWhKZ29nbjFQZ2RMWS1TMlp0LXllb0dGeVFFNlcxSi03YUdxNUx1YkpxWWI4Y2ZtTjFfdzgxeW5fRk1JS3MxNmxDaEI0WVpoNU9kbm1pTHIzaDU3M0ZNcXN6RW9GZHBkclBydTJtVjM0dEhQLWVoWVdwR2l4WGF2bHNTSHc2NkdrY2x2MDZxdnp3cVF4UGJrZmdabkFHRzN1S2xsTnZHQlBQdjQwQUhUMG14WWdNRzA?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-26T05:03:45+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Korea",
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Today's Market: Sensex Today Trades Higher | Nifty Above 25,800 | Nifty IT Index Up 2.4% - Indian Stock Market News",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmU2THAtX0pJTjRqZURja2o1dFg4dzJ1VVFybUhQSk5seXJOVEVrVjlHNG03cjhXeFFjeHdzM2o3UzlXX2pFblhGeS1mMmVLMFl4UHpRVFVIbWZaMzZCZ0p6aDA5eUZpSXl5VXJybG9ObzdPMVg1eTFRYm5TcDFza0YxelQydmxFYThjV3NmV1ZacjBNRnBIZU1kV0o0VjVPZzdoczlTREtvZ0JuZ2tKd0ZQR1ptMnNlekpLTEVIUEtwSWp6NFBJ?oc=5",
-   "source": "Equitymaster",
-   "published": "2026-11-26T04:57:39+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Taiwan and South Korea lead emerging Asian stocks higher; Indonesian rupiah hits new low",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lM1VIZUVPNHJPTTZUZzczQWN2dmp4VnBFckdpUEMzU3RXOTNmVzJ6RGVtZm1TQld1bTJKenJsUE5tMXZJb2ZYa2JZdXFkWEpy?oc=5",
-   "source": "The Edge Malaysia",
-   "published": "2026-11-26T04:55:04+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Korea",
-    "Taiwan",
-    "Indonesia"
-   ]
-  },
-  {
-   "title": "Stock markets climb in early trade on foreign fund inflows, buying in IT shares",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlc5YWVUWGItZHlVSGIxdVBwNzlKRHFEdmRDbnRoMDlqOHVIYmthM0s5MnprVU80TzZvNlNBcW5pQzlWN1JYTGtwUG54ak5sMmVqSmxyRTkwNWY1b0tjZU1ZSjZwYnpNRnNsaW1PaFpjYklLNE44QVR5SzlPWW5Jd3p1VHM3Tkh4UGh1dUg5UTRKcGt2UnJNbHhVam4yek8yZmZ0b0h2VzVVdjUwNkM4cjJCbjZBS3ZrSE1MN21CamloNXdDY3RCamo1b1M?oc=5",
-   "source": "Deccan Herald",
-   "published": "2026-11-26T04:54:45+00:00",
-   "theme": "India",
+   "theme": "AI capex",
    "tags": []
   },
   {
@@ -283,233 +1053,12 @@
    "tags": []
   },
   {
-   "title": "China, Hong Kong stocks rebound as investors shrug off Trump tariff proposal",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBNQkRUd3dOcDU1dGsyUnRSbzdSV0YxRzVmM3FkRlkyaW5aLVRsR2dwVDhYdDMyb214ZTFYY25uZ21oczZobWt3eTVpOE5yRHM2WTZqd2gybEQ2dXVfQ1Nla1FEWEdENHRROFhLQ3dXaTNqNXdrakFndVg2UEtkcWNnckFNNERQMVZVZWhYTk9iQjFkNkNjT2lKekZ2eHJ6VHZqNmlIU1dldURQd2JhTGROYktmR29xTVpjS0RuY19YUm1LdnNCTmlqNERMN3c1WUlwTUtQYlZzVC0xVFA3azZWT1c5ZmvSAewBQVVfeXFMTUVhMGpvcWRUNlJnd0V3RUVJNmdrSHFGMkNKeGkzYUdjUXJOazhCdGNkSUFKREVpTGt6Y0RHSjk3dVd0MThCbC1qLUtvVVNydkNTaDFlMktYMU5ScGdhNG5IRE9zNk5BOTNDc2F3alpvUHc5cXE1M0pSdWJ2VlcyUS1pbERjMVRuWVpZV3N1SGdrbEhpRzdOOE5NbHJ5UENJb2xFV2piSTlKdXNxcWcxcENuTGlUeUZwS2d4UlhraExhVVkteFNKeFA4blFqX2RGMFU0dVZZWVV4R25sc0xGYXNGM2RmZlBNRTJ4VDU?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-26T04:51:15+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "China",
-    "Hong Kong"
-   ]
-  },
-  {
-   "title": "Sensex gains nearly 400 pts in early trade as IT stocks rally, Nifty below 25,900",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl9TVHlsLXNIWURyNUE3MXNodnVvVjc1enlkQmx4TlJVN0k4VWRJbGZVLTBuUW9ROTdHZW9DRFBtLVZLTkxRZEN6enNiUVh0bl8tUlpzMk13MWJZZWg3SWI3ODVvczF5M25rRko0bENwLVZGbXRTSXh5ak1EU0ZTYnRpd1l4bW8yaVpsbHAtb3g5RVlxQkN5ZldESDVlMFMx?oc=5",
-   "source": "tennews.in",
-   "published": "2026-11-26T04:49:51+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Indian Stock Markets Climb on FII Inflows, IT Shares Boost",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3doSVZDOXhQa3FZWEdtLVN6YWJycFNwQVBBY0RvV1BpNzRTM3RJN3pPTkRmYllBMGNFSFo5aXBZY1o3bkFvNHphelhJWUVLUUQ0VTdLcENYSlRNZ3VENjNxZXFxYXE5WmpZQWVxUlhDS0s2M0duWXRjdDF3bVRVeDlIZE80V1RsQ0Zvb3lsUGFEdi1MRjBMcVUyRk03Ym9tVVRSZHQ2bXlaclJCeXfSAbMBQVVfeXFMT3hxT3Jva1l2bEw3V1h5TFZCNy1WYzV1UXlBQTJmM0FyMHc1LWZOdW1Pcmx0Z2tIQlZJY2dWdmFURHQ3LUdPS044eGxieG5VSFUzbzVJUEJCUENRNE5TcTduSzJ4akxMZl8yYzBxYVZTY3RZLXBLM1RfZGxPc3MxZEFGci03Ml91UHVOWHpjd0NTLXFJbl9pN0d0aFFOckRneFpON1lSb0RZc1hfbGFMMGt6cms?oc=5",
-   "source": "Rediff MoneyWiz",
-   "published": "2026-11-26T04:45:14+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Dollar steady as sliding yields temper safe-haven bid",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTJZRTgtVktLT1QyVGljZXZUWTlTeGdrcDFNbkhTLWpDeHVYSDg3V250dW1BRS0xb1IyM3VqRWdhSjhZU0lMTVdfOHdqekRIY2FkWkVNQXZuSmpDN09kTzlpOER3azl5YV9lajFGZ3ZQeG51clM5R1BYUnpMNDZ1X1BVemt6SC1IWlFqTVFyaHnSAZYBQVVfeXFMT2xDQ3k1MXE0LTJHdW12V09fMHBBVzlydC1ib0pSaWFkcDVFMXdHYkM5V3RrUG5vSmd3aDVid0tmLUpSaDlBUm9wMngwV2J3Y3ZVV1BqcXlpQTVpUFJ5WlFLSHhKNmFPZXR4QkdXajREcFo2SDJzd09HOXJwRlllYWJhWmJOLWdvZm9sMDFuWWktb2xaWG93?oc=5",
-   "source": "CNBC",
-   "published": "2026-11-26T04:45:00+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Oil Price Today: Brent Crude Nears $95 a Barrel as US-Israel-Iran War Escalation, Saudi Refinery Attack and Hormuz Tensions Fuel Supply Fears",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPN2NPTVFRSDVORjQzdGQ3OEJycThWcUI4MnVub25MOWJjNkoxUm9Ka3NaQ0t3eEhwUGV2ZndNY1d0a2dma2NOOWprb2ZXWm5yekxVdFJYNlRSdlA3UWsxWWZ2d204MW9rTzNWbFdCYzY1dWUxeVNpeXh0WkhzUTRNOWUyTkxqYmxlV0ZhVHJDaWI3ZlczWk1BZkgxUi1CY1F6eW5LaVVMR0Yxc294WC14Q3lYUzg5QjhCc3VmV25wdVR1bjJ5U2NXQmtUUmROUTAzUkdUN0VXbl9GdEJiTW1scTZRWE8xRjdqT0pQX0Z0aFJXUmhUYlBhOTd3bkVVMkFwRXhqSHpQZDBOSWFVNy1pddIBlgJBVV95cUxQdnNvcFpaOGRMMGlKVDBGZHM3WGJZbEdoUGdwZzRIbXh3X3NQY1NJdGVxWHVBSmdMVHJ1NTQtQVRGSFlTZGZ3c3VzQThGMklyZ2VKNjBoMklyd0x0MW9OcHJYbXplbElLSjBFM0c3WDNwMi1ONWl5Tk1nNjNaZFU5RFhXRy1rWVZYTkstQ2RzeVJENmhNcXoySERfY2czNHJreDNOZUtfTHZ3VlA1RGo4WkM5WmdKQ3RNMjRVcVRhS2lLaExmNkRWM0otRlpxVzNOOU96R1J5NlFfbjMxU0UxS0tlNWdocUVMTDhWeTJBVnBKOHhRZzl3TFVIUU0zQ1Qzek1BUnhkQWgwd2I1ekxaVC10ZTVsQQ?oc=5",
-   "source": "The Sunday Guardian",
-   "published": "2026-11-26T04:35:06+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "Key Factors Behind Today’s Market Movement",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uN1VsaEd1QVdKNzY1cGZkcXBGNXdDcmR1Ml9TeTBZS3o2ZHgyd2M5NHFITXBwUXZWRk1FZ2l4bG9HWWxHOGM3cjFwYmxzNjlEVVZGenQ2QUxoWXJGdWRtc1lobVVvSHpwdGhENm9TSGUya1RLTjNXQUh5eERMQms?oc=5",
-   "source": "Equitypandit",
-   "published": "2026-11-26T04:32:00+00:00",
-   "theme": "India",
-   "tags": []
-  },
-  {
-   "title": "Sensex gives up 472 points after opening surge as US tariff risk returns",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUc0RlJDLVlfYmdVcEVYWDFtZFRYbFhCY0VMTkNoaDdaSFd5TWZIX0k1eFdCRVU3NkRHcUtBZDg3M0lCM0g4S2lvdExNUk5pTXg4d3huWXg4WkRIamxiTWk1US02WTVRZThGZzRHYUFnbDVlald1bmlJX2lNaW51UERxckVSLXoxUURKUDEta1RBUXhuS3FR0gGcAUFVX3lxTE9OUm9sYzNBdlU4aktUV2MxaWZxZG5KS0ctQjl0YVRHczlWQ0duSWFGbHFIQ1Rhakc0QnhlUVZwdVd0WHktSjB2TUY2eUdJMjU4UTZJcnNfUTByRHNkT2ZDVjNKZ05GMXUyZks4cnhxdlFjdmFqVU9obThmMXVsQ213aWFwektJYmNCVHdQSk1fZ0tNVEtrNFFUS3FTTw?oc=5",
-   "source": "The Week",
-   "published": "2026-11-26T04:21:00+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Oil Price Forecast: Rebound Faces a Test as OPEC+ Quota Talks Near",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQck0ycXJLVmJhYjI0ZzM3YWk2cFllYW9UbzJvVGI0Vk50SWJpbDdBdjctNVRzakx5WjI2N1MyekNaMUttS2hEeWdnbXNNcmticWlfRFNZRlQzOXNpbnBvRU9pbE82OEJ1NVc2YXh3VElLdGFHOFpBSTBGVmtTdEhJanotQTU2cFRKT1o3M19aVWJ4akhzN1p1Mk5DeFdzd19fRVUwOVVKa3JENWx3bUVEOWJ6RlBTdw?oc=5",
-   "source": "FXEmpire",
-   "published": "2026-11-26T04:19:37+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "Why Foreign Investors Are Rushing Back To Indian Stocks",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkNxZExuWVZyaV9rcVo1ZWl2OE81TXJVWjl2VHNxSDFJZDAyQUdrOXdmOGw0a3FpUWYzdjdPWGk1dEs3eC1scXVyMEM2UmlFSUlHWTlHYWNmODdfVXRBRlpqd1BEeE5qWjBGczBPZndySkhNd2I1anloVE1vN203b3VhMFZ6dVpNVTk0VllIcE5KTzVfTHQwRFlmelJOdzBYcm9YcEJWNmVxdTjSAa4BQVVfeXFMTTBCZFR6NTR6aEtFUENBOHZnQ2MzMkdGcTZ6cVJaSEVtdy1YSmNJZXAxY3hVTWtUYWlpVjByQ2M5VS1zWm9CMmVqNzRWdnBCbFJyemw5d2FTNXRkOUg0bWdHR1VRTEFkcG1mTkhsdHMtZUdBNjlndEtRR3JKc2FZQzI1cEJWMXUzUG9YR1F3Zm0wOUxMdEVOakFPNmxEYTBNNFZ6c0FmeGticU80NlJ3?oc=5",
-   "source": "Rediff.com",
-   "published": "2026-11-26T04:16:01+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Japan's Nikkei Stock Average Rebounds 875 Yen in Morning Session; Advantest Alone Lifts Index by 326 Yen",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qNmp0OEQtalVabmhsTk1PemJsbHY3Q0xjZ21aUDFXbHlYcDlPNUJyZEZIN21sUzFCSGw0WGZEelFENjJHbUlKRU1zaHpKZ3o0UGlOVDFsNEY4Umt0LTJjNFNEc3FKTlJjNExYNnpmcVc2cW1tZHc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T04:15:00+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "Markets pare back Bank of Japan rate hike bets as AI spending concerns mount",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWjdja2xNMlBNOVVXY3B2OEV2YlBaVHY3b21IWktxdXZ5eFR6QThCMkpybUFtc1hWR090MTVJcjFiTGVQcmRYTl9EWTJ2U0ttWnFVU0FhRGQxSGcwY2NpR3VKR1BQMnBOTklCT19iZjFydnRHT0w3cXZHYXpoOHdvNjE1ZkpZVUl2R0dmOWo2OVpULVgyQThpZ0lJS0V1UFJfaUZ3cUJnMGhweXVjUks3TjMyZkNPR3dTSFRjVjIxUXhISHI4M1NZRllJMmFuWGlCbXVmdXF3ZVdSVlNfdGpYOHRMa2dFeldu0gHuAUFVX3lxTE1sTG9mYTczWk1IbkhZZHBQMkRuc0ljaXFsSmtfalkwVzlfREMydHNOTjZ1a19sRjA3ZWtfenBuMmpTMFRZQi04VjExTEJFZ2g5eWgwY0FVeVVZVGRhVG1sRHZvSFBrcVNMbFY3WF9vR3ZjbkQ4V0IyZWZlWG5GWDlKMzRPTks4aXJFX0RhYjg0bE04cmVWTkxRcUUtbnAxRkhqQTdiZDZtUmNJVVZkNFVXSVVJZlh4UjR0cGtjMWJIV25mQVdGVnNodUR3dGluSDNkbENSUG5SNk5RdFRHczl2VFNhd09ha215S2FqdUE?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-26T04:12:36+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "United States Dollar Index rebounds to near 103.85 as AI trade recovery extends",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3Vsa2xQVG5mUS1GTmRWUFNhWkZkeENCanctNEtSZEIzSmNmQXNSalgxMXNES3JQZDJfZ2haT0x3NE53TWF5b0MtZkdFS2hVODFmaEhMXzUyMHJEcHlKRzVuU21GbHpsMUpZWmFqQWtXNWxtZE1LZUNWck9majFydVpQdk9uY25ZbDR0eUhEX0k2OUpXR2M4TXJGaEJUQnVtYlpsUjdPeVBuV0VVVV80NnZjVDIwOThVRlIxUmVR?oc=5",
-   "source": "FXStreet",
-   "published": "2026-11-26T04:09:54+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Indian Stocks Edge Higher as Oil and Gold Advance By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeEdveUZ5WmZNS0Vpd2taUWV6aGJ6ZXJvNUVWeWN3b3V6R2M1cks5cUtGM3BTMVR4UmdBOXlpZ1JnRWRPVmFFRWttZFhzVjhpVXYwbHJUX3RUWGprYllrUzVrWGE0WEFQOW1UaGtuRUhDMVdGamxFQVpSYkNDbFpsMEdONnFScnBCZF92TG4wTXFmMG53YV9pRnJoVklNb1Fwbk12d3pUQ2U?oc=5",
-   "source": "Investing.com India",
-   "published": "2026-11-26T04:08:33+00:00",
-   "theme": "India",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Chinese AI chips to jump nearly sixfold by 2030, UBS says, as Nvidia woes mount",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVFkdmJnVXo4N3RKXzFIM2ZvZWFON2xURmNfOFNPN0twalpVcnJ5aFVTakUyMGxrT2RCTWRRTVd1N2ZFT2xVWEhIeUI0dWVsZjl6S2VGS2FBLWl6WHI4ZU1xd1J5T2Y3T0Y3ekU4VEt6QTVINjNGLWJUZ0UySWd2Sk5CUXdjRlNiVFhQMUpxclNYdDdKd3dldzRDTUFIalpLTkJaQ19kOGozTFJSV0RpZldfbzZiXzlfZEN4VHRLRdIBvwFBVV95cUxOczRWLVN4Z1Y4ZUh4TGZKUUllUlR2Xy0tSVJlbDNNS2ZWSzZpenc3ZldBMklVWGF3aklncTUtalZtcDBzY3ZMSVY1aFlJcFdMczF3NFJCd2dSdEpzeDhTRUtWc0FIcVBQX1dFRzNOOFBNWDR0TWkta1JsMS1TUzFZeDNCLVUwQXlrZUV0OWlVdTBpZGhWY1lBb0U4QTRGMkFFbHFSLXBYY0c4b0RIZEZDaXl2NHZRVFF2Zl9pQ0lDVQ?oc=5",
-   "source": "South China Morning Post",
-   "published": "2026-11-26T04:00:11+00:00",
+   "title": "Kioxia and Nvidia Expand Effective GPU Memory for Large AI Workloads",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3k4TVFuRVk0TFppUS1WZGt3d2hGUDI3dE5CVmVWMWtuYmhmcEM1RWNFTDJ4RU5QdEgwSU9MQXRxLWJiNFZMTUZwbURTQzhBSkQyS19JQUxxVGdPUFVENGJ3c3hlZlA2RHN4UzFIWE55SEs1Q0h5aGJNdEhObzl2d0tOT2hCazNPNUVyeWU4MFQ0aVljTEpFaEZtdzRBQ2lVc1FITjB2RWdVZk5fNE9SZG9kOENKS29WTVJra1JyY3lfUUk?oc=5",
+   "source": "Asia Business Outlook",
+   "published": "2026-11-26T03:59:21+00:00",
    "theme": "AI capex",
-   "tags": [
-    "China"
-   ]
-  },
-  {
-   "title": "Taiwan's CTBC Investments Advisory Sees Taiwan Stocks \"Sweetening Toward Year-End\" in 2027, With Q4 Chance to Hit 57,000",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoSk9KcG5WVjFWT2JCYWZJOW80TlRTNUVRN2l4M1ZqWHlaa1ZQdDhpRFdRbEdPLUlRNUFMWEEwRTJYa3ZnOHNGT2p5dWIwc0cwcGZwdnB5N2xlVERrZmRPdE1nOEw4b3lELTJMenpqam5Xc1RTS1E?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T03:56:00+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Yen Holds Firm in 159 Range as BOJ Hawkish Remarks, U.S. Yields Pull in Opposite Directions",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVDZ5bVBDZHlkR0VDR0twaG8wMGZGV0FpNlQxVHJibGZBX3FBWkV3bEEtazhOZ3RqblZ3Y2lCSjVfdnFhX2Iyd204YzN2aWFhbVVpYjdsMWxiUVZqbk4wYlhzMU8xcnlHU0NFeWFqR29Tekh6aWc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T03:55:00+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "Section 301 Tariff Rate Set at 15% With No Stacking; Taiwan Stocks Surge Over 1,200 Points Intraday to Reclaim 39,000 Level",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xcTdYeVYtQWtnQ2xPanU2TUVkWXI5ZGw4ME5IUlJpYnczTUloVHB4Z3hDYU1XU09aWVhnZTEwaWt6U1R2MUgzTC0yUWg4WFpoOHUwaFhEX2JMT1BkLWo1WUpTVUI2OHBDYWx3WGFtcnVUcGh5Y2c?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T03:55:00+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Taiwan shares tumble 4.8% as AI chip stocks slump",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMTBCRHNITFlUX2FOeGppWGJoOUtiVHNna3lQcHhPVDAxUllFVlY5eE5FTW10WXF4MlU5VVF0QkhvYVkyNEtnRjBOYWhPMm54aXB0VUx6dHoyQjVqRUZ0dVlYVG1FTURtM2xNU0NvcnZjaTBuSV9uWElMWmxjdmhJb1VZdDZJZXduOWxxOFdmYlY3RzA?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-26T03:51:00+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Japan's Nikkei rebounds over 1% as investors snap up beaten-down AI stocks",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZDZyZUVJdVQwcFVUN2pHcmFTSTJfM28wWncxZ1lrWFBtTnBRdjZFTEdLOVI5X0E4Yk5uaHJCMWRhTWVvdnFUSFd2dmd3cHRfOFF4elg4eW9mdExXQ01xMGFPbTdHa2ZPQjQ3dFZoN2NLd25UekIwcWxXNmhRU2FfbUktdDFKRjY2VU82ZndxRi13TV9WSlJBODhRNmJtck1LSnpFcWVpdjF6T2Y2S2F2LXRDWEp1WS1jQkQtdGxldm9oWG1tWTBvSlU3eHpxWm55Uk1YUHpLa0pfaWpmRG8tRGc5Y9IB6AFBVV95cUxOaXdMa3YyZFBPM3V2NTNMaUJmbzVVR0hkX3MtMWk3QnFWYWFFeVdVdmdzYTlSU0ZZeC1fdHROek5HbXBadHpGYUR1QmhYR0hteGVoSWJKUHI4ZlQ2NkJqNFk3ZUoxSlRuRmgtR0Q5azBsOFNrb21jYklPSlExLXhKRi12ZGYwM1VRRDh4anJ6QmcyOFMxTllmVk1xeVdpckdhUFRucGVndUxlMm1sa1FyMWRBX012ZVdKU2lWWEt2RkhaTmY5SVdZdkxRd0Z5cjNGa29PcUJvSDBIR0E4YUo3cHBQMEdVVXBw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-26T03:48:07+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "Japan corporate lending rates reach 30-year high",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemJENkdsd0E0SlFsTkxzQ21kdGlWelJ3VmVVQTB3ME1kX1BTNnVodUxkcERtNXdYQ0NvOC1VaVh1VUJjRjJzSDZybEs0UUFKRXl3amZteHlsX3VhdV9NLTVHaFk3Q0YzY2twbHBoVlg1Z1I0ZEdlY0ZhdWxaRW9aLXlmRDRGWUZBaWxEbHh6dGRCcHVicWoxMXJCWVdhWXJEMEd4R1JzVVI?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-26T03:39:00+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "Oil prices rise on supply concerns as Iran claims mine strikes on ships",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY3N3bjBPbkV4emp1enEwcW43VUotZmVBT2paVEFoVHNuaVU3Wmg3TlJ3Unc0a2Y4Ulh0bkcyU2xYLWpJc2lfdC1EV3FwVThua1ZYYzNOcVc1dE80NXg5UEVkb084V1oxNlJ1MURXcVdDZXJ5cUlwb1kxM3l6aktkc2lGOUFzdkgzQ3ZGbFRCRkpuaFZBYzB1cC1adVJ6YWtRR3Q4eU1oQUFwWmxrWk5KLVZJbkRYVnp6aDd0UlJwSm53MVZoTE01d0s2OHVaRjZ0U3B5d0hrN25ib3AyVFHSAeMBQVVfeXFMUE1zdHhNYnZQVFh0WUdXWlNOVHQyY0VGaExJN1BMM0VVMGhocXZ1bmxJUXplR3dId2NlemppR0Z3X2xYNGF6T2dhWWpUYzFoZmVJdzVzS1Z1V09HYnZlNnNYN19mbHhPWkZCSXpuX2tZUEZrUnFvbHFRMEVkNGp2RXJBQy0zZERNOUl1UHI4U181UE1USTliRFFaTVFVNE5tbFJRWDlyRW8ybDNwMWNuOENLdlpwYzBaaW5ETmxudUExQmMwTzY1Z0NwaENjbTU2NC1zb2JRN2s2NTVNN2t3elpHQzQ?oc=5",
-   "source": "Business Standard",
-   "published": "2026-11-26T03:38:36+00:00",
-   "theme": "Oil / Cmdty",
    "tags": []
-  },
-  {
-   "title": "South Korea's Inverse ETFs Surge 22% as Chip Stocks Plunge; Leveraged Funds Sink 25%",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ucElBS2RHYnVremFjRUtSX2tqOVNCNlU5dnY3WUFLeVhpbkZvMGtFYm5ScUZWLU1kUXM2Qjl0eUZpc0VEWGFlUE0xX1p3azhCZW9UQ0hyNTdZdDhrVS05NWd5VWpQVTFHaGhVS3BiRk1rMW92UHc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T03:26:00+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "SoftBank jumps 11% as Asian chip stocks rebound; Hang Seng up 2%",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDNraFZMQXIxLXB5TnpleWhmYUdsTHJQd2FCOU8tcTgyNnk0cTZ1aUNJR0dkZlc4X2xfaWpkWEc2ZktpSTZmdDVSVE00Sk1CbC1LVmU1RlpmV0JEVWVZbmhzWTd0LXItQUQtMEhmcUpGYVc3U2tfdEVXRV91SHFfd21oZ3dCbVdZOFpaSzhBSDhSYkxNQW1YVTdIY0o?oc=5",
-   "source": "MLQ.ai",
-   "published": "2026-11-26T03:24:00+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "Hong Kong"
-   ]
-  },
-  {
-   "title": "Upgrade Hong Kong stocks to overweight! Goldman Sachs: Valuations and positions are at low levels; three main themes are worth deploying.",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON09oX0hDTksxZ1d1NE44dXYwUDJWN19EcE05aUpRX1RQRTRJd0F4cVpVcXA3UlZlZDhJRm5JTEV6Tk1LNnlDMUJjSDR6RmxsSjZoRWlZdGxzenJjdEs1WkJmUGwwaEtsSVRmNXozb092eGkybDFVQ0QwZnZCVmk3OUozZVRpLXphdTZnczRTYTJFSFJMRVV5b2NfTFFUTGJ2NWZ3RkNUQzZ4cUU1MHZJ?oc=5",
-   "source": "富途牛牛",
-   "published": "2026-11-26T03:15:00+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "Hong Kong"
-   ]
   },
   {
    "title": "Goldman Sachs Cautions Against ‘Buy the Dips’ Tech Stocks as Markets Remain Vulnerable",
@@ -520,259 +1069,6 @@
    "tags": []
   },
   {
-   "title": "Dollar Holds Near 103.7 as Yields Fall",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGpCR3VEMVdTdVlrbHlodHJVeml2SU45VlU5Y1BZdUhqRlN6dmV4TWswTXFNT293ODVFWkMySmVSUFY5S21tMElpYWduZTB4M3hPTnJBNGtzLU56UU9zTG90M0FHUlFtNVo4RGI3bnNrdDFoTmx5bDU3OFN3STQ0STB6UUY?oc=5",
-   "source": "Wisevoter",
-   "published": "2026-11-26T03:13:25+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei Says",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWUdUT05NelUzMXZCNFcwZjVvaEdZZmdkNjBuUTVJS3U2d241VWktSzc1MTJRdnpuMlI3ODJIdzEtcW5Ca0ZRaFJTVFZpY2UwVmJrWEdYOGhtLWFwWllodHV0RzZUalpVZGlleDR6aTJBbU5hOUx3azBaeHFuRjZEY0xINkVrbWpkMkJzNU4zWmlCRThZRlBKbDVzSXVSZkhzRkFoOXh3TDhIQUhjOUJCcHVDMnZvcDF3SEFIaTlTYzdzWDJQYmN0VHdRTjlQY0RUUnJxczg3NGxyZjdMUWdlWk9qeEoxelFYWmYxU2E5Wkh0M0tncUdsODBVTFh2S25nSHpKSXNsdlhyQ2dTOTZqWA?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-26T03:10:00+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan",
-    "China"
-   ]
-  },
-  {
-   "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFJPaG1lWjU2dUtMdU8ydS1yaU11cUZPZW8yYlRFdUljdEVFYkl3eVhGSjZKa1Z6MHpvSDA4cHJRWi1acTFycVVROVM0Rm45YjlMX1NWdlRvSWZKRmJJcUczTFBFRnc5eGxTajRmbDZuUEJKWUFmWk96VnNrdUJJc1VDd205WF9YLXRoM3I3dlB3RnVyTFE?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "published": "2026-11-26T03:10:00+00:00",
-   "theme": "AI capex",
-   "tags": []
-  },
-  {
-   "title": "Japan's Nikkei Stock Average Rebounds 875 Yen in Morning Session to Reclaim 58,000 Level on Buybacks in Semiconductor, AI Shares",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBibUlhQUR1OW5hTS1HS3ZaZ1drOG9CQ01ORXI0TDlsMGRyM0hPcFhnU2szalVTT1R3b1pLamFlcDZuRnFfUnN3bUNnd0QyV1BVQ1BDU085eTRlQUZwWU5wVWJZOHZBWHZGRXo2Z2RJYjREbUQta3c?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T03:05:00+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "Gold Slips Toward $3,575 as Firm Inflation Keeps Fed Hikes on the Table",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T02:58:00+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-   "source": "WSJ",
-   "published": "2026-11-26T02:49:55+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Australian Dollar gathers strength above 0.6600 on hotter CPI inflation data",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZkVETjVqREYzMWszT1VlYXNLSVFPWnZSdzl1Q0dwMWUySTVwc0JDTkhWRHdRX0dpemNZblhHOWozaUlyNktJRmxOWG9MTmpVcGxpbzFLci1tVU1WMVFkYXVHYzdNVlktd1c4RXZka1UwZjZTb2RlWU1uT0NmNWo5cmtYLURGdFZfZVFieGVrbVhrdENBS1VqQTJ0NGxCcV8tLUtraEE0Rk8ybzhMbldQUmtHcGgwa2N5cFotbkJ1SkN5NmJiWXZCWXdmVVFrTkZ6WEVzcTRWWEpjcEli?oc=5",
-   "source": "www.tmgm.com",
-   "published": "2026-11-26T02:44:40+00:00",
-   "theme": "Macro",
-   "tags": [
-    "Australia"
-   ]
-  },
-  {
-   "title": "Japanese bank Mizuho completes purchase of stake in investment bank Avendus — The Japan Times",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWowYWo3RVdfc3JLS0IwVDlMRHh4U1ZKakdITXlDeDhVeWhpenR0WkluVDh3LTcxZ1BJUDZQWmlnU290cU9QcVdXeDdIMlYwb0xoOW04VEVuR1E3elh0UGlOTFBWRzd2ZEZNeTVvdTVKUVlOT3k3Rm1ham9rSnZ1UDFicnZPdEtKWXhPY3E5dTk4OXN5NXB6ZF9SblpsWVdJeXhlc2lnSVBhcDVUNmVkb1NPSE9DRXJwbkdn?oc=5",
-   "source": "UA.NEWS",
-   "published": "2026-11-26T02:36:22+00:00",
-   "theme": "Japan",
-   "tags": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "Taiwan Stocks Jump 241 Points at Open, Then Surge Toward 39,000; TSMC Battles Around NT$2,150",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MM1ZTOEhIVVBQNDFFUi1fVGU0VXBkd0J2QVNBVlpSbTVHQ2tDYkYzWjZFMXJHampLWFZJaXpKNjE2SWVINktEanVXbl8yNC1IUW1nZWNmVWhBRDVoRVpxaFplaTh6RzNsS2FBZTFSdFc4T29OYUE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T02:35:00+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Treasury Yield Slide Limits Dollar Gains Ahead Of Thanksgiving",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWlFRU1CM2wzOERXQ3c1RkttUF9zeS1mT0M1Skhva05wQk5uSmlKS0stdVNveVNTTl9wejdPNk40ZXJlb1hMbldXOExWZnA0aUkxeHNPS3o5V01LT3VvV3Ixbng3WHJXM01DVDk1dUI2STNMUnhzNDlQRzlNSUFlbkhOTDFta0U1c1I3RFBjWkVUTEN4VVVLTzZtSHJaeEVvSngxQmF4UWY1aDg?oc=5",
-   "source": "BusinessToday Malaysia",
-   "published": "2026-11-26T02:28:01+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Oil prices rise over 1pc",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00TlFxWlROT2JMdTlNcVRrdXIyd3BrekNIeXZWRWFxLVVjcUNXcU1RcERNdHNvUGJmY01oNWV6U1MydndPa2xETEhxeEVpSUw0R1hpSElOMjdZTFcwY0tVN3dmVUpzV0pRQU5oS04yNmVhN3A2alE?oc=5",
-   "source": "Investify",
-   "published": "2026-11-26T02:27:24+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "Bank of Korea raises interest rates amid AI chip boom",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5",
-   "source": "Financial Times",
-   "published": "2026-11-26T02:26:15+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Gold edges lower as US inflation data fuels bets for rate hikes",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNal8tZGVWblJpQnJ0NUY3Q3FFOXhuVGtFS3lRckcxbDJObWxQNVpMVVY3S1hQLTI3dkV1dTR1M1ljMmo1djBwaVJfcDM1TkZnSzFTOHB5c2dGMzJQX013M0tqT3d1cW1iN1hBSDBGV2lydWdiTG5KZ0hpMEdCWl8xMEs2Skh5VnAyWWk2UDBOaTNVRjV1OEoyR2JyMnFUbmlkWGhVczgwQ2k2X3lzdHpvSl9nUm9Nejh0V0F2bUc2aDBlZ2Js?oc=5",
-   "source": "The Business Times",
-   "published": "2026-11-26T02:23:00+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Oil Price Today (November 26): Brent crude rises to $95 as fresh attacks renew supply fears. What are expe",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYjRtNmRBSW1yM1ZEcXAzdHN3NHd3VHNSRjhNMVhVS0FwcWhXUWpyMS1jN3dqemFjS2xxeDRJM0l3MXBwbTRRRVB2emRsTl9PeUEzaXBpb3dVSFp3b3JVTlFrYmRxa3VvRjczaURJSDFCZzJCb1EzSHFQZXVLRDZyNUxiLUgzam5NMkEwd0hRY0dGMDRzYnNNblBDZXB4VjVNSkpCSWE4VjZ2MHFPNkRwRU5oZkJGR05LSVl1UnNuY0lZWEt4OVhxUlJTUjRTY1JtNUc5LUV4NnFUQVlONnJrVnppNXhfNzg1enltdDlSY3V5RVE2c2lSVkwwYkg1RmNBcmoxZU9QV0h6TlJRUEtQbkNXRUM5eXpDS0HSAZ8CQVVfeXFMTXFTdHM3Q0UxN3hUMkJxX2pHaGdyVU1HQjhJUnJ1RFZ4T0RBampLOFdiZUlTUkQxQkdZdG1kNzRxUWpDd3R6RktqanZ3WGhMSy02NVd3UzloUVlCVHlKTFp4Y3BVbHdPbWZfckRhOVBtMURkVmJta243SGlGVlZELUxwV3NfNkVNbnlJa3RSLXpvaWhGUkhwbGF4Z0dlZFFCZUtrX3dyc1JicjJNUjY2UlRWdXNuaGdVRmtYeWJMS0VpQUdIQ09KcmY5SkpOQTdmY0hCQXNzWjZYRE10TnpmLXJjNU1ZcGhNRThQelhMT1RRWFN3WVROS0ZuSEVrRlhfcjktRTNSdDBqUGF2dlYwaDR6U09aOENESHNjMzhFTEk?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-11-26T02:13:02+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "Asian Shares Rebound As Nvidia Concerns And US Tariffs Keep Investors Cautious",
-   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQamNPcWQzUWZuV19maDEwaUdLTTdwMGh4VGNma2xXckNJbU9fbnlMUnNRWkxlMjI5bDlRdFZ5UGIzYVktZFc3N3VrTmJ4RUNQaU12c1BnQjlKZEJlRUxQc2xPS0pTLXYwOFVVTHFPTUdlTEpabGRiakNIQ2lIMjd2MHB1bXFBd19FMWVCeDU1MGs3OGZNd2dQNkU0T3daM0NwWjMzMHdvVHpHTTRWdkNyanNoRGxHVFh2MDg0WVBKQWZQR0JOREhjQ0NIMGV5bnBsZGF0WHRjUmtBV0NxOXQ2TnhKUzNzTVdkWG5wY25FZ2Rqc0ZaUVlJdWRYRzA0enJmcEhVYi1iUndlOF9FVEc1dmFQUDhuMFNrWWZjemp4WHgzOTkxRjE1LUVoYjVpZF9hWlREZk0zZTF2d3ZVdlg3a2hjVGZSVDJHYjU1Y1ZYd3NaQnBwUGloTUt4X2V2cXBzWno0?oc=5",
-   "source": "BusinessToday Malaysia",
-   "published": "2026-11-26T02:12:29+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Kioxia And NVIDIA Tap 144 SSDs To Push AI GPU Memory Past 1 Petabyte",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVERzd01DcWxPaWp4MTl0Tjd0SmZJNG52Ykh4X2RuWURFQUZvV2s5bjV0enI5S2hKR2JxUGFKdlU1dVlKSzMtRlMwVkFCSFlLaUYxeG5IblViZ2VUekliNEZ0OEpqVkFmcjlCbUhDdVd2aE5xemR0UlVyOEZXcTFjM2E3R2ZYY0VWckR0OEh3?oc=5",
-   "source": "HotHardware",
-   "published": "2026-11-26T02:10:00+00:00",
-   "theme": "AI capex",
-   "tags": []
-  },
-  {
-   "title": "Hang Seng Opens Up 1.4%, Outpacing Mainland China Stocks",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjVrQVN1XzZtQ2Q5blYzdmMzZTJXbFNpN3dWMG9GVW9KMFFPZkktcTF2TGpQWkViRkxIWUdNZjZYQ0Zmd1h5NHd3a1J4R3pJQzFMZ3JPdG56ZEdPNk5UZDZoR0xYczV0X2kxdFk4MXV3ZnBqNXNQSUE5aVFFdXRLTFNZTVhWNVRYNlE0MEdrV0NGVGFmeG5RWFZlWXE1cV9Yd2NQWVJmaHRhZ29uLTZQd2phRW1YOWZBaTRSc184T2ZCSjd5RTV1NA?oc=5",
-   "source": "24/7 Wall St.",
-   "published": "2026-11-26T02:05:13+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "China",
-    "Hong Kong"
-   ]
-  },
-  {
-   "title": "Asian shares bounce, AI and tariffs lurk in background",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkxSZHhYTHZBQkplREJDSGxhcXZnNlUzcXNHYmk5X1RrdVpnNWRyYWpFSjZTOE5KNmdmd0N2eVJadW1sdDEwN3NEVmZUX2Q2SWM3MWRYYTk1UEszRkRlNVkyb2lfUXJINmd6SkcxWG1DaUlqNWtBcEZKQ2tJNm5lT2VvdnJoQ2REOWNhNjhlZjR0RHZfR1RSc1RORGMyZ25uYzBTaWs2Sldxb1pIRjUxTTVzU3VSWEE?oc=5",
-   "source": "Free Malaysia Today",
-   "published": "2026-11-26T01:57:34+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "Taiwan Stocks Stage V-Shaped Rebound of Over 900 Points After Sharp Selloff; Delta Electronics and MediaTek Lead, PCB and Memory Stocks Revive",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FQk1uRnFXUGtSSWI2c2JuSDA4Tzd2c0h5LVFDVjI4d2ZmczNIaVdKekJGR18ycVdxenIyRW5uQWR6akh6MkJOY1BBNzBYSEE3Yl9DRmJxcHVHMElOZ3dEQm1YX3ozdFFOTllvaExJX19xN1ZoMVE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T01:57:00+00:00",
-   "theme": "Taiwan",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Bank of Korea Rate Hike Meets KOSPI Struggles: Can Chips Carry Korea?",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00TkN5MENSVmRWV1VjNlhXbHI3cndwV0txaDFSTVpJdUpZbmRrQ214dU5fS0JaVVZMTWNVMFJpbHltMDhKN3pCZFN4R3ZMeGd4QlVpQnBNM0lTeGotMW5ONFBUTQ?oc=5",
-   "source": "BeInCrypto",
-   "published": "2026-11-26T01:55:00+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Billions in data centre deals grind to halt after AI chip curbs",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbl9kMTR1Z2hNaTRyODFQbG9fTUFRbHpMRjJEUFZFaF9XVXVleWlzRlhaRnRnUmQ0WF81dTZsQ0Jrem51a3ZEY1RuXzdHNmxsSWVhSFJtbVZEOEwwS0dqT3FBck1DdmFVX0lzSjVZVkJwdmI0cWI5em03Tk16M1hPdTdSN2RTdkZLSjhUMzZRa3Bic0ljX0M1YWZvU2t3Ym5UZkpZ?oc=5",
-   "source": "The Straits Times",
-   "published": "2026-11-26T01:45:00+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "BOK forecasts 4.1% economic growth next year, raises key rate to 3.25%",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QbzlvTGFXVUNkcFJGZzBJcWNtMWctSFphczdHQy1qNmFHcGlqVTlrTmlJejVYcWpHSlRHc0dLSkVWUERNV2FzczZLOEtFYjZqV2ZkSFV2eGlSd29qdVhXblJoN1dGSi1iR0pEWDd0VQ?oc=5",
-   "source": "머니투데이",
-   "published": "2026-11-26T01:42:36+00:00",
-   "theme": "Korea",
-   "tags": []
-  },
-  {
-   "title": "DXY Forecast: Trump Tariffs, Inflation & Fed Rate Hikes",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE0ydHJCR09YZGFMS3RHNFhBWWExUko0TDZVcXpCR1BJVzZFaXVMdGRjazRycVpoMDVJd01jS01MSDFDdlRGeVhJVU9FU05XSHBFbktVZDFNQlpKWS1iOE1URzBXR0E2Y1VKZkczZ1BrSUhVZnRISC04NmozMXhOR2E5WFJpMFdjMUNvczJBVlJqQ0pNMWtCdXd4aFkyOEpFWmc?oc=5",
-   "source": "www.equiti.com",
-   "published": "2026-11-26T01:41:15+00:00",
-   "theme": "Macro",
-   "tags": []
-  },
-  {
-   "title": "BOK lifts Korea growth outlook again",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXU4djBuZ0RrUjk5R3c2QVJSWVNaVHplZEhCM0E3VnRhTkd5WUdUNHlDSkJZcXdrVVEyZnZQOV9wV3BnbF8xOElCeHg2QUR4bzM1YVhMNnNaTFNxWVRIaDRpU0J2Zk55YUx2SVhIR1k3cE9SVDFQWjFyclJXbllZdWhxQTJFQnhmQVlOSUZ2MThJTjg?oc=5",
-   "source": "Korea JoongAng Daily",
-   "published": "2026-11-26T01:38:09+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "AI Boom Uncertainty Supports Ringgit Against US Dollar",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkFWZlBteHJ5aXhEMzZ0cldrTkJ4M2JsTHhQdGZwaXl5MHZUM2hRVmFWZVBHZWh1clhfeGttNmRoQV93eDhxUWpXckw3LUZyVWZIUlo5ckdBd3VhaW1PNWVKMjNwY1dySi15Zm5CM3VRTThZc2tVMFBrdGZ5a1B1TkphdGNfTzBtT284eWx3RDUwRkVMRW9UeTBBdFgzdkpM?oc=5",
-   "source": "BusinessToday Malaysia",
-   "published": "2026-11-26T01:30:06+00:00",
-   "theme": "Macro",
-   "tags": [
-    "Malaysia"
-   ]
-  },
-  {
-   "title": "Asian Markets Today: Kospi Jumps 2% Despite Rate Hike, Nikkei Gains As Investors Assess Fresh US Tariff Proposals",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObkM5WWpXRGtrTjVOUlkzaTRTQmtqd3VUb04yNTF4aURhZWF6RzJrcWkxWVZCRFRJNDJQQW5DYTZMelpjaGVFNGxtalVaNm5Wbl9PbmpzYUhaaUkxVHItZTJYRnJuYVh6eUxFcVh6c0ducVlqcUZtNWh2Zi1fM3JpWTlENlRjWm45NkNla1lVQkJHTlEyUnczQk03R1UzbWMxM0p6cDZqeFhtdV9hZU1tSnJscGNYbzNIcnpSWE54TU1ma3c0RGFtckZ5Y0kxdktrWEFMQzdVbzBfMmg5RmVSdjFCbWhmdFVTZUE1X3dTcUR2QmphRk1GaWJRc2NEMUI1OXlYNWFuNTZRZUZ6aUdJ0gGXAkFVX3lxTFBkR0xWd0VKaVRSemlYMTRBWmF0Z0pOTzBERjIzeVBqRDZZRk95ZEVWRXlyUlZveDdiZlowOUFOdXJKV3Nxek9JYmpmNlE3Y0lQd0hMaWo5TXg4MXdKc2JrbHhPTTNRcnV1bFVXU0VIWDJmWXFySGswRDVaX0ZvUmpRbHU3NEdDMXl3ZTNBRmY5emtFRjVSc2FsVkI1b3J6MURfeFAtVHJ4STJsZ2NIYUIyeDRmN1lEekZPNDBYaUwyTWRYcGpIZlpmcVlfVHIyTlVZQnBDMTRMTmNGTUJxMENjbmxlZ0pNQTFCWjd5ZkdPUEtUZG1BQklhV1hzeWdiS3B3NDVZMGFNLS1CcVlXQ0NMbWE2Y2Y5bw?oc=5",
-   "source": "NDTV Profit",
-   "published": "2026-11-26T01:25:43+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Japan",
-    "Korea"
-   ]
-  },
-  {
-   "title": "Yemen's Houthi Rebels Claim Attack on Saudi Arabia's Largest Refinery; Brent Crude Surges 3.5%",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SSE9XMDhucWxyVkJmYnJ0dHR5WXgzVXdyanY1eElwUlhWMS1UdWJ0NTY5bURsc29lRm9LRnpTWjZxOXJ2cGtROVI2a1JNcndTSHBodExNTlRxMnlUSFRfcEMzbEpDdmZjckhyRnN4eFJEZ1YzWUE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T01:25:00+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "South Korea's KOSPI Rebounds Over 1% at Open; Bank of Korea Rate Decision to Set Direction",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxbkw5MGpoUXBLOEdpcW5ObGdaVzlCUWpUQVVhNTlNalcwZWdEYktybVNIbUxXdnpJY3pyeDhTSm5IWGxLdmxJUzAzb2xxaDRXMmx1cHFVQmVYQW43RmlGRzdNRXU2dFZGV0JWanY3dlhwTzI2cFE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-26T01:05:00+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Korea"
-   ]
-  },
-  {
    "title": "At the eye of the AI sell-off storm, CoreWeave secures $4.5 billion in emergency GPU financing! As mechanical selling pressure subsides, is a December tech stock rally poised to take off?",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWxKWjUyQm0tdmZ3Ul9mY0tlSC1NNDRiVmk3dm45dm1vbWt3MWcxTmIwOUljZ1N4UEZaX0QwZzVoT0xvLV9odlM1Z3I4OU1BclI3eGE0bzhBcEhRSmRqZm5MMWotUkpOR2l5andLeWFRZW4teFFjZzd0SzlYdG02Y0lVRkZHMU1vdklLTHFkSG1NV2c?oc=5",
    "source": "Moomoo",
@@ -781,141 +1077,20 @@
    "tags": []
   },
   {
-   "title": "Brent Crude Jumps 3.5% on Middle East Supply Fears; Gold Falls",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pMFJJRFZ0LVl5UHRWTkJPeGFpRkdzeUQxVVo5YlNDYncwSWJXR3VCUVdGaDZOVFVialZIcnU5Rkx6eVdQaktDZXZybjRBVzlDMUVuTA?oc=5",
-   "source": "bloomingbit",
-   "published": "2026-11-26T01:02:54+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "Stocks advance in Asia after volatile US trading over AI risks",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hZVpFMXJpQTlBUWJZZ05JNkpETGYzOS1xVHBVYm42MVFBSU5MVFJ1NXI4UEliOVNpSC1YM25QNkZvUGJnbEpYY2lSaGNmdUQ0WUhYMmFZM0N2MjBPc0hYdzBkVjFDdXpmMXRHMWpTNXE?oc=5",
-   "source": "Financial Times",
-   "published": "2026-11-26T00:57:14+00:00",
-   "theme": "China / HK",
-   "tags": []
-  },
-  {
-   "title": "Japan and South Korea Stocks Open Higher; Kospi Gains Nearly 2%, Nikkei 225 Rises Over 1%, Kioxia Jumps Over 6%, SoftBank Advances Over 3%",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkszRV9ROTFLam9PaGxaV2UtMnQyakI1WEhBamZjeFl2ZV81X29UbThETHZRNUpvdlBJbng4eDB2QkFKekNoMlFaaloxWWJnSWYzZDVka3M4LXNsZjBxNFplZldKc05IZlplM0JfZEd5VUgxQXZQdUZBangyckQxSy1zQTBkT1dUV2tpV1dRY1VhMUFXOGtwd1BkZ1lqTmRRTXE5VGZWc1p4dXYtOVhLbHJPRnhSTmJMeVdfWTNCNE9xRTdJNWFLV1NGYlctaGNTM0NoUnJR?oc=5",
-   "source": "TradingKey",
-   "published": "2026-11-26T00:38:23+00:00",
-   "theme": "Korea",
-   "tags": [
-    "Japan",
-    "Korea"
-   ]
-  },
-  {
-   "title": "Fuel prices today, November 26th: WTI and Brent surge, awaiting adjustment at 3 PM.",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlZGQUFqcUl0Q3l0OE5BeUZKTENoX3RoOFlUZlllMjB2NXI2RGdRWk0xRHJ5X25nRElhNkN4Nm9FeXdTY2ZwRHlRNnZUbHRnemNkd0hMNzV5c1diZXNpYUtqTW1jZUdOY19Gc0wxaUtKWXJXV2ZXU3h0TWdxZFI1eVNBMmtpOGJKdkFxTzJTbldTYmJtZlVCYWtJY0NDUQ?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-11-26T00:26:17+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "China and HK stocks tumble; Shanghai posts biggest one-day drop in 3 months",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zX0FwbWlRZ2tfTGtqRVZiTExsOUVsZWVMZlNFdGJETmZ0UlNWd2VGM1BTb25Na0NYcENWdUU3emJ3enkwQ2pkVk1CYThpN3RCdVVmWkdR0gFWQVVfeXFMTXNfQXBtaVFna19Ma2pFVmJMTGw5RWxlZUxmU0V0YkROZnRSU1Z3ZUYzUFNvbk1rQ1hwQ1Z1RTd6Ynd6eTBDamRWTUJhOGk3dEJ1VWZaR1E?oc=5",
-   "source": "Business Recorder",
-   "published": "2026-11-26T00:16:21+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "China"
-   ]
-  },
-  {
-   "title": "AI Rally Shifts From Asian Semiconductors to US Hyperscalers as Neuberger Berman Says 'Easy Money Is Over'",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zV1dRbkZteEZOUkhpVkNkSnhpV0tvbTZGVlAxNmdQRDd4VHdaWXlHeDR6WFNGdnpjZHRSa2lRQnlmQmxHdURjRHlSRlNZMEdPeU9rZVJaQ3hYMGk5TGdobE9saFJBRVFsVzBZZ19QM3o1czk5WlE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-25T23:35:00+00:00",
+   "title": "Oil Supply Shock to Worsen as Inventories Fall Further Even if Conflict Ends",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGYzaXl6WlJNeU56d01FU3p5VllfZnluamp1UU5FZWF6cUwwcVp1OXlNZENmeWk2S0xveU9zbmVHWGdiU1NLV1A5UDFIU2tQbEhySmZXdlpSMkdVNS12YW96ZzhRTUVWbGVPNlJFeTRtSGJsbjRjcTFrcDJETzFrVEd2RlZrUkUyZEpfTThKMjdhNGVFaWhRWTFVSXo3SVJYdk9ZSE9DdTFnd00?oc=5",
+   "source": "EnergyNow.com",
+   "published": "2026-11-25T23:15:32+00:00",
    "theme": "Strategy",
    "tags": []
   },
   {
-   "title": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkJCUnJ0UGhBRDNCcWRtN1QzR2h5eEl4TEoxWGVaaVowMXA5NWxtM19jYnA5OUtYanNlZTloLUM2VFZTenhiazU5M1VjWU1vM2JXVTM4bUd6NG9FMnlQMWlDRVpWalJIQTY0V2c0QS1KeWdtQVFHa184aW56NEdGMWdPNi1kLUM5eW1YU0xJLU83ZkFWd1E?oc=5",
-   "source": "EnergyNow.com",
-   "published": "2026-11-25T23:16:15+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "Asian stocks set for gains after late US rebound",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGVGQmkwVmJvMTNlT3o0WWxuN3o3bWFrNy00bzVQUU11WFhSRmJqQzJ6MGVpUnJoUlVFeGpIQkhGZHM0MmZFd0JjLUJaN0JGc29jcnllTmRLMnJ1ZnJnNTRUOHRSRElRc2tVRzlKZ1VQU25MUHZRRDdaejllcVNWbjR6SjhUeGZDVm1sekpiM3hlYnBfZ1JsQk1zZlQ?oc=5",
-   "source": "The Edge Singapore",
-   "published": "2026-11-25T22:47:00+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVctRUFVM1l4Z3VNRnhLZVN0dV9KMENjZW1wWWo4eXJycklOLTdJSkJNSm9qbTB4WDB5OUFsaktnUDc0V2JheDl0eUZoZk43bVpCMjhSTEFJeXNpeWhlc1FhZnhvOXN3Q3B4R0ppbkM3ZmJreFpEbUd3Y3A3WmxTY2Jla1RzSXUwekdNV1l4bnlZOEw3bG85TUt2S08wRm9FNkNlajRR?oc=5",
-   "source": "EnergyNow.com",
-   "published": "2026-11-25T22:40:34+00:00",
-   "theme": "Oil / Cmdty",
-   "tags": []
-  },
-  {
-   "title": "Goldman Sachs lays out three signals stock investors should watch",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMXRmLVh5bFg2MnR5V0l5c19BVU1SYXFxcHE0NDh3N2VBR3k2X19fZlg0RDNZQkNpZDBoUTExVmp0eGJiSHZnRHdCUE1mVnJvMjBwU01DNkNseVR3QTgtSU5JZnpqX0YyOHZpUHhEeW9MZXRmNU9HZ0RmQzZoOGtjdW5wUGJqbk1kLXUyQlRJSG5PUmo3VjlGcHJVcHVNNkI4LVE3US14eXZ1bUI0?oc=5",
-   "source": "TheStreet",
-   "published": "2026-11-25T22:37:00+00:00",
+   "title": "Charles Schwab (SCHW) Q1 2026 Earnings Call Transcript",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BdHFqancxSVotOU9JY3dmc0VqdGVjM3V4OHNueXRYc0liNTQwbXRNaGZFSEZ4cmNtbk1aRVFxZlZuSFNvdkNuWlpnR2w3UTBZTTd1R0YyUTUwbngxV1lPNk1FQnZvS1V2clNQQQ?oc=5",
+   "source": "Fortune",
+   "published": "2026-11-25T20:15:02+00:00",
    "theme": "Strategy",
    "tags": []
-  },
-  {
-   "title": "Banks Pull Back on AI Data-Center Loans",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUY5dlVuaVdYSVJnODZSOW42Y0hBMGtMZ3JmZGRKckNUZUpRWWZiMU1rTVdvWl9pX1h6Y2tCbkRHNDNuZHZqTGVwcnQzTS1KWlAzNUxYOU9BOEJJcXMyYVp4S2RScW81RDJfbHVqYjNnYzBxUzlhX1h0X29ReE9PRWpQQklFQ3dMaU1ybmlhTERKQQ?oc=5",
-   "source": "Briefs Finance",
-   "published": "2026-11-25T21:55:00+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "Stocks pare AI-driven losses as dip buyers step in",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFhtSkEzM2JoUUdhb2pOblRXOXZXaS1xSzdKNXpxcFZheklCcG1fcTNQRDFQeURQUUxjZ3laWHVRaFRUSFpGc1Nnc2xZbl95VEFKdTlXcDRyMFFnaUVqOFB4Y0o5cmVWTnY5LUl3dGVzZjNaV05VejZ2Y2xqZzFWZ3JyeUFUdTBzcHlYS0pzYnc4SldnYTlB?oc=5",
-   "source": "The Edge Singapore",
-   "published": "2026-11-25T21:46:51+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "Trump Doubles Down On Tariffs, But Key Stocks Shrug",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXFONlRkX29GcHZWMENXUDJTOENMU0s0QTN0bHJsS194RmVmNlFYd2J4U0lOUWxnLWM4UEtpVEZrMUlTYjQwTjY3SEREdnJiRElMU0ZDTTBTSFBwb2FrY001b2ZXZndZekdDMHNqUTgxR3U4eWdacC1EM0wxSTRlRTdn?oc=5",
-   "source": "Investor's Business Daily",
-   "published": "2026-11-25T21:24:00+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "Managing volatility in emerging markets",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYm5wTGpJakR2X3BIOUNBWk5PNWhtako4RUtXTVF2WEZWMkUwM08xSVV5VU5lbmJoUUZRMm0wWTZQSkxDSVpPVkNteUp1UnREOWVYYU1MVF9YaWo0R1R0S1U0bVBSWk9yVGMtMl9Ic254bThuNzVxdmx2dC1CSi1RNHd4Qk1yWFNWMzJFQmh2Sjctdkk4d2RBUWg2NEF1Y09YbFk4TFh5NWJMWl8wS3Z3cFdvQXNDZ3JWLUE?oc=5",
-   "source": "UBS",
-   "published": "2026-11-25T18:55:21+00:00",
-   "theme": "Flows",
-   "tags": []
-  },
-  {
-   "title": "Hong Kong Stock Exchange: Hang Seng Falls to 21,9666,01 Amid US Tariff and Geopolitical Tensions",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0pzdzJYOEU3V2xVcU9RempRTWk1Q0pJeUh2Ulp4QXdfMmgwTWtmdVpnREtOY1pZaXhoWWVwelJHM3ZMekE0NVhjN3VJVGpWUnJLYUpiWHRhYk12eU9idkdUQ0R3TExCN2ZYNHNJcVdrRG5EYWNMdng5bkRYdzN6akVEMV9GQlNXczdKN3JjbkdCOFpNSldfc2NSVlBhcE5DcDl1MlkwLUM0LTMxOXpRdGgtaF9tTzlQVGE3ZDhOU1FaSlNlLTdGN013?oc=5",
-   "source": "BBN Times",
-   "published": "2026-11-25T17:33:03+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "Hong Kong"
-   ]
-  },
-  {
-   "title": "Trade Setup For Nov. 26: Nifty Wipes 2026 Losses; Can Bulls Win The Crucial 26,000 Test?",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT0ZtVG9Gd0RFMy1OVmszSEpiNzdYMTdvT0xnN2VFVktKZVRkZ01ZYTVVZHhyMGlGRGJwRkVWN2JfMnVDT1lZalNjSUFTSkNZcGlBWGh6V2RSdmZ4Qm5VcUFEdl9zN1N6NU9OMncxZTRoNUhYdDc0bS1QSzlyaWxyMWhtLXp1TE1DN0UzZFl2aGptNmstZTNkQkFQclI5TzhLWGo2dUpNOWxJR0ZHclZaSmY1MFVZSTNxZjdOR0JTd0xRZ2xpanlZNWpMOG40OGlzcGdodm930gHeAUFVX3lxTE1rSkhjYS1rTjIyWElTcWFBaGoxTGVmOGhmM3lzTGNidVAyNlNJSUZnc0UzZ1pqRjRoVmRZVkhxX0JBcXBfVTc3MzQwTndpQzd2X3BRS1pFZDZTSVVTdlIxYnAySHVtM1FHLUVJWmp2azVFbkhaWUM2UEhNWVpDVS1LeHUxakc3VE1wMGtNU2o2aExTZUhzM0h5WXVTUXZjSlBYTXNDbUJYRm9DR0FrWnI2VHI4WWRodFk3NVByNkVuYzlsR25xMnNZb2tiV2t4TGRuUEQtRlg1dTZWUGhiZw?oc=5",
-   "source": "NDTV Profit",
-   "published": "2026-11-25T16:53:16+00:00",
-   "theme": "Flows",
-   "tags": [
-    "India"
-   ]
   },
   {
    "title": "JPMorgan sets an 8,200 target for the S&P 500 at the end of 2027, citing an intact AI supercycle",
@@ -926,88 +1101,14 @@
    "tags": []
   },
   {
-   "title": "GoodRx, Agios Pharmaceuticals, GRAIL, Absci, and Recursion Pharmaceuticals stocks trade down, what you need to know",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNY0ZTM3JSTkhSUWhzWHo4enp4REpiclA0QUlyMGdVTHc5SFc3ek02MnptTHlOelpwb3o3b1BCbjJrVDJ0WFVucTd6SllDTFVkbFNQYkVWc3lZUG85VWNrdkhtdmdpcHFYa2Vad1p2SDdKeWR1Tl9YN1BXdGJFUnZOcW5Xd0JVNU9fa0FLa1J1RWVaY1V1cDgtaXpEWDUyV3kwanJGRmFBXzM2eW9HZy1KOFhGR09rX2tjVld3bDRuSkMtc0xEd1puQ1l4MHExZ2VvMXgxUnVaMmUtMTU2Z2tSRmVBbGFiOTRnYm5oeFRoYkdadlNZcGxqUE96WGRNbWRqenc?oc=5",
-   "source": "StockStory",
-   "published": "2026-11-25T16:09:47+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "China's Shanghai Composite falls below 3,500 mark as tech stocks lead decline; turnover shrinks to 1.39 trillion yuan",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hU2lfOHVobUJCaVpwdlZJb0xSc2NZay1lX29mbENLSUpFaFRJS1ZCYUFJTFdORGpmWlVvajF5UmFhRU5MRWUzMWtyS3ZOQWJJOW50WVU4TFc2d0lvMGo1MWJicm96QjBuMFlaRzIzNEdudXFfTlE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-25T16:06:53+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "China"
-   ]
-  },
-  {
-   "title": "TTM Technologies, Cognex, Ouster, Rigetti Computing, and Aeva Technologies shares plummet, what you need to know",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObFdsOTd0ekRvN1FwOFpidWg1dk5yWm80Z1laYmJ3SWZxSXdJc29jZFZaazA1YVdfV0FTYlhrbnN6X2FBYjBkQnl2S0hrYWNKVS13M0U4eHJlbFc3dk4ybGxtZmhFeGZkUzduWVY5T2h2R21ITDVfaVg0Q2VwQU84WHZUd25EcDBudGt0cXNMZmRqbmdVYUduX1VUMldURVlkUjZOVHRMbTZneWdFbkVnV3J0SE5oUGlFazRPZXY3djBWRXVwVWJ3bU16X1NUY053SHJfSDFrUFVZcWtkU1o5aVdKd2tHd3h3VjZlRWlodmhBck5hQVZEU0stSnMtUQ?oc=5",
-   "source": "StockStory",
-   "published": "2026-11-25T15:39:38+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "Axcelis Technologies, Ambiq Micro, Intel, Monolithic Power Systems, and Kulicke and Soffa shares plummet, what you need to know",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYkxUR0FqZElxSnhSS0ZMS3FTa0Q5MmhTRnNvS3ExTW56LTVZVS1aU3Z0VGdSVEVzTDExRE5nV1AtSFlwQUxKUVlHN24weUc1RHBfNzZ5VS1lM3JJWlMtc3BuakNyd2ltTkxCQ1BvNjJJM2ZFemJoYy1SMGowXzdoWkRLSGd6d0pxamxQSm1wWmo2QVBHYWg0WEhibjJXeC1ScUNCTzZXMVg1cFpVYmJOY2FXTktNWjRsb3N0TGd6LWhnTVZxLWJKRGtRT2Z5b3FRRldWVVFobllQREdmcVhUbzFOdS1rczBBTVlRT0ZrNWI1RXNUWktqYlNlV1Fud0RFUHdMM2ZsZzMwMDcwa2RaS3lB?oc=5",
-   "source": "StockStory",
-   "published": "2026-11-25T15:39:37+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "Hesai Group and PAR Technology shares are falling, what you need to know",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkhIMVhYMGxtSksyMEJnWTF0WHpsYTlmUHp4VjUxbGlNaHNLck9vazFXalczdk9TUEp5RWEyeWxZblUyUVdNR1dxU0lMOFRyOGpjZHlrdnRZMVJtR0Z4R0ctSVlhWHA0R2VXaV9nTk16b2tua296c1RQbF8wdG9XME5GX0dMbGdzeTF2bXQ3UFExeFhsaFZ2V3RVbTRUTXVrMk44WVViY1pyZ0NNNDlHa3ZaYkNPTWpHN3NpNk5uZjVDYjRsWWEyZnd6ZTRGZw?oc=5",
-   "source": "StockStory",
-   "published": "2026-11-25T15:39:37+00:00",
-   "theme": "ASEAN / Aus",
-   "tags": []
-  },
-  {
-   "title": "HBM Prices to Double, Customers Diversify",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDJpNEJEd2xPcV9GZmVEMDFwWGdJek5zNlpwRDRMRmYza0VSaXFpcVFoZnFxNWZtYzd5aF9xaWxnbEFta3NCWHR6T3M2R3FDNVZSZ0Q4c0ZrQ3JNS2I2bVRYZUZlUkg1MjVaeTZvNjQ4V1NUX0wtT2RoVDliNEVnYzhMQUxpeFZ0?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-25T15:37:45+00:00",
-   "theme": "AI capex",
-   "tags": []
-  },
-  {
    "title": "Axis Bank to host analyst and investor meet in Mumbai on November 30",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3lOTHN2TUtZT0J2OXBqMzBiNTlidVBidWgwYUtqbkNpLXpDTFhueDFqbWlTOEV1RDExU0F2d1hjY3NfSG05SXVlbEJpQ3Y2b2lkbzV3MzRxNm9QVE43amZYNkE5Qkt6T3liTU5CU3BSeXFOT2VscGt3Q1F2NC1XS1MweTh4V3hNWFg0TTlNRzBqQ0ZZaWNxNE9oQmpvd1h4djBmZ3hHeXc4LWRTY1RzYy13?oc=5",
    "source": "scanx.trade",
-   "published": "2026-11-25T15:26:54+00:00",
+   "published": "2026-11-25T15:56:54+00:00",
    "theme": "Strategy",
    "tags": [
     "India"
    ]
-  },
-  {
-   "title": "Large-Caps Or Small-Caps? What The $14 Billion FII Surge Means For Your Portfolio",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMVVPQ1pDUFJYSDZvVmwwLWJZUHQ3Y1FsVXBsY0V6azUxLXNSTERraUVZblZtRU5XNFdTQW8td3VQZk5qR3d3RURfZE9PQmlITEE2OW1RRVlmLThZS3V4TDRMNm1ha21saWsxMERpMHFfVWJXUG5vdmFDQ2JDSlpVaFd2a1A5SGNGYmRIOUUtN3Z2VmxGUk5oX3EwcnE3TW5seUNvTTBORE1STmUtTEFPcE8zakdhOHJfR2JVVXNEeU_SAcgBQVVfeXFMTzU2b0JqSnpSZmd5RE1hYjMwQzhMaUJfTVBRMUo3a2ktcGw2V1gxdzVvM2RzUXdJems1ZzN4S2FKa2ZJQVotODAzUUhIYXdReXV2QW9BTFY0M01melRqT1FkaVZLTmxET1NsSFJiWTZXeW00MERleTNCZkEySmxqb0dxRFl6UHNEN0pNc1dBUVg3Q0VEeXJxdDE1Y3NSaDZqRkRmTktzZ1kxUWItN3JWaXlnVXJPbG1hVFNkWlo1UFhHeUtNeEdzUWQ?oc=5",
-   "source": "NDTV Profit",
-   "published": "2026-11-25T14:43:29+00:00",
-   "theme": "Flows",
-   "tags": []
-  },
-  {
-   "title": "Greenback Remains Bid As Stocks Suffer And Rates Fall",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTR5SDg1VzA5YWpiUWVIckw5anZDcDFiSEoxZjF0R1NCOUcxdjBRbC1MejRfXzNqM090dnQ5aE5Xb1p0OFFFQXZyYXZXOWw4OWVVRkVSaGhqM1lpTWRvNzNFM3FiLVNfN0xySnJaVkx3dEw5Z0hYOGYzNUpkLUE3RENGeU5NNjFkRHpSRzVZN3k5WWt3U05YLW8wRHNOUzNGRUFRQnp3VUVvclhvaVE?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-11-25T14:22:00+00:00",
-   "theme": "China / HK",
-   "tags": []
-  },
-  {
-   "title": "NVIDIA Faces Booming Demand Despite Woes As B300 Lead Times Reportedly Stretch To 40 Weeks For New Orders & GB300 Buyers Now Face 14 To 26 Weeks, Says Report",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZWtiT1R0RW1tenJkOW84M2pLMFBfWFhiaElyc25SamlNSERKbjJwV1pHMkdVVnVoX0lHbmF3VGZvS21oTm1ZdnFPcDY4NVdLUFVDWTQ5TUNlcHpOZDFvMlFuUWpUbi10OU8wZ1JJU1hRSEp3TzVIQ1BralVRX3lRNnNhTVZKSllmdVRieDdWTDdHNUNLLVFxSXUtWXZ2OE9memlCQThYaXFJNk1LMmFyel9IWU10WncwR1IxNFFhTFNmSjlQRmpDZFViX0RuV2ZyeFFLQUhSdWJXLUU2M25nXy1lcVE3OFQ1Wk1iUF9qMTBybWpZbXNHem1VRGJQLXZGOERGTFFqVdIBjAJBVV95cUxQQ0xKb1ZrSW01TWoxQnNmZUM2QmxXTVJMelduT3RFT2RwMVlXeWNZcFk4aHhqeERmVmxPeFZGR2dCTkNibnY1VVNhU245Mzk0ZkpDcVBRR2tIQnZlVlh3RXBUd2d4UTZ0TnM5S1B0bU1nY0lVbk5XdUdDNU5HRzZ6OGRxVWdNNWpTU3dfSW5UZWtoNVJjSTlTdnN5VnR2ci1KeXIxQXdCS1dIZUVEV2tneFhuaDAwZTkwRlI0N3Z4SHg2WjI1UUlQOHFDSGVBWEZiY2NzOHZlcjBoaTNDV1YybDhGTkMxWW1mYW1tT2dwcGdXeS14TlNvaHF6SG5Hb2ZYd3d1UEdtOUhMdWR2?oc=5",
-   "source": "Wccftech",
-   "published": "2026-11-25T12:39:34+00:00",
-   "theme": "AI capex",
-   "tags": []
   },
   {
    "title": "RGP names two strategic advisors for Europe and Asia Pacific By Investing.com",
@@ -1028,59 +1129,13 @@
    ]
   },
   {
-   "title": "Technology Selloff Deepens as China Challenges US Tariff Plans",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4YWhvbl9qSjU4b1B6aHNPVTNVYjJUNHVfMWRLNHJ2LVVFdmJUNmRrN3BlMk5jeUpzY3pTTHZ5TzFRb2cxOWJrV21TakVETnNwcTRGYVNScWxFLWFpTERrQkZEU1VnMU5DSUFHNUZ4dw?oc=5",
-   "source": "bsinews.id",
-   "published": "2026-11-25T12:04:15+00:00",
-   "theme": "China / HK",
-   "tags": [
-    "China"
-   ]
-  },
-  {
-   "title": "US Plans New Tariffs as Global Technology Stocks Slide",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kbE43T1FyN1QyeE1VNVRBLXJmeDhsLVpFOU5sQ0dQNGo2T1E5b2VrdThwQ04zdUVpbVRySFh2aUxoUEZkZTBHUlNrMTVZZTFXSGdlcGFwZnl0ZTBfQkd6eW1jLW9WeGc?oc=5",
-   "source": "Demokratis.co.id",
-   "published": "2026-11-25T12:03:07+00:00",
-   "theme": "China / HK",
-   "tags": []
-  },
-  {
-   "title": "Market Movers blog: Markets wobble on dip in Nvidia and TSMC as Huang comeback euphoria ebbs",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-   "source": "Investment Week",
-   "published": "2026-11-25T11:22:06+00:00",
-   "theme": "Strategy",
-   "tags": [
-    "Taiwan"
-   ]
-  },
-  {
-   "title": "Market convulsions create a US$375 bil winner: India",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYS1BTk53SlVWOEJ4andNTGthYkFXRE5jYUJWanlxR3RJblhZTjJWRGpNRm1NdVpMcGxFRkJvYmtNNHdBQW1pMGY0RVNqVFBoZUZvWUVDd0FyaTZxRVBKRnhTS25sZnlQcXgzN1RYOVVxaVItY2NCSGhNQWlBQTlwaU5YZFVnU2FFYmV0Q0dTN053bjZVSU1nb3k5YndfdTBOWHRLZkstU28?oc=5",
-   "source": "The Edge Singapore",
-   "published": "2026-11-25T10:32:39+00:00",
+   "title": "Indian Stocks Extend World-Beating Run as AI Selloff Resumes",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZG9UVkhkdlhpa1RGRVRCNHl0eW5RdHUxWGhRSXdrUWFXMHZqbTg4TnU3Q2huOGNjblBBbG1qNHUxUERKQ0NvZEpIajFESTZCaWx1NjFGdFU3SWRldUJvcEV2N3ZyTnR6UXFMTFUxeExJSUJrSmk3N0RQMFRJaWZERUoxd3k2WnNPVnpQTUJzZGI5dEZ1Vi1RSXp4anlFLXl3ckM5eHdQNnZNZ2d1M0VNVQ?oc=5",
+   "source": "Bloomberg",
+   "published": "2026-11-25T10:34:43+00:00",
    "theme": "Strategy",
    "tags": [
     "India"
-   ]
-  },
-  {
-   "title": "HBM Takes 23% of DRAM Wafers, Nears 30% by 2027",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJoa1haNmFBOVhWdWlSVFFHV0ZDNVNQaUhWMmZleF9qeTVGa0c0V0dySmVVVzk3RXhaTERiMThHS0hhbFZPMFZOcUhibTNrSWkzZ2lDOHU0QWNCYU96eGFIdk9EQnpVb05NaXIwQnZHTHZXYnJUNnc4TV9fQUxXSlJUeEdseTB1WHBKTlBlWnlQcVROR0dRb3VrV2pHdw?oc=5",
-   "source": "shattered.io",
-   "published": "2026-11-25T10:21:25+00:00",
-   "theme": "AI capex",
-   "tags": []
-  },
-  {
-   "title": "Huang's return stabilises Nvidia's Korean chip partnerships, but diversification remains key: Report",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVjd0bi0zQjNyS3VCdlp4ZldjeUMwZEZNOWtGZnc2bE5NT0E3akxXdEdDOGF4dDBqaENQeW5WblVmQnJjOHhmcXJpbkExYmlvSndJOWRLVDRWbTktUWdCNEtHNFZyUm5iUWZBZlhzU2RXc2cyMUZuMjAzbzltZDdfcDJoendXalhwRzJuZ2FIMDhjbk5sVDBDZHJoMXlOS2IxTTRReDU1ZTJGaFZkY21RRi0zXy1BUEhmcmZGZlYtbzV6YnNaNVNCZ3F5U3d2OThRMjVUZjlaYWxURzNWdlloWDczSXpGSTFsQU1neDdrTHJVMllVQ0M1ajM0bl9GNGfSAYQCQVVfeXFMTllLQXBseGJVbzh4cUpnSTBrMThFRUNSSGxBeDVlYm5hVWlyYjFPQWFUN19mZk1pRjhZOGJ6SGNNTVNRMUhTWmJlWFpRdXBzUms5bXZsd0NPeU9YMm5mZGhwWFhCbUZ2YWpOWmgyY1Itb0h4TzF5SVFQVTg2WHJ6VjZQUFVyTW9jUG1vMFkzRHpxWHFPYmQ0eXF5X05qSzRoZGNScFhESGZXNDVXREdlUGc2V2ZCUl9kbTJhN0RvNjJOaDEtUHNnN3JNZDVFd3k2SWtscWNHVEY1RHZMNUQwRzE0ZXNqVmsxTEFjQnhlTkpWazJVLXZJaEZtNUpVQXplMXItY0U?oc=5",
-   "source": "ET Enterprise AI",
-   "published": "2026-11-25T10:05:09+00:00",
-   "theme": "AI capex",
-   "tags": [
-    "Korea"
    ]
   },
   {
@@ -1089,78 +1144,6 @@
    "source": "Quantisnow",
    "published": "2026-11-25T09:06:27+00:00",
    "theme": "Strategy",
-   "tags": []
-  },
-  {
-   "title": "JPMorgan Humanoid Robot Research Report: Raises Unitree Robotics Price Target to RMB 1,060, Upgrades UBTECH Robotics to…",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPam05YVNJekQxT09lVTJJY2VRMERxV3BPcGNFbUNCUjlGMEwyY2s3RmtjM1RDVHVOUWt4eTNhb3pPZDF6aHFRcnI1Y0Q5Wi1hTjNIRDZoWVVxaC1jZXgxanpGUE53Yk9JbkpHTFJUZm15SThBYjlEV3ZsT3BrSi1mdWhWRlpnVW11YWtEQUdpM0VPaW9NYWlSenBtaFoxX0g5Y0NWNWZlbzQ3N1NicloyWldkT0I?oc=5",
-   "source": "深潮TechFlow",
-   "published": "2026-11-25T07:09:32+00:00",
-   "theme": "Strategy",
-   "tags": []
-  },
-  {
-   "title": "Stock Market Rally: Sensex Skyrockets As Foreign Investors Pour Billions Into Indian Tech Stocks",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kN0xxU2pYclo1RVZkaUJXOUFGVTVyLUF5MGpRdHRhbmlaYjg1bXB6MHREOU9PclIwa2ZUeTBDcE5qME44MzE1UDBDaVVoWnJJcy0w?oc=5",
-   "source": "شبكة تواصل الإخبارية",
-   "published": "2026-11-25T06:11:56+00:00",
-   "theme": "Flows",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Bulls regain control: Sensex gains 1,700 pts, Nifty near 25,850; key factors behind market rally",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDdKSUFiM1FnZ2JvZWhyUWVXUUlkRk5EOGxmM2JmbVZZYUlCQnZ2cEc0eklzMmpWOERHUmd0VGV3dWc3blo2dzNmdFcwNXF6WGRURVdKb1Bxa25OYTNPY1p5TTJ4d0pDV3ptZ2pFRm5NRDUxejVDcVVJMW8tNkY5QWk0TXA0bkY0aXhneVpGY3NwUzNzQXVad1duUkR6NG5YMUJzR0pEazVrcl93SmFJdHpNWHJPT2V1QjVFX09NbUtYdmE5eHVRYXZoQXdYOE1reE15QjdseXg0WGFqT0hVR1FjVUl4YnpiNmZXYg?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-25T04:03:00+00:00",
-   "theme": "Flows",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "Debate Over AI Memory Boom's Peak Intensifies as Micron Price Target Halved, Chip Stocks Waver",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ra2ZhbFNXcjh5X0hLU0Nyc1FuNXdjc0JYeFhOb2pUa3JXbkNRQ1JQRUhkRGpWYkZqOE9fbmZCYU1TR1k5djlsOVE2WG5aT280YnpkWS10WTNFLXY0cGF6OGxodFJqcm1JeXBHX0FjU21CNVNZOFE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-25T02:55:00+00:00",
-   "theme": "AI capex",
-   "tags": []
-  },
-  {
-   "title": "Indian stocks close to wiping out 2026 losses as foreign money floods back",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUlQam9xSF9JMnNpU2k0QVJHYTkwNEIyQ3ZMbGFyajBJYmczT2RXaGNWMnlHckJ6TlBSLVNQdEFpRWE4MXdUVVIyWmF0YnhoN2FlTXIzMEY2QzVmeVdnRTVQXy0tQ0JzazhDTkpabWszMFlOTE5jdUxfVXF2TWlkSUZCd3hvbkI1UFVueG83MUEtdUp2OElDT2pJNkVYLWRMWFlieHl0ei1mSmxiNHI3RERaUTJtWWpNWVZTMEFYaURFQQ?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-25T02:17:00+00:00",
-   "theme": "Flows",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "HBM Prices to More Than Double with Big Tech Entry",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmVKN3Fsd3hJSllJSzd1dTZaUUM1RmRxY1BsTURiZjFIZ01ZTVlQRmFLM1RBeVE5MnU4cXFHUUpQMVU5Z3laUW5DTXM2QXNnUnhJaGQzRF9sNzNHVG1nN1JwekhzZDlpM3o5SFh1TUNoamRRNkxuTmphTVN3NlZRd0tDZ2FhX2xY?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-25T02:16:06+00:00",
-   "theme": "AI capex",
-   "tags": []
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang's Return Revives AI Trade: Will Indian IT Stocks Benefit Or Lose FPI Money?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1ZPdVhiMmg3LUVqelVlaU12dHJ4LXFDM21iQjlfbmpHNmtBR1R4UHRFcklNOTR4Z3lwaU5XeEVnX0Z0cndCUnFHbVo1azdkME9tVjBldUZqNFF5QVNtdXZSMjBuQmJrODhfM2RWWFY3YVUtc3dsRGRMZTNTNXFqNW0xdnpjTkJpRmlYXzFaQUlrNHRUYmJLUkZ0eG1RWmNZNXfSAa8BQVVfeXFMT0NCd0drYkpCZUpXZ2kwRlZnelhjUE9hRDhFMjYwb3hrM242aWFwSXNQNW5aUXZzcXFib0FRT05fVlRHVHc4Y25XV3ZlbFdQTzYyY0VVVl9kQzhoMHRLbnBrejJiZlR5N3pWVExyeEZENjVJNFJzVW5ra1FFN2w2VTFWRk9Wc1JVbjJ0VzJTR2N4QllMc1E4dDJZY2tiZFZDVkNqeV9MMkpjcFM4VzYydw?oc=5",
-   "source": "Outlook Money",
-   "published": "2026-11-24T11:46:34+00:00",
-   "theme": "Flows",
-   "tags": [
-    "India"
-   ]
-  },
-  {
-   "title": "FIIs pour Rs 1.21 lakh crore into equities in November; financials attract biggest inflows: Report",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdmZUQkFYV2t4UU43RFhUYUk4eENDUmR2RmdqYWhHcjEycDROYVBLWGJfc1pxRlZvUkNjRHg1LWhRYkRCQkE4SzcwR1VZWDVkVUMyQkNCTVE0ZTRHd0ZhQnh3OTBocktGRnFjOWw3bWFKUm5fd1k3b3dndFdwTEdvZDZwdWprVU51X1RmWUdqc090REQ0MFBpSWVwUkUyRWx0YVpDdG9GQmJ3aGVFdFdaSzJFMW1BYm5OR3ViQW9QN0VqZ0JCT2FqcXMzQkNXR1VkQmJ0bzU4YW1qRnF6UHBIZGRUck8wYk90V0hQZ1FiLWtwcmfSAfMBQVVfeXFMTXZmVEJBWFdreFFON0RYVGFJOHhDQ1JkdkZnamFoR3IxMnA0TmFQS1hiX3NacUZWb1JDY0R4NS1oUWJEQkJBOEs3MEdVWVg1ZFVDMkJDQk1RNGU0R3dGYUJ4dzkwaHJLRkZxYzlsN21hSlJuX3dZN293Z3RXcExHb2Q2cHVqa1VOdV9UZllHanNPdERENDBQaUllcFJFMkVsdGFaQ3RvRkJid2hlRXRXWksyRTFtQWJuTkd1YkFvUDdFamdCQk9hanFzM0JDV0dVZEJidG81OGFtakZxelBwSGRkVHJPMGJPdFdIUGdRYi1rcHJn?oc=5",
-   "source": "Business Today",
-   "published": "2026-11-24T11:11:08+00:00",
-   "theme": "Flows",
    "tags": []
   }
  ]
